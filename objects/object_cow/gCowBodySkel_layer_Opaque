@@ -1,0 +1,6 @@
+<DisplayList Version="0">
+	<CallDisplayList Path="objects/object_cow/mat_gCowBodySkel_CowBody_layerOpaque"/>
+	<CallDisplayList Path="objects/object_cow/gCowBodySkel_layer_Opaque_tri_0"/>
+	<EndDisplayList/>
+</DisplayList>
+

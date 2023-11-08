@@ -1,0 +1,7 @@
+<Skeleton Version="0" Type="Flex" LimbCount="5" DisplayListCount="5">
+	<SkeletonLimb Path="objects/object_cow/gCowBodySkelLimb_000"/>
+	<SkeletonLimb Path="objects/object_cow/gCowBodySkelLimb_001"/>
+	<SkeletonLimb Path="objects/object_cow/gCowBodySkelLimb_002"/>
+	<SkeletonLimb Path="objects/object_cow/gCowBodySkelLimb_003"/>
+	<SkeletonLimb Path="objects/object_cow/gCowBodySkelLimb_004"/>
+</Skeleton>

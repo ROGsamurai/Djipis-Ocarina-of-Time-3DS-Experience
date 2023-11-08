@@ -1,0 +1,23 @@
+<Skeleton Version="0" Type="Flex" LimbCount="21" DisplayListCount="21">
+	<SkeletonLimb Path="objects/object_jj/gJabuJabuSkelLimb_000"/>
+	<SkeletonLimb Path="objects/object_jj/gJabuJabuSkelLimb_001"/>
+	<SkeletonLimb Path="objects/object_jj/gJabuJabuSkelLimb_002"/>
+	<SkeletonLimb Path="objects/object_jj/gJabuJabuSkelLimb_003"/>
+	<SkeletonLimb Path="objects/object_jj/gJabuJabuSkelLimb_004"/>
+	<SkeletonLimb Path="objects/object_jj/gJabuJabuSkelLimb_005"/>
+	<SkeletonLimb Path="objects/object_jj/gJabuJabuSkelLimb_006"/>
+	<SkeletonLimb Path="objects/object_jj/gJabuJabuSkelLimb_007"/>
+	<SkeletonLimb Path="objects/object_jj/gJabuJabuSkelLimb_008"/>
+	<SkeletonLimb Path="objects/object_jj/gJabuJabuSkelLimb_009"/>
+	<SkeletonLimb Path="objects/object_jj/gJabuJabuSkelLimb_010"/>
+	<SkeletonLimb Path="objects/object_jj/gJabuJabuSkelLimb_011"/>
+	<SkeletonLimb Path="objects/object_jj/gJabuJabuSkelLimb_012"/>
+	<SkeletonLimb Path="objects/object_jj/gJabuJabuSkelLimb_013"/>
+	<SkeletonLimb Path="objects/object_jj/gJabuJabuSkelLimb_014"/>
+	<SkeletonLimb Path="objects/object_jj/gJabuJabuSkelLimb_015"/>
+	<SkeletonLimb Path="objects/object_jj/gJabuJabuSkelLimb_016"/>
+	<SkeletonLimb Path="objects/object_jj/gJabuJabuSkelLimb_017"/>
+	<SkeletonLimb Path="objects/object_jj/gJabuJabuSkelLimb_018"/>
+	<SkeletonLimb Path="objects/object_jj/gJabuJabuSkelLimb_019"/>
+	<SkeletonLimb Path="objects/object_jj/gJabuJabuSkelLimb_020"/>
+</Skeleton>
