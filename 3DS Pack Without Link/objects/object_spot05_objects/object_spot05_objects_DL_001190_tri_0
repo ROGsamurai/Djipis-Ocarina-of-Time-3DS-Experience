@@ -1,0 +1,264 @@
+<DisplayList Version="0">
+	<LoadVertices Path="objects/object_spot05_objects/object_spot05_objects_DL_001190_vtx_0" VertexBufferIndex="0" VertexOffset="0" Count="30"/>
+	<Triangles2 V00="0" V01="1" V02="2" Flag0="0" V10="3" V11="4" V12="5" Flag1="0"/>
+	<Triangles2 V00="6" V01="7" V02="8" Flag0="0" V10="9" V11="10" V12="11" Flag1="0"/>
+	<Triangles2 V00="12" V01="13" V02="14" Flag0="0" V10="15" V11="16" V12="17" Flag1="0"/>
+	<Triangles2 V00="18" V01="19" V02="20" Flag0="0" V10="21" V11="22" V12="23" Flag1="0"/>
+	<Triangles2 V00="24" V01="25" V02="26" Flag0="0" V10="27" V11="28" V12="29" Flag1="0"/>
+	<LoadVertices Path="objects/object_spot05_objects/object_spot05_objects_DL_001190_vtx_0" VertexBufferIndex="0" VertexOffset="30" Count="30"/>
+	<Triangles2 V00="0" V01="1" V02="2" Flag0="0" V10="3" V11="4" V12="5" Flag1="0"/>
+	<Triangles2 V00="6" V01="7" V02="8" Flag0="0" V10="9" V11="10" V12="11" Flag1="0"/>
+	<Triangles2 V00="12" V01="13" V02="14" Flag0="0" V10="15" V11="16" V12="17" Flag1="0"/>
+	<Triangles2 V00="18" V01="19" V02="20" Flag0="0" V10="21" V11="22" V12="23" Flag1="0"/>
+	<Triangles2 V00="24" V01="25" V02="26" Flag0="0" V10="27" V11="28" V12="29" Flag1="0"/>
+	<LoadVertices Path="objects/object_spot05_objects/object_spot05_objects_DL_001190_vtx_0" VertexBufferIndex="0" VertexOffset="60" Count="30"/>
+	<Triangles2 V00="0" V01="1" V02="2" Flag0="0" V10="3" V11="4" V12="5" Flag1="0"/>
+	<Triangles2 V00="6" V01="7" V02="8" Flag0="0" V10="9" V11="10" V12="11" Flag1="0"/>
+	<Triangles2 V00="12" V01="13" V02="14" Flag0="0" V10="15" V11="16" V12="17" Flag1="0"/>
+	<Triangles2 V00="18" V01="19" V02="20" Flag0="0" V10="21" V11="22" V12="23" Flag1="0"/>
+	<Triangles2 V00="24" V01="25" V02="26" Flag0="0" V10="27" V11="28" V12="29" Flag1="0"/>
+	<LoadVertices Path="objects/object_spot05_objects/object_spot05_objects_DL_001190_vtx_0" VertexBufferIndex="0" VertexOffset="90" Count="30"/>
+	<Triangles2 V00="0" V01="1" V02="2" Flag0="0" V10="3" V11="4" V12="5" Flag1="0"/>
+	<Triangles2 V00="6" V01="7" V02="8" Flag0="0" V10="9" V11="10" V12="11" Flag1="0"/>
+	<Triangles2 V00="12" V01="13" V02="14" Flag0="0" V10="15" V11="16" V12="17" Flag1="0"/>
+	<Triangles2 V00="18" V01="19" V02="20" Flag0="0" V10="21" V11="22" V12="23" Flag1="0"/>
+	<Triangles2 V00="24" V01="25" V02="26" Flag0="0" V10="27" V11="28" V12="29" Flag1="0"/>
+	<LoadVertices Path="objects/object_spot05_objects/object_spot05_objects_DL_001190_vtx_0" VertexBufferIndex="0" VertexOffset="120" Count="30"/>
+	<Triangles2 V00="0" V01="1" V02="2" Flag0="0" V10="3" V11="4" V12="5" Flag1="0"/>
+	<Triangles2 V00="6" V01="7" V02="8" Flag0="0" V10="9" V11="10" V12="11" Flag1="0"/>
+	<Triangles2 V00="12" V01="13" V02="14" Flag0="0" V10="15" V11="16" V12="17" Flag1="0"/>
+	<Triangles2 V00="18" V01="19" V02="20" Flag0="0" V10="21" V11="22" V12="23" Flag1="0"/>
+	<Triangles2 V00="24" V01="25" V02="26" Flag0="0" V10="27" V11="28" V12="29" Flag1="0"/>
+	<LoadVertices Path="objects/object_spot05_objects/object_spot05_objects_DL_001190_vtx_0" VertexBufferIndex="0" VertexOffset="150" Count="30"/>
+	<Triangles2 V00="0" V01="1" V02="2" Flag0="0" V10="3" V11="4" V12="5" Flag1="0"/>
+	<Triangles2 V00="6" V01="7" V02="8" Flag0="0" V10="9" V11="10" V12="11" Flag1="0"/>
+	<Triangles2 V00="12" V01="13" V02="14" Flag0="0" V10="15" V11="16" V12="17" Flag1="0"/>
+	<Triangles2 V00="18" V01="19" V02="20" Flag0="0" V10="21" V11="22" V12="23" Flag1="0"/>
+	<Triangles2 V00="24" V01="25" V02="26" Flag0="0" V10="27" V11="28" V12="29" Flag1="0"/>
+	<LoadVertices Path="objects/object_spot05_objects/object_spot05_objects_DL_001190_vtx_0" VertexBufferIndex="0" VertexOffset="180" Count="30"/>
+	<Triangles2 V00="0" V01="1" V02="2" Flag0="0" V10="3" V11="4" V12="5" Flag1="0"/>
+	<Triangles2 V00="6" V01="7" V02="8" Flag0="0" V10="9" V11="10" V12="11" Flag1="0"/>
+	<Triangles2 V00="12" V01="13" V02="14" Flag0="0" V10="15" V11="16" V12="17" Flag1="0"/>
+	<Triangles2 V00="18" V01="19" V02="20" Flag0="0" V10="21" V11="22" V12="23" Flag1="0"/>
+	<Triangles2 V00="24" V01="25" V02="26" Flag0="0" V10="27" V11="28" V12="29" Flag1="0"/>
+	<LoadVertices Path="objects/object_spot05_objects/object_spot05_objects_DL_001190_vtx_0" VertexBufferIndex="0" VertexOffset="210" Count="30"/>
+	<Triangles2 V00="0" V01="1" V02="2" Flag0="0" V10="3" V11="4" V12="5" Flag1="0"/>
+	<Triangles2 V00="6" V01="7" V02="8" Flag0="0" V10="9" V11="10" V12="11" Flag1="0"/>
+	<Triangles2 V00="12" V01="13" V02="14" Flag0="0" V10="15" V11="16" V12="17" Flag1="0"/>
+	<Triangles2 V00="18" V01="19" V02="20" Flag0="0" V10="21" V11="22" V12="23" Flag1="0"/>
+	<Triangles2 V00="24" V01="25" V02="26" Flag0="0" V10="27" V11="28" V12="29" Flag1="0"/>
+	<LoadVertices Path="objects/object_spot05_objects/object_spot05_objects_DL_001190_vtx_0" VertexBufferIndex="0" VertexOffset="240" Count="30"/>
+	<Triangles2 V00="0" V01="1" V02="2" Flag0="0" V10="3" V11="4" V12="5" Flag1="0"/>
+	<Triangles2 V00="6" V01="7" V02="8" Flag0="0" V10="9" V11="10" V12="11" Flag1="0"/>
+	<Triangles2 V00="12" V01="13" V02="14" Flag0="0" V10="15" V11="16" V12="17" Flag1="0"/>
+	<Triangles2 V00="18" V01="19" V02="20" Flag0="0" V10="21" V11="22" V12="23" Flag1="0"/>
+	<Triangles2 V00="24" V01="25" V02="26" Flag0="0" V10="27" V11="28" V12="29" Flag1="0"/>
+	<LoadVertices Path="objects/object_spot05_objects/object_spot05_objects_DL_001190_vtx_0" VertexBufferIndex="0" VertexOffset="270" Count="30"/>
+	<Triangles2 V00="0" V01="1" V02="2" Flag0="0" V10="3" V11="4" V12="5" Flag1="0"/>
+	<Triangles2 V00="6" V01="7" V02="8" Flag0="0" V10="9" V11="10" V12="11" Flag1="0"/>
+	<Triangles2 V00="12" V01="13" V02="14" Flag0="0" V10="15" V11="16" V12="17" Flag1="0"/>
+	<Triangles2 V00="18" V01="19" V02="20" Flag0="0" V10="21" V11="22" V12="23" Flag1="0"/>
+	<Triangles2 V00="24" V01="25" V02="26" Flag0="0" V10="27" V11="28" V12="29" Flag1="0"/>
+	<LoadVertices Path="objects/object_spot05_objects/object_spot05_objects_DL_001190_vtx_0" VertexBufferIndex="0" VertexOffset="300" Count="30"/>
+	<Triangles2 V00="0" V01="1" V02="2" Flag0="0" V10="3" V11="4" V12="5" Flag1="0"/>
+	<Triangles2 V00="6" V01="7" V02="8" Flag0="0" V10="9" V11="10" V12="11" Flag1="0"/>
+	<Triangles2 V00="12" V01="13" V02="14" Flag0="0" V10="15" V11="16" V12="17" Flag1="0"/>
+	<Triangles2 V00="18" V01="19" V02="20" Flag0="0" V10="21" V11="22" V12="23" Flag1="0"/>
+	<Triangles2 V00="24" V01="25" V02="26" Flag0="0" V10="27" V11="28" V12="29" Flag1="0"/>
+	<LoadVertices Path="objects/object_spot05_objects/object_spot05_objects_DL_001190_vtx_0" VertexBufferIndex="0" VertexOffset="330" Count="30"/>
+	<Triangles2 V00="0" V01="1" V02="2" Flag0="0" V10="3" V11="4" V12="5" Flag1="0"/>
+	<Triangles2 V00="6" V01="7" V02="8" Flag0="0" V10="9" V11="10" V12="11" Flag1="0"/>
+	<Triangles2 V00="12" V01="13" V02="14" Flag0="0" V10="15" V11="16" V12="17" Flag1="0"/>
+	<Triangles2 V00="18" V01="19" V02="20" Flag0="0" V10="21" V11="22" V12="23" Flag1="0"/>
+	<Triangles2 V00="24" V01="25" V02="26" Flag0="0" V10="27" V11="28" V12="29" Flag1="0"/>
+	<LoadVertices Path="objects/object_spot05_objects/object_spot05_objects_DL_001190_vtx_0" VertexBufferIndex="0" VertexOffset="360" Count="30"/>
+	<Triangles2 V00="0" V01="1" V02="2" Flag0="0" V10="3" V11="4" V12="5" Flag1="0"/>
+	<Triangles2 V00="6" V01="7" V02="8" Flag0="0" V10="9" V11="10" V12="11" Flag1="0"/>
+	<Triangles2 V00="12" V01="13" V02="14" Flag0="0" V10="15" V11="16" V12="17" Flag1="0"/>
+	<Triangles2 V00="18" V01="19" V02="20" Flag0="0" V10="21" V11="22" V12="23" Flag1="0"/>
+	<Triangles2 V00="24" V01="25" V02="26" Flag0="0" V10="27" V11="28" V12="29" Flag1="0"/>
+	<LoadVertices Path="objects/object_spot05_objects/object_spot05_objects_DL_001190_vtx_0" VertexBufferIndex="0" VertexOffset="390" Count="30"/>
+	<Triangles2 V00="0" V01="1" V02="2" Flag0="0" V10="3" V11="4" V12="5" Flag1="0"/>
+	<Triangles2 V00="6" V01="7" V02="8" Flag0="0" V10="9" V11="10" V12="11" Flag1="0"/>
+	<Triangles2 V00="12" V01="13" V02="14" Flag0="0" V10="15" V11="16" V12="17" Flag1="0"/>
+	<Triangles2 V00="18" V01="19" V02="20" Flag0="0" V10="21" V11="22" V12="23" Flag1="0"/>
+	<Triangles2 V00="24" V01="25" V02="26" Flag0="0" V10="27" V11="28" V12="29" Flag1="0"/>
+	<LoadVertices Path="objects/object_spot05_objects/object_spot05_objects_DL_001190_vtx_0" VertexBufferIndex="0" VertexOffset="420" Count="30"/>
+	<Triangles2 V00="0" V01="1" V02="2" Flag0="0" V10="3" V11="4" V12="5" Flag1="0"/>
+	<Triangles2 V00="6" V01="7" V02="8" Flag0="0" V10="9" V11="10" V12="11" Flag1="0"/>
+	<Triangles2 V00="12" V01="13" V02="14" Flag0="0" V10="15" V11="16" V12="17" Flag1="0"/>
+	<Triangles2 V00="18" V01="19" V02="20" Flag0="0" V10="21" V11="22" V12="23" Flag1="0"/>
+	<Triangles2 V00="24" V01="25" V02="26" Flag0="0" V10="27" V11="28" V12="29" Flag1="0"/>
+	<LoadVertices Path="objects/object_spot05_objects/object_spot05_objects_DL_001190_vtx_0" VertexBufferIndex="0" VertexOffset="450" Count="30"/>
+	<Triangles2 V00="0" V01="1" V02="2" Flag0="0" V10="3" V11="4" V12="5" Flag1="0"/>
+	<Triangles2 V00="6" V01="7" V02="8" Flag0="0" V10="9" V11="10" V12="11" Flag1="0"/>
+	<Triangles2 V00="12" V01="13" V02="14" Flag0="0" V10="15" V11="16" V12="17" Flag1="0"/>
+	<Triangles2 V00="18" V01="19" V02="20" Flag0="0" V10="21" V11="22" V12="23" Flag1="0"/>
+	<Triangles2 V00="24" V01="25" V02="26" Flag0="0" V10="27" V11="28" V12="29" Flag1="0"/>
+	<LoadVertices Path="objects/object_spot05_objects/object_spot05_objects_DL_001190_vtx_0" VertexBufferIndex="0" VertexOffset="480" Count="30"/>
+	<Triangles2 V00="0" V01="1" V02="2" Flag0="0" V10="3" V11="4" V12="5" Flag1="0"/>
+	<Triangles2 V00="6" V01="7" V02="8" Flag0="0" V10="9" V11="10" V12="11" Flag1="0"/>
+	<Triangles2 V00="12" V01="13" V02="14" Flag0="0" V10="15" V11="16" V12="17" Flag1="0"/>
+	<Triangles2 V00="18" V01="19" V02="20" Flag0="0" V10="21" V11="22" V12="23" Flag1="0"/>
+	<Triangles2 V00="24" V01="25" V02="26" Flag0="0" V10="27" V11="28" V12="29" Flag1="0"/>
+	<LoadVertices Path="objects/object_spot05_objects/object_spot05_objects_DL_001190_vtx_0" VertexBufferIndex="0" VertexOffset="510" Count="30"/>
+	<Triangles2 V00="0" V01="1" V02="2" Flag0="0" V10="3" V11="4" V12="5" Flag1="0"/>
+	<Triangles2 V00="6" V01="7" V02="8" Flag0="0" V10="9" V11="10" V12="11" Flag1="0"/>
+	<Triangles2 V00="12" V01="13" V02="14" Flag0="0" V10="15" V11="16" V12="17" Flag1="0"/>
+	<Triangles2 V00="18" V01="19" V02="20" Flag0="0" V10="21" V11="22" V12="23" Flag1="0"/>
+	<Triangles2 V00="24" V01="25" V02="26" Flag0="0" V10="27" V11="28" V12="29" Flag1="0"/>
+	<LoadVertices Path="objects/object_spot05_objects/object_spot05_objects_DL_001190_vtx_0" VertexBufferIndex="0" VertexOffset="540" Count="30"/>
+	<Triangles2 V00="0" V01="1" V02="2" Flag0="0" V10="3" V11="4" V12="5" Flag1="0"/>
+	<Triangles2 V00="6" V01="7" V02="8" Flag0="0" V10="9" V11="10" V12="11" Flag1="0"/>
+	<Triangles2 V00="12" V01="13" V02="14" Flag0="0" V10="15" V11="16" V12="17" Flag1="0"/>
+	<Triangles2 V00="18" V01="19" V02="20" Flag0="0" V10="21" V11="22" V12="23" Flag1="0"/>
+	<Triangles2 V00="24" V01="25" V02="26" Flag0="0" V10="27" V11="28" V12="29" Flag1="0"/>
+	<LoadVertices Path="objects/object_spot05_objects/object_spot05_objects_DL_001190_vtx_0" VertexBufferIndex="0" VertexOffset="570" Count="30"/>
+	<Triangles2 V00="0" V01="1" V02="2" Flag0="0" V10="3" V11="4" V12="5" Flag1="0"/>
+	<Triangles2 V00="6" V01="7" V02="8" Flag0="0" V10="8" V11="7" V12="9" Flag1="0"/>
+	<Triangles2 V00="10" V01="11" V02="12" Flag0="0" V10="13" V11="11" V12="10" Flag1="0"/>
+	<Triangles2 V00="14" V01="15" V02="16" Flag0="0" V10="16" V11="15" V12="17" Flag1="0"/>
+	<Triangles2 V00="18" V01="19" V02="20" Flag0="0" V10="20" V11="19" V12="21" Flag1="0"/>
+	<Triangles2 V00="22" V01="23" V02="24" Flag0="0" V10="24" V11="23" V12="25" Flag1="0"/>
+	<Triangles2 V00="26" V01="27" V02="28" Flag0="0" V10="28" V11="27" V12="29" Flag1="0"/>
+	<LoadVertices Path="objects/object_spot05_objects/object_spot05_objects_DL_001190_vtx_0" VertexBufferIndex="0" VertexOffset="600" Count="32"/>
+	<Triangles2 V00="0" V01="1" V02="2" Flag0="0" V10="2" V11="1" V12="3" Flag1="0"/>
+	<Triangles2 V00="4" V01="5" V02="6" Flag0="0" V10="6" V11="5" V12="7" Flag1="0"/>
+	<Triangles2 V00="8" V01="9" V02="10" Flag0="0" V10="10" V11="9" V12="11" Flag1="0"/>
+	<Triangles2 V00="12" V01="13" V02="14" Flag0="0" V10="15" V11="13" V12="12" Flag1="0"/>
+	<Triangles2 V00="16" V01="17" V02="18" Flag0="0" V10="18" V11="17" V12="19" Flag1="0"/>
+	<Triangles2 V00="20" V01="21" V02="22" Flag0="0" V10="22" V11="21" V12="23" Flag1="0"/>
+	<Triangles2 V00="24" V01="25" V02="26" Flag0="0" V10="26" V11="25" V12="27" Flag1="0"/>
+	<Triangles2 V00="28" V01="29" V02="30" Flag0="0" V10="30" V11="29" V12="31" Flag1="0"/>
+	<LoadVertices Path="objects/object_spot05_objects/object_spot05_objects_DL_001190_vtx_0" VertexBufferIndex="0" VertexOffset="632" Count="32"/>
+	<Triangles2 V00="0" V01="1" V02="2" Flag0="0" V10="2" V11="1" V12="3" Flag1="0"/>
+	<Triangles2 V00="4" V01="5" V02="6" Flag0="0" V10="6" V11="5" V12="7" Flag1="0"/>
+	<Triangles2 V00="8" V01="9" V02="10" Flag0="0" V10="10" V11="9" V12="11" Flag1="0"/>
+	<Triangles2 V00="12" V01="13" V02="14" Flag0="0" V10="15" V11="13" V12="12" Flag1="0"/>
+	<Triangles2 V00="16" V01="17" V02="18" Flag0="0" V10="18" V11="17" V12="19" Flag1="0"/>
+	<Triangles2 V00="20" V01="21" V02="22" Flag0="0" V10="22" V11="21" V12="23" Flag1="0"/>
+	<Triangles2 V00="24" V01="25" V02="26" Flag0="0" V10="26" V11="25" V12="27" Flag1="0"/>
+	<Triangles2 V00="28" V01="29" V02="30" Flag0="0" V10="30" V11="29" V12="31" Flag1="0"/>
+	<LoadVertices Path="objects/object_spot05_objects/object_spot05_objects_DL_001190_vtx_0" VertexBufferIndex="0" VertexOffset="664" Count="32"/>
+	<Triangles2 V00="0" V01="1" V02="2" Flag0="0" V10="2" V11="1" V12="3" Flag1="0"/>
+	<Triangles2 V00="4" V01="5" V02="6" Flag0="0" V10="6" V11="5" V12="7" Flag1="0"/>
+	<Triangles2 V00="8" V01="9" V02="10" Flag0="0" V10="10" V11="9" V12="11" Flag1="0"/>
+	<Triangles2 V00="12" V01="13" V02="14" Flag0="0" V10="15" V11="13" V12="12" Flag1="0"/>
+	<Triangles2 V00="16" V01="17" V02="18" Flag0="0" V10="18" V11="17" V12="19" Flag1="0"/>
+	<Triangles2 V00="20" V01="21" V02="22" Flag0="0" V10="22" V11="21" V12="23" Flag1="0"/>
+	<Triangles2 V00="24" V01="25" V02="26" Flag0="0" V10="26" V11="25" V12="27" Flag1="0"/>
+	<Triangles2 V00="28" V01="29" V02="30" Flag0="0" V10="30" V11="29" V12="31" Flag1="0"/>
+	<LoadVertices Path="objects/object_spot05_objects/object_spot05_objects_DL_001190_vtx_0" VertexBufferIndex="0" VertexOffset="696" Count="32"/>
+	<Triangles2 V00="0" V01="1" V02="2" Flag0="0" V10="2" V11="1" V12="3" Flag1="0"/>
+	<Triangles2 V00="4" V01="5" V02="6" Flag0="0" V10="6" V11="5" V12="7" Flag1="0"/>
+	<Triangles2 V00="8" V01="9" V02="10" Flag0="0" V10="10" V11="9" V12="11" Flag1="0"/>
+	<Triangles2 V00="12" V01="13" V02="14" Flag0="0" V10="15" V11="13" V12="12" Flag1="0"/>
+	<Triangles2 V00="16" V01="17" V02="18" Flag0="0" V10="18" V11="17" V12="19" Flag1="0"/>
+	<Triangles2 V00="20" V01="21" V02="22" Flag0="0" V10="22" V11="21" V12="23" Flag1="0"/>
+	<Triangles2 V00="24" V01="25" V02="26" Flag0="0" V10="26" V11="25" V12="27" Flag1="0"/>
+	<Triangles2 V00="28" V01="29" V02="30" Flag0="0" V10="30" V11="29" V12="31" Flag1="0"/>
+	<LoadVertices Path="objects/object_spot05_objects/object_spot05_objects_DL_001190_vtx_0" VertexBufferIndex="0" VertexOffset="728" Count="32"/>
+	<Triangles2 V00="0" V01="1" V02="2" Flag0="0" V10="2" V11="1" V12="3" Flag1="0"/>
+	<Triangles2 V00="4" V01="5" V02="6" Flag0="0" V10="6" V11="5" V12="7" Flag1="0"/>
+	<Triangles2 V00="8" V01="9" V02="10" Flag0="0" V10="10" V11="9" V12="11" Flag1="0"/>
+	<Triangles2 V00="12" V01="13" V02="14" Flag0="0" V10="15" V11="13" V12="12" Flag1="0"/>
+	<Triangles2 V00="16" V01="17" V02="18" Flag0="0" V10="18" V11="17" V12="19" Flag1="0"/>
+	<Triangles2 V00="20" V01="21" V02="22" Flag0="0" V10="22" V11="21" V12="23" Flag1="0"/>
+	<Triangles2 V00="24" V01="25" V02="26" Flag0="0" V10="26" V11="25" V12="27" Flag1="0"/>
+	<Triangles2 V00="28" V01="29" V02="30" Flag0="0" V10="30" V11="29" V12="31" Flag1="0"/>
+	<LoadVertices Path="objects/object_spot05_objects/object_spot05_objects_DL_001190_vtx_0" VertexBufferIndex="0" VertexOffset="760" Count="32"/>
+	<Triangles2 V00="0" V01="1" V02="2" Flag0="0" V10="2" V11="1" V12="3" Flag1="0"/>
+	<Triangles2 V00="4" V01="5" V02="6" Flag0="0" V10="6" V11="5" V12="7" Flag1="0"/>
+	<Triangles2 V00="8" V01="9" V02="10" Flag0="0" V10="10" V11="9" V12="11" Flag1="0"/>
+	<Triangles2 V00="12" V01="13" V02="14" Flag0="0" V10="15" V11="13" V12="12" Flag1="0"/>
+	<Triangles2 V00="16" V01="17" V02="18" Flag0="0" V10="18" V11="17" V12="19" Flag1="0"/>
+	<Triangles2 V00="20" V01="21" V02="22" Flag0="0" V10="22" V11="21" V12="23" Flag1="0"/>
+	<Triangles2 V00="24" V01="25" V02="26" Flag0="0" V10="26" V11="25" V12="27" Flag1="0"/>
+	<Triangles2 V00="28" V01="29" V02="30" Flag0="0" V10="30" V11="29" V12="31" Flag1="0"/>
+	<LoadVertices Path="objects/object_spot05_objects/object_spot05_objects_DL_001190_vtx_0" VertexBufferIndex="0" VertexOffset="792" Count="32"/>
+	<Triangles2 V00="0" V01="1" V02="2" Flag0="0" V10="2" V11="1" V12="3" Flag1="0"/>
+	<Triangles2 V00="4" V01="5" V02="6" Flag0="0" V10="6" V11="5" V12="7" Flag1="0"/>
+	<Triangles2 V00="8" V01="9" V02="10" Flag0="0" V10="10" V11="9" V12="11" Flag1="0"/>
+	<Triangles2 V00="12" V01="13" V02="14" Flag0="0" V10="15" V11="13" V12="12" Flag1="0"/>
+	<Triangles2 V00="16" V01="17" V02="18" Flag0="0" V10="18" V11="17" V12="19" Flag1="0"/>
+	<Triangles2 V00="20" V01="21" V02="22" Flag0="0" V10="22" V11="21" V12="23" Flag1="0"/>
+	<Triangles2 V00="24" V01="25" V02="26" Flag0="0" V10="26" V11="25" V12="27" Flag1="0"/>
+	<Triangles2 V00="28" V01="29" V02="30" Flag0="0" V10="30" V11="29" V12="31" Flag1="0"/>
+	<LoadVertices Path="objects/object_spot05_objects/object_spot05_objects_DL_001190_vtx_0" VertexBufferIndex="0" VertexOffset="824" Count="32"/>
+	<Triangles2 V00="0" V01="1" V02="2" Flag0="0" V10="2" V11="1" V12="3" Flag1="0"/>
+	<Triangles2 V00="4" V01="5" V02="6" Flag0="0" V10="6" V11="5" V12="7" Flag1="0"/>
+	<Triangles2 V00="8" V01="9" V02="10" Flag0="0" V10="10" V11="9" V12="11" Flag1="0"/>
+	<Triangles2 V00="12" V01="13" V02="14" Flag0="0" V10="15" V11="13" V12="12" Flag1="0"/>
+	<Triangles2 V00="16" V01="17" V02="18" Flag0="0" V10="18" V11="17" V12="19" Flag1="0"/>
+	<Triangles2 V00="20" V01="21" V02="22" Flag0="0" V10="22" V11="21" V12="23" Flag1="0"/>
+	<Triangles2 V00="24" V01="25" V02="26" Flag0="0" V10="26" V11="25" V12="27" Flag1="0"/>
+	<Triangles2 V00="28" V01="29" V02="30" Flag0="0" V10="30" V11="29" V12="31" Flag1="0"/>
+	<LoadVertices Path="objects/object_spot05_objects/object_spot05_objects_DL_001190_vtx_0" VertexBufferIndex="0" VertexOffset="856" Count="32"/>
+	<Triangles2 V00="0" V01="1" V02="2" Flag0="0" V10="2" V11="1" V12="3" Flag1="0"/>
+	<Triangles2 V00="4" V01="5" V02="6" Flag0="0" V10="6" V11="5" V12="7" Flag1="0"/>
+	<Triangles2 V00="8" V01="9" V02="10" Flag0="0" V10="10" V11="9" V12="11" Flag1="0"/>
+	<Triangles2 V00="12" V01="13" V02="14" Flag0="0" V10="15" V11="13" V12="12" Flag1="0"/>
+	<Triangles2 V00="16" V01="17" V02="18" Flag0="0" V10="18" V11="17" V12="19" Flag1="0"/>
+	<Triangles2 V00="20" V01="21" V02="22" Flag0="0" V10="22" V11="21" V12="23" Flag1="0"/>
+	<Triangles2 V00="24" V01="25" V02="26" Flag0="0" V10="26" V11="25" V12="27" Flag1="0"/>
+	<Triangles2 V00="28" V01="29" V02="30" Flag0="0" V10="30" V11="29" V12="31" Flag1="0"/>
+	<LoadVertices Path="objects/object_spot05_objects/object_spot05_objects_DL_001190_vtx_0" VertexBufferIndex="0" VertexOffset="888" Count="32"/>
+	<Triangles2 V00="0" V01="1" V02="2" Flag0="0" V10="2" V11="1" V12="3" Flag1="0"/>
+	<Triangles2 V00="4" V01="5" V02="6" Flag0="0" V10="6" V11="5" V12="7" Flag1="0"/>
+	<Triangles2 V00="8" V01="9" V02="10" Flag0="0" V10="10" V11="9" V12="11" Flag1="0"/>
+	<Triangles2 V00="12" V01="13" V02="14" Flag0="0" V10="15" V11="13" V12="12" Flag1="0"/>
+	<Triangles2 V00="16" V01="17" V02="18" Flag0="0" V10="18" V11="17" V12="19" Flag1="0"/>
+	<Triangles2 V00="20" V01="21" V02="22" Flag0="0" V10="22" V11="21" V12="23" Flag1="0"/>
+	<Triangles2 V00="24" V01="25" V02="26" Flag0="0" V10="26" V11="25" V12="27" Flag1="0"/>
+	<Triangles2 V00="28" V01="29" V02="30" Flag0="0" V10="30" V11="29" V12="31" Flag1="0"/>
+	<LoadVertices Path="objects/object_spot05_objects/object_spot05_objects_DL_001190_vtx_0" VertexBufferIndex="0" VertexOffset="920" Count="32"/>
+	<Triangles2 V00="0" V01="1" V02="2" Flag0="0" V10="2" V11="1" V12="3" Flag1="0"/>
+	<Triangles2 V00="4" V01="5" V02="6" Flag0="0" V10="6" V11="5" V12="7" Flag1="0"/>
+	<Triangles2 V00="8" V01="9" V02="10" Flag0="0" V10="10" V11="9" V12="11" Flag1="0"/>
+	<Triangles2 V00="12" V01="13" V02="14" Flag0="0" V10="15" V11="13" V12="12" Flag1="0"/>
+	<Triangles2 V00="16" V01="17" V02="18" Flag0="0" V10="18" V11="17" V12="19" Flag1="0"/>
+	<Triangles2 V00="20" V01="21" V02="22" Flag0="0" V10="22" V11="21" V12="23" Flag1="0"/>
+	<Triangles2 V00="24" V01="25" V02="26" Flag0="0" V10="26" V11="25" V12="27" Flag1="0"/>
+	<Triangles2 V00="28" V01="29" V02="30" Flag0="0" V10="30" V11="29" V12="31" Flag1="0"/>
+	<LoadVertices Path="objects/object_spot05_objects/object_spot05_objects_DL_001190_vtx_0" VertexBufferIndex="0" VertexOffset="952" Count="32"/>
+	<Triangles2 V00="0" V01="1" V02="2" Flag0="0" V10="2" V11="1" V12="3" Flag1="0"/>
+	<Triangles2 V00="4" V01="5" V02="6" Flag0="0" V10="6" V11="5" V12="7" Flag1="0"/>
+	<Triangles2 V00="8" V01="9" V02="10" Flag0="0" V10="10" V11="9" V12="11" Flag1="0"/>
+	<Triangles2 V00="12" V01="13" V02="14" Flag0="0" V10="15" V11="13" V12="12" Flag1="0"/>
+	<Triangles2 V00="16" V01="17" V02="18" Flag0="0" V10="18" V11="17" V12="19" Flag1="0"/>
+	<Triangles2 V00="20" V01="21" V02="22" Flag0="0" V10="22" V11="21" V12="23" Flag1="0"/>
+	<Triangles2 V00="24" V01="25" V02="26" Flag0="0" V10="26" V11="25" V12="27" Flag1="0"/>
+	<Triangles2 V00="28" V01="29" V02="30" Flag0="0" V10="30" V11="29" V12="31" Flag1="0"/>
+	<LoadVertices Path="objects/object_spot05_objects/object_spot05_objects_DL_001190_vtx_0" VertexBufferIndex="0" VertexOffset="984" Count="32"/>
+	<Triangles2 V00="0" V01="1" V02="2" Flag0="0" V10="2" V11="1" V12="3" Flag1="0"/>
+	<Triangles2 V00="4" V01="5" V02="6" Flag0="0" V10="6" V11="5" V12="7" Flag1="0"/>
+	<Triangles2 V00="8" V01="9" V02="10" Flag0="0" V10="10" V11="9" V12="11" Flag1="0"/>
+	<Triangles2 V00="12" V01="13" V02="14" Flag0="0" V10="15" V11="13" V12="12" Flag1="0"/>
+	<Triangles2 V00="16" V01="17" V02="18" Flag0="0" V10="18" V11="17" V12="19" Flag1="0"/>
+	<Triangles2 V00="20" V01="21" V02="22" Flag0="0" V10="22" V11="21" V12="23" Flag1="0"/>
+	<Triangles2 V00="24" V01="25" V02="26" Flag0="0" V10="26" V11="25" V12="27" Flag1="0"/>
+	<Triangles2 V00="28" V01="29" V02="30" Flag0="0" V10="30" V11="29" V12="31" Flag1="0"/>
+	<LoadVertices Path="objects/object_spot05_objects/object_spot05_objects_DL_001190_vtx_0" VertexBufferIndex="0" VertexOffset="1016" Count="32"/>
+	<Triangles2 V00="0" V01="1" V02="2" Flag0="0" V10="2" V11="1" V12="3" Flag1="0"/>
+	<Triangles2 V00="4" V01="5" V02="6" Flag0="0" V10="6" V11="5" V12="7" Flag1="0"/>
+	<Triangles2 V00="8" V01="9" V02="10" Flag0="0" V10="10" V11="9" V12="11" Flag1="0"/>
+	<Triangles2 V00="12" V01="13" V02="14" Flag0="0" V10="15" V11="13" V12="12" Flag1="0"/>
+	<Triangles2 V00="16" V01="17" V02="18" Flag0="0" V10="18" V11="17" V12="19" Flag1="0"/>
+	<Triangles2 V00="20" V01="21" V02="22" Flag0="0" V10="22" V11="21" V12="23" Flag1="0"/>
+	<Triangles2 V00="24" V01="25" V02="26" Flag0="0" V10="26" V11="25" V12="27" Flag1="0"/>
+	<Triangles2 V00="28" V01="29" V02="30" Flag0="0" V10="30" V11="29" V12="31" Flag1="0"/>
+	<LoadVertices Path="objects/object_spot05_objects/object_spot05_objects_DL_001190_vtx_0" VertexBufferIndex="0" VertexOffset="1048" Count="32"/>
+	<Triangles2 V00="0" V01="1" V02="2" Flag0="0" V10="2" V11="1" V12="3" Flag1="0"/>
+	<Triangles2 V00="4" V01="5" V02="6" Flag0="0" V10="6" V11="5" V12="7" Flag1="0"/>
+	<Triangles2 V00="8" V01="9" V02="10" Flag0="0" V10="10" V11="9" V12="11" Flag1="0"/>
+	<Triangles2 V00="12" V01="13" V02="14" Flag0="0" V10="15" V11="13" V12="12" Flag1="0"/>
+	<Triangles2 V00="16" V01="17" V02="18" Flag0="0" V10="18" V11="17" V12="19" Flag1="0"/>
+	<Triangles2 V00="20" V01="21" V02="22" Flag0="0" V10="22" V11="21" V12="23" Flag1="0"/>
+	<Triangles2 V00="24" V01="25" V02="26" Flag0="0" V10="26" V11="25" V12="27" Flag1="0"/>
+	<Triangles2 V00="28" V01="29" V02="30" Flag0="0" V10="30" V11="29" V12="31" Flag1="0"/>
+	<LoadVertices Path="objects/object_spot05_objects/object_spot05_objects_DL_001190_vtx_0" VertexBufferIndex="0" VertexOffset="1080" Count="8"/>
+	<Triangles2 V00="0" V01="1" V02="2" Flag0="0" V10="2" V11="1" V12="3" Flag1="0"/>
+	<Triangles2 V00="4" V01="5" V02="6" Flag0="0" V10="6" V11="5" V12="7" Flag1="0"/>
+	<EndDisplayList/>
+</DisplayList>
+

@@ -1,0 +1,6 @@
+<DisplayList Version="0">
+	<CallDisplayList Path="objects/object_fr/mat_object_fr_Skel_00B498_FrogBodySkinColor_layerOpaque"/>
+	<CallDisplayList Path="objects/object_fr/bone022_object_fr_Limb_00B430_mesh_layer_Opaque_tri_0"/>
+	<EndDisplayList/>
+</DisplayList>
+

@@ -1,0 +1,7 @@
+<DisplayList Version="0">
+	<LoadVertices Path="objects/object_gi_ki_tan_mask/gGiKeatonMaskEyesDL_vtx_0" VertexBufferIndex="0" VertexOffset="0" Count="7"/>
+	<Triangles2 V00="0" V01="1" V02="2" Flag0="0" V10="0" V11="2" V12="3" Flag1="0"/>
+	<Triangles2 V00="4" V01="5" V02="6" Flag0="0" V10="3" V11="4" V12="6" Flag1="0"/>
+	<EndDisplayList/>
+</DisplayList>
+

@@ -1,0 +1,160 @@
+<DisplayList Version="0">
+	<LoadVertices Path="objects/object_gi_hearts/gGiHeartBorderDL_vtx_0" VertexBufferIndex="0" VertexOffset="0" Count="16"/>
+	<Triangle1 V00="0" V01="1" V02="2"/>
+	<Triangle1 V00="3" V01="1" V02="4"/>
+	<Triangle1 V00="5" V01="1" V02="6"/>
+	<Triangle1 V00="3" V01="7" V02="8"/>
+	<Triangle1 V00="9" V01="7" V02="6"/>
+	<Triangle1 V00="9" V01="10" V02="11"/>
+	<Triangle1 V00="12" V01="10" V02="13"/>
+	<Triangle1 V00="12" V01="14" V02="15"/>
+	<LoadVertices Path="objects/object_gi_hearts/gGiHeartBorderDL_vtx_0" VertexBufferIndex="0" VertexOffset="16" Count="14"/>
+	<Triangle1 V00="0" V01="1" V02="2"/>
+	<Triangle1 V00="0" V01="3" V02="4"/>
+	<Triangle1 V00="5" V01="3" V02="6"/>
+	<Triangle1 V00="7" V01="3" V02="8"/>
+	<Triangle1 V00="9" V01="3" V02="10"/>
+	<Triangle1 V00="7" V01="11" V02="12"/>
+	<Triangle1 V00="9" V01="11" V02="13"/>
+	<LoadVertices Path="objects/object_gi_hearts/gGiHeartBorderDL_vtx_0" VertexBufferIndex="0" VertexOffset="30" Count="16"/>
+	<Triangle1 V00="0" V01="1" V02="2"/>
+	<Triangle1 V00="3" V01="1" V02="4"/>
+	<Triangle1 V00="5" V01="1" V02="6"/>
+	<Triangle1 V00="3" V01="7" V02="8"/>
+	<Triangle1 V00="9" V01="7" V02="6"/>
+	<Triangle1 V00="9" V01="10" V02="11"/>
+	<Triangle1 V00="12" V01="7" V02="13"/>
+	<Triangle1 V00="14" V01="15" V02="13"/>
+	<LoadVertices Path="objects/object_gi_hearts/gGiHeartBorderDL_vtx_0" VertexBufferIndex="0" VertexOffset="46" Count="15"/>
+	<Triangle1 V00="0" V01="1" V02="2"/>
+	<Triangle1 V00="3" V01="1" V02="4"/>
+	<Triangle1 V00="3" V01="5" V02="6"/>
+	<Triangle1 V00="7" V01="5" V02="8"/>
+	<Triangle1 V00="9" V01="10" V02="8"/>
+	<Triangle1 V00="11" V01="10" V02="12"/>
+	<Triangle1 V00="13" V01="14" V02="12"/>
+	<LoadVertices Path="objects/object_gi_hearts/gGiHeartBorderDL_vtx_0" VertexBufferIndex="0" VertexOffset="61" Count="16"/>
+	<Triangle1 V00="0" V01="1" V02="2"/>
+	<Triangle1 V00="3" V01="4" V02="2"/>
+	<Triangle1 V00="5" V01="4" V02="6"/>
+	<Triangle1 V00="7" V01="8" V02="6"/>
+	<Triangle1 V00="9" V01="10" V02="11"/>
+	<Triangle1 V00="12" V01="13" V02="14"/>
+	<Triangle1 V00="15" V01="13" V02="11"/>
+	<LoadVertices Path="objects/object_gi_hearts/gGiHeartBorderDL_vtx_0" VertexBufferIndex="0" VertexOffset="77" Count="15"/>
+	<Triangle1 V00="0" V01="1" V02="2"/>
+	<Triangle1 V00="3" V01="1" V02="4"/>
+	<Triangle1 V00="3" V01="5" V02="6"/>
+	<Triangle1 V00="7" V01="5" V02="8"/>
+	<Triangle1 V00="7" V01="9" V02="10"/>
+	<Triangle1 V00="11" V01="9" V02="12"/>
+	<Triangle1 V00="13" V01="9" V02="14"/>
+	<LoadVertices Path="objects/object_gi_hearts/gGiHeartBorderDL_vtx_0" VertexBufferIndex="0" VertexOffset="92" Count="16"/>
+	<Triangle1 V00="0" V01="1" V02="2"/>
+	<Triangle1 V00="3" V01="4" V02="5"/>
+	<Triangle1 V00="0" V01="4" V02="6"/>
+	<Triangle1 V00="7" V01="8" V02="9"/>
+	<Triangle1 V00="10" V01="8" V02="11"/>
+	<Triangle1 V00="12" V01="8" V02="13"/>
+	<Triangle1 V00="10" V01="14" V02="15"/>
+	<LoadVertices Path="objects/object_gi_hearts/gGiHeartBorderDL_vtx_0" VertexBufferIndex="0" VertexOffset="108" Count="15"/>
+	<Triangle1 V00="0" V01="1" V02="2"/>
+	<Triangle1 V00="0" V01="3" V02="4"/>
+	<Triangle1 V00="5" V01="1" V02="6"/>
+	<Triangle1 V00="7" V01="8" V02="6"/>
+	<Triangle1 V00="7" V01="9" V02="10"/>
+	<Triangle1 V00="11" V01="9" V02="12"/>
+	<Triangle1 V00="11" V01="13" V02="14"/>
+	<LoadVertices Path="objects/object_gi_hearts/gGiHeartBorderDL_vtx_0" VertexBufferIndex="0" VertexOffset="123" Count="15"/>
+	<Triangle1 V00="0" V01="1" V02="2"/>
+	<Triangle1 V00="3" V01="4" V02="2"/>
+	<Triangle1 V00="5" V01="4" V02="6"/>
+	<Triangle1 V00="7" V01="8" V02="6"/>
+	<Triangle1 V00="9" V01="8" V02="10"/>
+	<Triangle1 V00="11" V01="12" V02="10"/>
+	<Triangle1 V00="13" V01="12" V02="14"/>
+	<LoadVertices Path="objects/object_gi_hearts/gGiHeartBorderDL_vtx_0" VertexBufferIndex="0" VertexOffset="138" Count="16"/>
+	<Triangle1 V00="0" V01="1" V02="2"/>
+	<Triangle1 V00="3" V01="1" V02="4"/>
+	<Triangle1 V00="5" V01="1" V02="6"/>
+	<Triangle1 V00="7" V01="8" V02="9"/>
+	<Triangle1 V00="7" V01="10" V02="11"/>
+	<Triangle1 V00="12" V01="10" V02="13"/>
+	<Triangle1 V00="12" V01="14" V02="15"/>
+	<LoadVertices Path="objects/object_gi_hearts/gGiHeartBorderDL_vtx_0" VertexBufferIndex="0" VertexOffset="154" Count="15"/>
+	<Triangle1 V00="0" V01="1" V02="2"/>
+	<Triangle1 V00="0" V01="3" V02="4"/>
+	<Triangle1 V00="5" V01="3" V02="6"/>
+	<Triangle1 V00="5" V01="7" V02="8"/>
+	<Triangle1 V00="9" V01="7" V02="10"/>
+	<Triangle1 V00="9" V01="11" V02="12"/>
+	<Triangle1 V00="13" V01="11" V02="14"/>
+	<LoadVertices Path="objects/object_gi_hearts/gGiHeartBorderDL_vtx_0" VertexBufferIndex="0" VertexOffset="169" Count="16"/>
+	<Triangle1 V00="0" V01="1" V02="2"/>
+	<Triangle1 V00="3" V01="1" V02="4"/>
+	<Triangle1 V00="3" V01="5" V02="6"/>
+	<Triangle1 V00="7" V01="5" V02="8"/>
+	<Triangle1 V00="9" V01="10" V02="11"/>
+	<Triangle1 V00="9" V01="12" V02="13"/>
+	<Triangle1 V00="14" V01="12" V02="15"/>
+	<LoadVertices Path="objects/object_gi_hearts/gGiHeartBorderDL_vtx_0" VertexBufferIndex="0" VertexOffset="185" Count="15"/>
+	<Triangle1 V00="0" V01="1" V02="2"/>
+	<Triangle1 V00="3" V01="1" V02="4"/>
+	<Triangle1 V00="3" V01="5" V02="6"/>
+	<Triangle1 V00="7" V01="5" V02="8"/>
+	<Triangle1 V00="7" V01="9" V02="10"/>
+	<Triangle1 V00="11" V01="9" V02="12"/>
+	<Triangle1 V00="11" V01="13" V02="14"/>
+	<LoadVertices Path="objects/object_gi_hearts/gGiHeartBorderDL_vtx_0" VertexBufferIndex="0" VertexOffset="200" Count="15"/>
+	<Triangle1 V00="0" V01="1" V02="2"/>
+	<Triangle1 V00="0" V01="3" V02="4"/>
+	<Triangle1 V00="5" V01="3" V02="6"/>
+	<Triangle1 V00="5" V01="7" V02="8"/>
+	<Triangle1 V00="9" V01="7" V02="10"/>
+	<Triangle1 V00="9" V01="11" V02="12"/>
+	<Triangle1 V00="13" V01="11" V02="14"/>
+	<LoadVertices Path="objects/object_gi_hearts/gGiHeartBorderDL_vtx_0" VertexBufferIndex="0" VertexOffset="215" Count="15"/>
+	<Triangle1 V00="0" V01="1" V02="2"/>
+	<Triangle1 V00="0" V01="3" V02="4"/>
+	<Triangle1 V00="5" V01="3" V02="6"/>
+	<Triangle1 V00="5" V01="7" V02="8"/>
+	<Triangle1 V00="9" V01="7" V02="10"/>
+	<Triangle1 V00="9" V01="11" V02="12"/>
+	<Triangle1 V00="13" V01="11" V02="14"/>
+	<LoadVertices Path="objects/object_gi_hearts/gGiHeartBorderDL_vtx_0" VertexBufferIndex="0" VertexOffset="230" Count="15"/>
+	<Triangle1 V00="0" V01="1" V02="2"/>
+	<Triangle1 V00="3" V01="1" V02="4"/>
+	<Triangle1 V00="3" V01="5" V02="6"/>
+	<Triangle1 V00="7" V01="5" V02="8"/>
+	<Triangle1 V00="7" V01="9" V02="10"/>
+	<Triangle1 V00="11" V01="9" V02="12"/>
+	<Triangle1 V00="11" V01="13" V02="14"/>
+	<LoadVertices Path="objects/object_gi_hearts/gGiHeartBorderDL_vtx_0" VertexBufferIndex="0" VertexOffset="245" Count="16"/>
+	<Triangle1 V00="0" V01="1" V02="2"/>
+	<Triangle1 V00="0" V01="3" V02="4"/>
+	<Triangle1 V00="5" V01="3" V02="6"/>
+	<Triangle1 V00="5" V01="7" V02="8"/>
+	<Triangle1 V00="9" V01="7" V02="10"/>
+	<Triangle1 V00="11" V01="12" V02="13"/>
+	<Triangle1 V00="11" V01="14" V02="15"/>
+	<LoadVertices Path="objects/object_gi_hearts/gGiHeartBorderDL_vtx_0" VertexBufferIndex="0" VertexOffset="261" Count="15"/>
+	<Triangle1 V00="0" V01="1" V02="2"/>
+	<Triangle1 V00="0" V01="3" V02="4"/>
+	<Triangle1 V00="5" V01="3" V02="6"/>
+	<Triangle1 V00="5" V01="7" V02="8"/>
+	<Triangle1 V00="9" V01="7" V02="10"/>
+	<Triangle1 V00="9" V01="11" V02="12"/>
+	<Triangle1 V00="13" V01="11" V02="14"/>
+	<LoadVertices Path="objects/object_gi_hearts/gGiHeartBorderDL_vtx_0" VertexBufferIndex="0" VertexOffset="276" Count="15"/>
+	<Triangle1 V00="0" V01="1" V02="2"/>
+	<Triangle1 V00="3" V01="1" V02="4"/>
+	<Triangle1 V00="3" V01="5" V02="6"/>
+	<Triangle1 V00="7" V01="5" V02="8"/>
+	<Triangle1 V00="7" V01="9" V02="10"/>
+	<Triangle1 V00="11" V01="9" V02="12"/>
+	<Triangle1 V00="11" V01="13" V02="14"/>
+	<LoadVertices Path="objects/object_gi_hearts/gGiHeartBorderDL_vtx_0" VertexBufferIndex="0" VertexOffset="291" Count="3"/>
+	<Triangle1 V00="0" V01="1" V02="2"/>
+	<EndDisplayList/>
+</DisplayList>
+
