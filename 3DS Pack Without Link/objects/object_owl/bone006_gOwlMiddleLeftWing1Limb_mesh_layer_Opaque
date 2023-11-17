@@ -1,6 +1,8 @@
 <DisplayList Version="0">
 	<CallDisplayList Path="objects/object_owl/mat_gOwlFlyingSkel_OwlWings02_layerOpaque"/>
 	<CallDisplayList Path="objects/object_owl/bone006_gOwlMiddleLeftWing1Limb_mesh_layer_Opaque_tri_0"/>
+	<CallDisplayList Path="objects/object_owl/mat_gOwlFlyingSkel_OwlBody01_layerOpaque"/>
+	<CallDisplayList Path="objects/object_owl/bone006_gOwlMiddleLeftWing1Limb_mesh_layer_Opaque_tri_1"/>
 	<EndDisplayList/>
 </DisplayList>
 

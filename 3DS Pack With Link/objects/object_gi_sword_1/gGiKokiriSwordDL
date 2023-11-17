@@ -1,9 +1,9 @@
 <DisplayList Version="0">
-	<CallDisplayList Path="objects/object_gi_sword_1/mat_gGiKokiriSwordDL_Kokiri_Sword_00"/>
+	<CallDisplayList Path="objects/object_gi_sword_1/mat_gGiKokiriSwordDL_Kokiri_Sword_00_001"/>
 	<CallDisplayList Path="objects/object_gi_sword_1/gGiKokiriSwordDL_tri_0"/>
-	<CallDisplayList Path="objects/object_gi_sword_1/mat_gGiKokiriSwordDL_f3dlite_material_003"/>
+	<CallDisplayList Path="objects/object_gi_sword_1/mat_gGiKokiriSwordDL_f3dlite_material_221"/>
 	<CallDisplayList Path="objects/object_gi_sword_1/gGiKokiriSwordDL_tri_1"/>
-	<CallDisplayList Path="objects/object_gi_sword_1/mat_gGiKokiriSwordDL_Kokiri_Sword_03"/>
+	<CallDisplayList Path="objects/object_gi_sword_1/mat_gGiKokiriSwordDL_Kokiri_Sword_03_001"/>
 	<CallDisplayList Path="objects/object_gi_sword_1/gGiKokiriSwordDL_tri_2"/>
 	<PipeSync/>
 	<SetGeometryMode G_LIGHTING="1" />
