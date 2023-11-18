@@ -51,4 +51,6 @@ Link might need a makeover! To fix his face, just use the (Mod Friendly).otr fro
 CREDIT: i would like to credit many people that help me during this project : MDTa , Purple Hato , Dana , Melon , Skilar and all people i forget !!!! Really thanks !!!!
 
 ![image](https://github.com/ROGsamurai/Djipis-Ocarina-of-Time-3DS-Experience/assets/94874077/60e57742-9f3d-40a9-a43a-3c88b02d2699)
+![image](https://github.com/ROGsamurai/Djipis-Ocarina-of-Time-3DS-Experience/assets/94874077/55333ce4-d092-461b-91c9-241eb96afb21)
+
 
