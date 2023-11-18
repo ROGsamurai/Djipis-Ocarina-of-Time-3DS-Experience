@@ -1,0 +1,21 @@
+<Skeleton Version="0" Type="Flex" LimbCount="19" DisplayListCount="19">
+	<SkeletonLimb Path="objects/object_zo/gZoraSkelLimb_000"/>
+	<SkeletonLimb Path="objects/object_zo/gZoraSkelLimb_001"/>
+	<SkeletonLimb Path="objects/object_zo/gZoraSkelLimb_002"/>
+	<SkeletonLimb Path="objects/object_zo/gZoraSkelLimb_003"/>
+	<SkeletonLimb Path="objects/object_zo/gZoraSkelLimb_004"/>
+	<SkeletonLimb Path="objects/object_zo/gZoraSkelLimb_005"/>
+	<SkeletonLimb Path="objects/object_zo/gZoraSkelLimb_006"/>
+	<SkeletonLimb Path="objects/object_zo/gZoraSkelLimb_007"/>
+	<SkeletonLimb Path="objects/object_zo/gZoraSkelLimb_008"/>
+	<SkeletonLimb Path="objects/object_zo/gZoraSkelLimb_009"/>
+	<SkeletonLimb Path="objects/object_zo/gZoraSkelLimb_010"/>
+	<SkeletonLimb Path="objects/object_zo/gZoraSkelLimb_011"/>
+	<SkeletonLimb Path="objects/object_zo/gZoraSkelLimb_012"/>
+	<SkeletonLimb Path="objects/object_zo/gZoraSkelLimb_013"/>
+	<SkeletonLimb Path="objects/object_zo/gZoraSkelLimb_014"/>
+	<SkeletonLimb Path="objects/object_zo/gZoraSkelLimb_015"/>
+	<SkeletonLimb Path="objects/object_zo/gZoraSkelLimb_016"/>
+	<SkeletonLimb Path="objects/object_zo/gZoraSkelLimb_017"/>
+	<SkeletonLimb Path="objects/object_zo/gZoraSkelLimb_018"/>
+</Skeleton>

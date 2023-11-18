@@ -1,0 +1,6 @@
+<DisplayList Version="0">
+	<CallDisplayList Path="objects/object_geldb/mat_gGerudoRedSkel_f3dlite_material_1311_layerOpaque"/>
+	<CallDisplayList Path="objects/object_geldb/bone010_gGerudoRedSkelLimbsLimb_00A360_mesh_layer_Opaque_tri_0"/>
+	<EndDisplayList/>
+</DisplayList>
+

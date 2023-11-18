@@ -1,0 +1,18 @@
+<Skeleton Version="0" Type="Flex" LimbCount="16" DisplayListCount="16">
+	<SkeletonLimb Path="objects/object_im/gImpaSkelLimb_000"/>
+	<SkeletonLimb Path="objects/object_im/gImpaSkelLimb_001"/>
+	<SkeletonLimb Path="objects/object_im/gImpaSkelLimb_002"/>
+	<SkeletonLimb Path="objects/object_im/gImpaSkelLimb_003"/>
+	<SkeletonLimb Path="objects/object_im/gImpaSkelLimb_004"/>
+	<SkeletonLimb Path="objects/object_im/gImpaSkelLimb_005"/>
+	<SkeletonLimb Path="objects/object_im/gImpaSkelLimb_006"/>
+	<SkeletonLimb Path="objects/object_im/gImpaSkelLimb_007"/>
+	<SkeletonLimb Path="objects/object_im/gImpaSkelLimb_008"/>
+	<SkeletonLimb Path="objects/object_im/gImpaSkelLimb_009"/>
+	<SkeletonLimb Path="objects/object_im/gImpaSkelLimb_010"/>
+	<SkeletonLimb Path="objects/object_im/gImpaSkelLimb_011"/>
+	<SkeletonLimb Path="objects/object_im/gImpaSkelLimb_012"/>
+	<SkeletonLimb Path="objects/object_im/gImpaSkelLimb_013"/>
+	<SkeletonLimb Path="objects/object_im/gImpaSkelLimb_014"/>
+	<SkeletonLimb Path="objects/object_im/gImpaSkelLimb_015"/>
+</Skeleton>

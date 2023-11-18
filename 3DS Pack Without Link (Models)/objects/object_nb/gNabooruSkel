@@ -1,0 +1,20 @@
+<Skeleton Version="0" Type="Flex" LimbCount="18" DisplayListCount="18">
+	<SkeletonLimb Path="objects/object_nb/gNabooruSkelLimb_000"/>
+	<SkeletonLimb Path="objects/object_nb/gNabooruSkelLimb_001"/>
+	<SkeletonLimb Path="objects/object_nb/gNabooruSkelLimb_002"/>
+	<SkeletonLimb Path="objects/object_nb/gNabooruSkelLimb_003"/>
+	<SkeletonLimb Path="objects/object_nb/gNabooruSkelLimb_004"/>
+	<SkeletonLimb Path="objects/object_nb/gNabooruSkelLimb_005"/>
+	<SkeletonLimb Path="objects/object_nb/gNabooruSkelLimb_006"/>
+	<SkeletonLimb Path="objects/object_nb/gNabooruSkelLimb_007"/>
+	<SkeletonLimb Path="objects/object_nb/gNabooruSkelLimb_008"/>
+	<SkeletonLimb Path="objects/object_nb/gNabooruSkelLimb_009"/>
+	<SkeletonLimb Path="objects/object_nb/gNabooruSkelLimb_010"/>
+	<SkeletonLimb Path="objects/object_nb/gNabooruSkelLimb_011"/>
+	<SkeletonLimb Path="objects/object_nb/gNabooruSkelLimb_012"/>
+	<SkeletonLimb Path="objects/object_nb/gNabooruSkelLimb_013"/>
+	<SkeletonLimb Path="objects/object_nb/gNabooruSkelLimb_014"/>
+	<SkeletonLimb Path="objects/object_nb/gNabooruSkelLimb_015"/>
+	<SkeletonLimb Path="objects/object_nb/gNabooruSkelLimb_016"/>
+	<SkeletonLimb Path="objects/object_nb/gNabooruSkelLimb_017"/>
+</Skeleton>

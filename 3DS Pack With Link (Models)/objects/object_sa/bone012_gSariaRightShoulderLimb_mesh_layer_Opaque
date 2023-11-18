@@ -1,0 +1,6 @@
+<DisplayList Version="0">
+	<CallDisplayList Path="objects/object_sa/mat_gSariaSkel_f3dlite_material_091_layerOpaque"/>
+	<CallDisplayList Path="objects/object_sa/bone012_gSariaRightShoulderLimb_mesh_layer_Opaque_tri_0"/>
+	<EndDisplayList/>
+</DisplayList>
+

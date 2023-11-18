@@ -1,0 +1,10 @@
+<Skeleton Version="0" Type="Flex" LimbCount="8" DisplayListCount="8">
+	<SkeletonLimb Path="objects/object_fish/gFishingOwnerSkelLimb_000"/>
+	<SkeletonLimb Path="objects/object_fish/gFishingOwnerSkelLimb_001"/>
+	<SkeletonLimb Path="objects/object_fish/gFishingOwnerSkelLimb_002"/>
+	<SkeletonLimb Path="objects/object_fish/gFishingOwnerSkelLimb_003"/>
+	<SkeletonLimb Path="objects/object_fish/gFishingOwnerSkelLimb_004"/>
+	<SkeletonLimb Path="objects/object_fish/gFishingOwnerSkelLimb_005"/>
+	<SkeletonLimb Path="objects/object_fish/gFishingOwnerSkelLimb_006"/>
+	<SkeletonLimb Path="objects/object_fish/gFishingOwnerSkelLimb_007"/>
+</Skeleton>

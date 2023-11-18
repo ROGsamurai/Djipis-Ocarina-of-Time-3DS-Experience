@@ -1,0 +1,7 @@
+<DisplayList Version="0">
+	<CallDisplayList Path="objects/object_ane/bone014_gCuccoLadyHeadLimb_mesh_layer_Opaque_tri_0"/>
+	<CallDisplayList Path="objects/object_ane/mat_gCuccoLadySkel_f3dlite_material_027_layerOpaque"/>
+	<CallDisplayList Path="objects/object_ane/bone014_gCuccoLadyHeadLimb_mesh_layer_Opaque_tri_1"/>
+	<EndDisplayList/>
+</DisplayList>
+

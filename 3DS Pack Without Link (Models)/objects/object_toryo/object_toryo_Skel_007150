@@ -1,0 +1,18 @@
+<Skeleton Version="0" Type="Flex" LimbCount="16" DisplayListCount="16">
+	<SkeletonLimb Path="objects/object_toryo/object_toryo_Skel_007150Limb_000"/>
+	<SkeletonLimb Path="objects/object_toryo/object_toryo_Skel_007150Limb_001"/>
+	<SkeletonLimb Path="objects/object_toryo/object_toryo_Skel_007150Limb_002"/>
+	<SkeletonLimb Path="objects/object_toryo/object_toryo_Skel_007150Limb_003"/>
+	<SkeletonLimb Path="objects/object_toryo/object_toryo_Skel_007150Limb_004"/>
+	<SkeletonLimb Path="objects/object_toryo/object_toryo_Skel_007150Limb_005"/>
+	<SkeletonLimb Path="objects/object_toryo/object_toryo_Skel_007150Limb_006"/>
+	<SkeletonLimb Path="objects/object_toryo/object_toryo_Skel_007150Limb_007"/>
+	<SkeletonLimb Path="objects/object_toryo/object_toryo_Skel_007150Limb_008"/>
+	<SkeletonLimb Path="objects/object_toryo/object_toryo_Skel_007150Limb_009"/>
+	<SkeletonLimb Path="objects/object_toryo/object_toryo_Skel_007150Limb_010"/>
+	<SkeletonLimb Path="objects/object_toryo/object_toryo_Skel_007150Limb_011"/>
+	<SkeletonLimb Path="objects/object_toryo/object_toryo_Skel_007150Limb_012"/>
+	<SkeletonLimb Path="objects/object_toryo/object_toryo_Skel_007150Limb_013"/>
+	<SkeletonLimb Path="objects/object_toryo/object_toryo_Skel_007150Limb_014"/>
+	<SkeletonLimb Path="objects/object_toryo/object_toryo_Skel_007150Limb_015"/>
+</Skeleton>

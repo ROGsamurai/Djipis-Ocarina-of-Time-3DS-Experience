@@ -1,0 +1,8 @@
+<DisplayList Version="0">
+	<CallDisplayList Path="alt/objects/object_in/mat_gIngoSkel_f3dlite_material_764_layerOpaque"/>
+	<CallDisplayList Path="alt/objects/object_in/bone013_gIngoRightArmLimb_mesh_layer_Opaque_tri_0"/>
+	<CallDisplayList Path="alt/objects/object_in/mat_gIngoSkel_f3dlite_material_763_layerOpaque"/>
+	<CallDisplayList Path="alt/objects/object_in/bone013_gIngoRightArmLimb_mesh_layer_Opaque_tri_1"/>
+	<EndDisplayList/>
+</DisplayList>
+

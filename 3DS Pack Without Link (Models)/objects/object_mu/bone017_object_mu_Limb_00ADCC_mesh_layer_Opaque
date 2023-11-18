@@ -1,0 +1,6 @@
+<DisplayList Version="0">
+	<CallDisplayList Path="objects/object_mu/mat_gDancingCoupleSkel_f3dlite_material_555_layerOpaque"/>
+	<CallDisplayList Path="objects/object_mu/bone017_object_mu_Limb_00ADCC_mesh_layer_Opaque_tri_0"/>
+	<EndDisplayList/>
+</DisplayList>
+

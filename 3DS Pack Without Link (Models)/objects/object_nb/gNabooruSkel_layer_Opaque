@@ -1,0 +1,6 @@
+<DisplayList Version="0">
+	<CallDisplayList Path="objects/object_nb/mat_gNabooruSkel_f3dlite_material_1022_layerOpaque"/>
+	<CallDisplayList Path="objects/object_nb/gNabooruSkel_layer_Opaque_tri_0"/>
+	<EndDisplayList/>
+</DisplayList>
+

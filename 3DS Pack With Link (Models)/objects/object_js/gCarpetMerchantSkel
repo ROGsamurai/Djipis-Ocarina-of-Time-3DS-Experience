@@ -1,0 +1,14 @@
+<Skeleton Version="0" Type="Flex" LimbCount="12" DisplayListCount="12">
+	<SkeletonLimb Path="objects/object_js/gCarpetMerchantSkelLimb_000"/>
+	<SkeletonLimb Path="objects/object_js/gCarpetMerchantSkelLimb_001"/>
+	<SkeletonLimb Path="objects/object_js/gCarpetMerchantSkelLimb_002"/>
+	<SkeletonLimb Path="objects/object_js/gCarpetMerchantSkelLimb_003"/>
+	<SkeletonLimb Path="objects/object_js/gCarpetMerchantSkelLimb_004"/>
+	<SkeletonLimb Path="objects/object_js/gCarpetMerchantSkelLimb_005"/>
+	<SkeletonLimb Path="objects/object_js/gCarpetMerchantSkelLimb_006"/>
+	<SkeletonLimb Path="objects/object_js/gCarpetMerchantSkelLimb_007"/>
+	<SkeletonLimb Path="objects/object_js/gCarpetMerchantSkelLimb_008"/>
+	<SkeletonLimb Path="objects/object_js/gCarpetMerchantSkelLimb_009"/>
+	<SkeletonLimb Path="objects/object_js/gCarpetMerchantSkelLimb_010"/>
+	<SkeletonLimb Path="objects/object_js/gCarpetMerchantSkelLimb_011"/>
+</Skeleton>

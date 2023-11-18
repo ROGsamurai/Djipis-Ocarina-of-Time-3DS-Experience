@@ -1,0 +1,10 @@
+<Skeleton Version="0" Type="Flex" LimbCount="8" DisplayListCount="8">
+	<SkeletonLimb Path="objects/object_rs/object_rs_Skel_004868Limb_000"/>
+	<SkeletonLimb Path="objects/object_rs/object_rs_Skel_004868Limb_001"/>
+	<SkeletonLimb Path="objects/object_rs/object_rs_Skel_004868Limb_002"/>
+	<SkeletonLimb Path="objects/object_rs/object_rs_Skel_004868Limb_003"/>
+	<SkeletonLimb Path="objects/object_rs/object_rs_Skel_004868Limb_004"/>
+	<SkeletonLimb Path="objects/object_rs/object_rs_Skel_004868Limb_005"/>
+	<SkeletonLimb Path="objects/object_rs/object_rs_Skel_004868Limb_006"/>
+	<SkeletonLimb Path="objects/object_rs/object_rs_Skel_004868Limb_007"/>
+</Skeleton>

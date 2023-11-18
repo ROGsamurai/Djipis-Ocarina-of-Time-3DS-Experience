@@ -1,0 +1,8 @@
+<DisplayList Version="0">
+	<CallDisplayList Path="objects/object_nb/mat_gNabooruSkel_f3dlite_material_985_layerOpaque"/>
+	<CallDisplayList Path="objects/object_nb/bone005_gNabooruRightShinLimb_mesh_layer_Opaque_tri_0"/>
+	<CallDisplayList Path="objects/object_nb/mat_gNabooruSkel_f3dlite_material_1022_layerOpaque"/>
+	<CallDisplayList Path="objects/object_nb/bone005_gNabooruRightShinLimb_mesh_layer_Opaque_tri_1"/>
+	<EndDisplayList/>
+</DisplayList>
+

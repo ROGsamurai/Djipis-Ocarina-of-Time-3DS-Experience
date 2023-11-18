@@ -1,0 +1,25 @@
+<Skeleton Version="0" Type="Flex" LimbCount="23" DisplayListCount="23">
+	<SkeletonLimb Path="objects/object_geldb/gGerudoRedSkelLimb_000"/>
+	<SkeletonLimb Path="objects/object_geldb/gGerudoRedSkelLimb_001"/>
+	<SkeletonLimb Path="objects/object_geldb/gGerudoRedSkelLimb_002"/>
+	<SkeletonLimb Path="objects/object_geldb/gGerudoRedSkelLimb_003"/>
+	<SkeletonLimb Path="objects/object_geldb/gGerudoRedSkelLimb_004"/>
+	<SkeletonLimb Path="objects/object_geldb/gGerudoRedSkelLimb_005"/>
+	<SkeletonLimb Path="objects/object_geldb/gGerudoRedSkelLimb_006"/>
+	<SkeletonLimb Path="objects/object_geldb/gGerudoRedSkelLimb_007"/>
+	<SkeletonLimb Path="objects/object_geldb/gGerudoRedSkelLimb_008"/>
+	<SkeletonLimb Path="objects/object_geldb/gGerudoRedSkelLimb_009"/>
+	<SkeletonLimb Path="objects/object_geldb/gGerudoRedSkelLimb_010"/>
+	<SkeletonLimb Path="objects/object_geldb/gGerudoRedSkelLimb_011"/>
+	<SkeletonLimb Path="objects/object_geldb/gGerudoRedSkelLimb_012"/>
+	<SkeletonLimb Path="objects/object_geldb/gGerudoRedSkelLimb_013"/>
+	<SkeletonLimb Path="objects/object_geldb/gGerudoRedSkelLimb_014"/>
+	<SkeletonLimb Path="objects/object_geldb/gGerudoRedSkelLimb_015"/>
+	<SkeletonLimb Path="objects/object_geldb/gGerudoRedSkelLimb_016"/>
+	<SkeletonLimb Path="objects/object_geldb/gGerudoRedSkelLimb_017"/>
+	<SkeletonLimb Path="objects/object_geldb/gGerudoRedSkelLimb_018"/>
+	<SkeletonLimb Path="objects/object_geldb/gGerudoRedSkelLimb_019"/>
+	<SkeletonLimb Path="objects/object_geldb/gGerudoRedSkelLimb_020"/>
+	<SkeletonLimb Path="objects/object_geldb/gGerudoRedSkelLimb_021"/>
+	<SkeletonLimb Path="objects/object_geldb/gGerudoRedSkelLimb_022"/>
+</Skeleton>

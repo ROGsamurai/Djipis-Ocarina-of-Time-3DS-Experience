@@ -1,0 +1,8 @@
+<DisplayList Version="0">
+	<CallDisplayList Path="objects/object_jj/mat_gJabuJabuSkel_JabuJabuBody_layerOpaque"/>
+	<CallDisplayList Path="objects/object_jj/gJabuJabuSkel_layer_Opaque_tri_0"/>
+	<CallDisplayList Path="objects/object_jj/mat_gJabuJabuSkel_JabuJabuTeeth_layerOpaque"/>
+	<CallDisplayList Path="objects/object_jj/gJabuJabuSkel_layer_Opaque_tri_1"/>
+	<EndDisplayList/>
+</DisplayList>
+

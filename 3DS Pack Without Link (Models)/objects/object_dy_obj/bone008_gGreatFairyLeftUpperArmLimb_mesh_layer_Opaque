@@ -1,0 +1,6 @@
+<DisplayList Version="0">
+	<CallDisplayList Path="objects/object_dy_obj/mat_gGreatFairySkel_f3dlite_material_048_layerOpaque"/>
+	<CallDisplayList Path="objects/object_dy_obj/bone008_gGreatFairyLeftUpperArmLimb_mesh_layer_Opaque_tri_0"/>
+	<EndDisplayList/>
+</DisplayList>
+

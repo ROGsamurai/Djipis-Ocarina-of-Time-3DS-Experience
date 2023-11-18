@@ -1,0 +1,10 @@
+<DisplayList Version="0">
+	<CallDisplayList Path="objects/object_geldb/mat_gGerudoRedSkel_f3dlite_material_1065_layerOpaque"/>
+	<CallDisplayList Path="objects/object_geldb/bone005_gGerudoRedSkelLimbsLimb_00A324_mesh_layer_Opaque_tri_0"/>
+	<CallDisplayList Path="objects/object_geldb/mat_gGerudoRedSkel_f3dlite_material_1066_layerOpaque"/>
+	<CallDisplayList Path="objects/object_geldb/bone005_gGerudoRedSkelLimbsLimb_00A324_mesh_layer_Opaque_tri_1"/>
+	<CallDisplayList Path="objects/object_geldb/mat_gGerudoRedSkel_f3dlite_material_1312_layerOpaque"/>
+	<CallDisplayList Path="objects/object_geldb/bone005_gGerudoRedSkelLimbsLimb_00A324_mesh_layer_Opaque_tri_2"/>
+	<EndDisplayList/>
+</DisplayList>
+

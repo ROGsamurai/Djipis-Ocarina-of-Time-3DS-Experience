@@ -1,0 +1,6 @@
+<DisplayList Version="0">
+	<CallDisplayList Path="objects/object_toryo/mat_object_toryo_Skel_007150_f3dlite_material_254_layerOpaque"/>
+	<CallDisplayList Path="objects/object_toryo/bone002_object_toryo_Limb_007068_mesh_layer_Opaque_tri_0"/>
+	<EndDisplayList/>
+</DisplayList>
+

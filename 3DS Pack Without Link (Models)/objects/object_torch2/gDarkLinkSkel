@@ -1,0 +1,23 @@
+<Skeleton Version="0" Type="Flex" LimbCount="21" DisplayListCount="21">
+	<SkeletonLimb Path="objects/object_torch2/gDarkLinkSkelLimb_000"/>
+	<SkeletonLimb Path="objects/object_torch2/gDarkLinkSkelLimb_001"/>
+	<SkeletonLimb Path="objects/object_torch2/gDarkLinkSkelLimb_002"/>
+	<SkeletonLimb Path="objects/object_torch2/gDarkLinkSkelLimb_003"/>
+	<SkeletonLimb Path="objects/object_torch2/gDarkLinkSkelLimb_004"/>
+	<SkeletonLimb Path="objects/object_torch2/gDarkLinkSkelLimb_005"/>
+	<SkeletonLimb Path="objects/object_torch2/gDarkLinkSkelLimb_006"/>
+	<SkeletonLimb Path="objects/object_torch2/gDarkLinkSkelLimb_007"/>
+	<SkeletonLimb Path="objects/object_torch2/gDarkLinkSkelLimb_008"/>
+	<SkeletonLimb Path="objects/object_torch2/gDarkLinkSkelLimb_009"/>
+	<SkeletonLimb Path="objects/object_torch2/gDarkLinkSkelLimb_010"/>
+	<SkeletonLimb Path="objects/object_torch2/gDarkLinkSkelLimb_011"/>
+	<SkeletonLimb Path="objects/object_torch2/gDarkLinkSkelLimb_012"/>
+	<SkeletonLimb Path="objects/object_torch2/gDarkLinkSkelLimb_013"/>
+	<SkeletonLimb Path="objects/object_torch2/gDarkLinkSkelLimb_014"/>
+	<SkeletonLimb Path="objects/object_torch2/gDarkLinkSkelLimb_015"/>
+	<SkeletonLimb Path="objects/object_torch2/gDarkLinkSkelLimb_016"/>
+	<SkeletonLimb Path="objects/object_torch2/gDarkLinkSkelLimb_017"/>
+	<SkeletonLimb Path="objects/object_torch2/gDarkLinkSkelLimb_018"/>
+	<SkeletonLimb Path="objects/object_torch2/gDarkLinkSkelLimb_019"/>
+	<SkeletonLimb Path="objects/object_torch2/gDarkLinkSkelLimb_020"/>
+</Skeleton>

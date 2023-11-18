@@ -1,0 +1,17 @@
+<Skeleton Version="0" Type="Flex" LimbCount="15" DisplayListCount="15">
+	<SkeletonLimb Path="objects/object_niw/gCuccoSkelLimb_000"/>
+	<SkeletonLimb Path="objects/object_niw/gCuccoSkelLimb_001"/>
+	<SkeletonLimb Path="objects/object_niw/gCuccoSkelLimb_002"/>
+	<SkeletonLimb Path="objects/object_niw/gCuccoSkelLimb_003"/>
+	<SkeletonLimb Path="objects/object_niw/gCuccoSkelLimb_004"/>
+	<SkeletonLimb Path="objects/object_niw/gCuccoSkelLimb_005"/>
+	<SkeletonLimb Path="objects/object_niw/gCuccoSkelLimb_006"/>
+	<SkeletonLimb Path="objects/object_niw/gCuccoSkelLimb_007"/>
+	<SkeletonLimb Path="objects/object_niw/gCuccoSkelLimb_008"/>
+	<SkeletonLimb Path="objects/object_niw/gCuccoSkelLimb_009"/>
+	<SkeletonLimb Path="objects/object_niw/gCuccoSkelLimb_010"/>
+	<SkeletonLimb Path="objects/object_niw/gCuccoSkelLimb_011"/>
+	<SkeletonLimb Path="objects/object_niw/gCuccoSkelLimb_012"/>
+	<SkeletonLimb Path="objects/object_niw/gCuccoSkelLimb_013"/>
+	<SkeletonLimb Path="objects/object_niw/gCuccoSkelLimb_014"/>
+</Skeleton>

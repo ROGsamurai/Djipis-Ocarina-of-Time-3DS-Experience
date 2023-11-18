@@ -1,0 +1,19 @@
+<Skeleton Version="0" Type="Flex" LimbCount="17" DisplayListCount="17">
+	<SkeletonLimb Path="objects/object_du/gDaruniaSkelLimb_000"/>
+	<SkeletonLimb Path="objects/object_du/gDaruniaSkelLimb_001"/>
+	<SkeletonLimb Path="objects/object_du/gDaruniaSkelLimb_002"/>
+	<SkeletonLimb Path="objects/object_du/gDaruniaSkelLimb_003"/>
+	<SkeletonLimb Path="objects/object_du/gDaruniaSkelLimb_004"/>
+	<SkeletonLimb Path="objects/object_du/gDaruniaSkelLimb_005"/>
+	<SkeletonLimb Path="objects/object_du/gDaruniaSkelLimb_006"/>
+	<SkeletonLimb Path="objects/object_du/gDaruniaSkelLimb_007"/>
+	<SkeletonLimb Path="objects/object_du/gDaruniaSkelLimb_008"/>
+	<SkeletonLimb Path="objects/object_du/gDaruniaSkelLimb_009"/>
+	<SkeletonLimb Path="objects/object_du/gDaruniaSkelLimb_010"/>
+	<SkeletonLimb Path="objects/object_du/gDaruniaSkelLimb_011"/>
+	<SkeletonLimb Path="objects/object_du/gDaruniaSkelLimb_012"/>
+	<SkeletonLimb Path="objects/object_du/gDaruniaSkelLimb_013"/>
+	<SkeletonLimb Path="objects/object_du/gDaruniaSkelLimb_014"/>
+	<SkeletonLimb Path="objects/object_du/gDaruniaSkelLimb_015"/>
+	<SkeletonLimb Path="objects/object_du/gDaruniaSkelLimb_016"/>
+</Skeleton>

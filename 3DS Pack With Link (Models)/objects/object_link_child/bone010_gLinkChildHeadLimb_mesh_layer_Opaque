@@ -1,0 +1,14 @@
+<DisplayList Version="0">
+	<CallDisplayList Path="objects/object_link_child/mat_gLinkChildSkel_gLinkChildEyesOpenTex_layerOpaque"/>
+	<CallDisplayList Path="objects/object_link_child/bone010_gLinkChildHeadLimb_mesh_layer_Opaque_tri_0"/>
+	<CallDisplayList Path="objects/object_link_child/mat_gLinkChildSkel_f3dlite_material_057_layerOpaque"/>
+	<CallDisplayList Path="objects/object_link_child/bone010_gLinkChildHeadLimb_mesh_layer_Opaque_tri_1"/>
+	<CallDisplayList Path="objects/object_link_child/mat_gLinkChildSkel_gLinkChildMouth1Tex_layerOpaque"/>
+	<CallDisplayList Path="objects/object_link_child/bone010_gLinkChildHeadLimb_mesh_layer_Opaque_tri_2"/>
+	<CallDisplayList Path="objects/object_link_child/mat_gLinkChildSkel_f3dlite_material_054_layerOpaque"/>
+	<CallDisplayList Path="objects/object_link_child/bone010_gLinkChildHeadLimb_mesh_layer_Opaque_tri_3"/>
+	<CallDisplayList Path="objects/object_link_child/mat_gLinkChildSkel_f3dlite_material_058_layerOpaque"/>
+	<CallDisplayList Path="objects/object_link_child/bone010_gLinkChildHeadLimb_mesh_layer_Opaque_tri_4"/>
+	<EndDisplayList/>
+</DisplayList>
+

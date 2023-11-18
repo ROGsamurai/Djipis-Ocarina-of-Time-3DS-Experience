@@ -1,0 +1,10 @@
+extern u64 p_tex01_DCA0[];
+extern u64 p_tex05_4320[];
+extern Vtx gLinkAdultRightHandHoldingBowNearDL_layer_Opaque_vtx_cull[8];
+extern Vtx gLinkAdultRightHandHoldingBowNearDL_layer_Opaque_vtx_0[57];
+extern Gfx gLinkAdultRightHandHoldingBowNearDL_layer_Opaque_tri_0[];
+extern Vtx gLinkAdultRightHandHoldingBowNearDL_layer_Opaque_vtx_1[280];
+extern Gfx gLinkAdultRightHandHoldingBowNearDL_layer_Opaque_tri_1[];
+extern Gfx mat_gLinkAdultRightHandHoldingBowNearDL_f3dlite_material_143_layerOpaque[];
+extern Gfx mat_gLinkAdultRightHandHoldingBowNearDL_f3dlite_material_002_layerOpaque[];
+extern Gfx gLinkAdultRightHandHoldingBowNearDL[];

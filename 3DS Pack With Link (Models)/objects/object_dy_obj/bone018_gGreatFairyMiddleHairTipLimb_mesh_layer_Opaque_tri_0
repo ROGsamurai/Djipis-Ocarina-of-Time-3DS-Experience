@@ -1,0 +1,13 @@
+<DisplayList Version="0">
+	<LoadVertices Path="objects/object_dy_obj/bone018_gGreatFairyMiddleHairTipLimb_mesh_layer_Opaque_vtx_0" VertexBufferIndex="0" VertexOffset="0" Count="5"/>
+	<Matrix Path=">0x0d000440" Param="G_MTX_LOAD"/>
+	<LoadVertices Path="objects/object_dy_obj/bone018_gGreatFairyMiddleHairTipLimb_mesh_layer_Opaque_vtx_0" VertexBufferIndex="5" VertexOffset="5" Count="4"/>
+	<Triangles2 V00="0" V01="5" V02="6" Flag0="0" V10="0" V11="7" V12="5" Flag1="0"/>
+	<Triangles2 V00="0" V01="1" V02="7" Flag0="0" V10="2" V11="1" V12="0" Flag1="0"/>
+	<Triangles2 V00="2" V01="0" V02="3" Flag0="0" V10="0" V11="6" V12="3" Flag1="0"/>
+	<Triangles2 V00="4" V01="3" V02="6" Flag0="0" V10="8" V11="4" V12="6" Flag1="0"/>
+	<Triangles2 V00="8" V01="7" V02="4" Flag0="0" V10="4" V11="7" V12="1" Flag1="0"/>
+	<Triangles2 V00="4" V01="1" V02="2" Flag0="0" V10="4" V11="2" V12="3" Flag1="0"/>
+	<EndDisplayList/>
+</DisplayList>
+

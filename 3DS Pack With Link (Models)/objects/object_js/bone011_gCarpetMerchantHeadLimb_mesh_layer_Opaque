@@ -1,0 +1,6 @@
+<DisplayList Version="0">
+	<CallDisplayList Path="objects/object_js/mat_gCarpetMerchantSkel_f3dlite_material_919_layerOpaque"/>
+	<CallDisplayList Path="objects/object_js/bone011_gCarpetMerchantHeadLimb_mesh_layer_Opaque_tri_0"/>
+	<EndDisplayList/>
+</DisplayList>
+

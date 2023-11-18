@@ -1,0 +1,10 @@
+<DisplayList Version="0">
+	<CallDisplayList Path="objects/object_mu/mat_object_mu_Skel_004F70_f3dlite_material_449_layerOpaque"/>
+	<CallDisplayList Path="objects/object_mu/bone012_object_mu_Limb_004F10_mesh_layer_Opaque_tri_0"/>
+	<CallDisplayList Path="objects/object_mu/mat_object_mu_Skel_004F70_f3dlite_material_509_layerOpaque"/>
+	<CallDisplayList Path="objects/object_mu/bone012_object_mu_Limb_004F10_mesh_layer_Opaque_tri_1"/>
+	<CallDisplayList Path="objects/object_mu/mat_object_mu_Skel_004F70_f3dlite_material_507_layerOpaque"/>
+	<CallDisplayList Path="objects/object_mu/bone012_object_mu_Limb_004F10_mesh_layer_Opaque_tri_2"/>
+	<EndDisplayList/>
+</DisplayList>
+

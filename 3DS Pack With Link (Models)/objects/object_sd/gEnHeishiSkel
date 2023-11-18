@@ -1,0 +1,18 @@
+<Skeleton Version="0" Type="Flex" LimbCount="16" DisplayListCount="16">
+	<SkeletonLimb Path="objects/object_sd/gEnHeishiSkelLimb_000"/>
+	<SkeletonLimb Path="objects/object_sd/gEnHeishiSkelLimb_001"/>
+	<SkeletonLimb Path="objects/object_sd/gEnHeishiSkelLimb_002"/>
+	<SkeletonLimb Path="objects/object_sd/gEnHeishiSkelLimb_003"/>
+	<SkeletonLimb Path="objects/object_sd/gEnHeishiSkelLimb_004"/>
+	<SkeletonLimb Path="objects/object_sd/gEnHeishiSkelLimb_005"/>
+	<SkeletonLimb Path="objects/object_sd/gEnHeishiSkelLimb_006"/>
+	<SkeletonLimb Path="objects/object_sd/gEnHeishiSkelLimb_007"/>
+	<SkeletonLimb Path="objects/object_sd/gEnHeishiSkelLimb_008"/>
+	<SkeletonLimb Path="objects/object_sd/gEnHeishiSkelLimb_009"/>
+	<SkeletonLimb Path="objects/object_sd/gEnHeishiSkelLimb_010"/>
+	<SkeletonLimb Path="objects/object_sd/gEnHeishiSkelLimb_011"/>
+	<SkeletonLimb Path="objects/object_sd/gEnHeishiSkelLimb_012"/>
+	<SkeletonLimb Path="objects/object_sd/gEnHeishiSkelLimb_013"/>
+	<SkeletonLimb Path="objects/object_sd/gEnHeishiSkelLimb_014"/>
+	<SkeletonLimb Path="objects/object_sd/gEnHeishiSkelLimb_015"/>
+</Skeleton>

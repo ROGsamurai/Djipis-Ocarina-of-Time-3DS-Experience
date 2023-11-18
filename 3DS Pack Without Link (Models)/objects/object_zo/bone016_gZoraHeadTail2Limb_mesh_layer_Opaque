@@ -1,0 +1,6 @@
+<DisplayList Version="0">
+	<CallDisplayList Path="objects/object_zo/mat_gZoraSkel_f3dlite_material_278_layerOpaque"/>
+	<CallDisplayList Path="objects/object_zo/bone016_gZoraHeadTail2Limb_mesh_layer_Opaque_tri_0"/>
+	<EndDisplayList/>
+</DisplayList>
+

@@ -1,0 +1,11 @@
+<DisplayList Version="0">
+	<LoadVertices Path="objects/object_bg/bone002_gChuGirlNeckLimb_mesh_layer_Opaque_vtx_0" VertexBufferIndex="0" VertexOffset="0" Count="4"/>
+	<Matrix Path=">0x0d000040" Param="G_MTX_LOAD"/>
+	<LoadVertices Path="objects/object_bg/bone002_gChuGirlNeckLimb_mesh_layer_Opaque_vtx_0" VertexBufferIndex="4" VertexOffset="4" Count="4"/>
+	<Triangles2 V00="4" V01="5" V02="0" Flag0="0" V10="1" V11="0" V12="5" Flag1="0"/>
+	<Triangles2 V00="5" V01="6" V02="1" Flag0="0" V10="7" V11="1" V12="6" Flag1="0"/>
+	<Triangles2 V00="1" V01="7" V02="2" Flag0="0" V10="4" V11="2" V12="7" Flag1="0"/>
+	<Triangles2 V00="2" V01="4" V02="3" Flag0="0" V10="0" V11="3" V12="4" Flag1="0"/>
+	<EndDisplayList/>
+</DisplayList>
+

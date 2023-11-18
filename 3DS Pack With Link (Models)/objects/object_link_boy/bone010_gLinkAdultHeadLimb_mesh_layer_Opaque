@@ -1,0 +1,14 @@
+<DisplayList Version="0">
+	<CallDisplayList Path="objects/object_link_boy/mat_gLinkAdultSkel_f3dlite_material_145_layerOpaque"/>
+	<CallDisplayList Path="objects/object_link_boy/bone010_gLinkAdultHeadLimb_mesh_layer_Opaque_tri_0"/>
+	<CallDisplayList Path="objects/object_link_boy/mat_gLinkAdultSkel_f3dlite_material_104_layerOpaque"/>
+	<CallDisplayList Path="objects/object_link_boy/bone010_gLinkAdultHeadLimb_mesh_layer_Opaque_tri_1"/>
+	<CallDisplayList Path="objects/object_link_boy/mat_gLinkAdultSkel_f3dlite_material_102_layerOpaque"/>
+	<CallDisplayList Path="objects/object_link_boy/bone010_gLinkAdultHeadLimb_mesh_layer_Opaque_tri_2"/>
+	<CallDisplayList Path="objects/object_link_boy/mat_gLinkAdultSkel_f3dlite_material_101_layerOpaque"/>
+	<CallDisplayList Path="objects/object_link_boy/bone010_gLinkAdultHeadLimb_mesh_layer_Opaque_tri_3"/>
+	<CallDisplayList Path="objects/object_link_boy/mat_gLinkAdultSkel_f3dlite_material_103_layerOpaque"/>
+	<CallDisplayList Path="objects/object_link_boy/bone010_gLinkAdultHeadLimb_mesh_layer_Opaque_tri_4"/>
+	<EndDisplayList/>
+</DisplayList>
+

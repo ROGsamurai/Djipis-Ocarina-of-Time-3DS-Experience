@@ -1,0 +1,6 @@
+<DisplayList Version="0">
+	<CallDisplayList Path="objects/object_torch2/mat_gDarkLinkSkel_f3dlite_material_021_layerOpaque"/>
+	<CallDisplayList Path="objects/object_torch2/bone011_gLinkAdultHatLimb_mesh_layer_Opaque_tri_0"/>
+	<EndDisplayList/>
+</DisplayList>
+

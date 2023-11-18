@@ -1,0 +1,8 @@
+<DisplayList Version="0">
+	<CallDisplayList Path="objects/object_xc/mat_gSheikSkel_f3dlite_material_1204_layerOpaque"/>
+	<CallDisplayList Path="objects/object_xc/bone015_gSheikSkelLimbsLimb_012AA4_mesh_layer_Opaque_tri_0"/>
+	<CallDisplayList Path="objects/object_xc/mat_gSheikSkel_f3dlite_material_1205_layerOpaque"/>
+	<CallDisplayList Path="objects/object_xc/bone015_gSheikSkelLimbsLimb_012AA4_mesh_layer_Opaque_tri_1"/>
+	<EndDisplayList/>
+</DisplayList>
+

@@ -1,0 +1,16 @@
+<DisplayList Version="0">
+	<LoadVertices Path="objects/object_mu/object_mu_Skel_004F70_layer_Opaque_vtx_1" VertexBufferIndex="0" VertexOffset="0" Count="20"/>
+	<Triangles2 V00="0" V01="1" V02="2" Flag0="0" V10="3" V11="1" V12="0" Flag1="0"/>
+	<Triangles2 V00="3" V01="0" V02="4" Flag0="0" V10="3" V11="4" V12="5" Flag1="0"/>
+	<Triangles2 V00="4" V01="6" V02="5" Flag0="0" V10="4" V11="7" V12="6" Flag1="0"/>
+	<Triangles2 V00="5" V01="6" V02="8" Flag0="0" V10="8" V11="9" V12="5" Flag1="0"/>
+	<Triangles2 V00="8" V01="10" V02="9" Flag0="0" V10="10" V11="8" V12="11" Flag1="0"/>
+	<Triangles2 V00="11" V01="12" V02="10" Flag0="0" V10="11" V11="13" V12="12" Flag1="0"/>
+	<Triangles2 V00="13" V01="11" V02="14" Flag0="0" V10="15" V11="13" V12="14" Flag1="0"/>
+	<Triangles2 V00="15" V01="14" V02="16" Flag0="0" V10="17" V11="13" V12="15" Flag1="0"/>
+	<Triangles2 V00="17" V01="12" V02="13" Flag0="0" V10="17" V11="18" V12="12" Flag1="0"/>
+	<Triangles2 V00="3" V01="19" V02="1" Flag0="0" V10="3" V11="9" V12="19" Flag1="0"/>
+	<Triangle1 V00="3" V01="5" V02="9"/>
+	<EndDisplayList/>
+</DisplayList>
+

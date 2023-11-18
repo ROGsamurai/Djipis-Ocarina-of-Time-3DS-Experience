@@ -1,0 +1,29 @@
+<Skeleton Version="0" Type="Flex" LimbCount="27" DisplayListCount="27">
+	<SkeletonLimb Path="objects/object_dy_obj/gGreatFairySkelLimb_000"/>
+	<SkeletonLimb Path="objects/object_dy_obj/gGreatFairySkelLimb_001"/>
+	<SkeletonLimb Path="objects/object_dy_obj/gGreatFairySkelLimb_002"/>
+	<SkeletonLimb Path="objects/object_dy_obj/gGreatFairySkelLimb_003"/>
+	<SkeletonLimb Path="objects/object_dy_obj/gGreatFairySkelLimb_004"/>
+	<SkeletonLimb Path="objects/object_dy_obj/gGreatFairySkelLimb_005"/>
+	<SkeletonLimb Path="objects/object_dy_obj/gGreatFairySkelLimb_006"/>
+	<SkeletonLimb Path="objects/object_dy_obj/gGreatFairySkelLimb_007"/>
+	<SkeletonLimb Path="objects/object_dy_obj/gGreatFairySkelLimb_008"/>
+	<SkeletonLimb Path="objects/object_dy_obj/gGreatFairySkelLimb_009"/>
+	<SkeletonLimb Path="objects/object_dy_obj/gGreatFairySkelLimb_010"/>
+	<SkeletonLimb Path="objects/object_dy_obj/gGreatFairySkelLimb_011"/>
+	<SkeletonLimb Path="objects/object_dy_obj/gGreatFairySkelLimb_012"/>
+	<SkeletonLimb Path="objects/object_dy_obj/gGreatFairySkelLimb_013"/>
+	<SkeletonLimb Path="objects/object_dy_obj/gGreatFairySkelLimb_014"/>
+	<SkeletonLimb Path="objects/object_dy_obj/gGreatFairySkelLimb_015"/>
+	<SkeletonLimb Path="objects/object_dy_obj/gGreatFairySkelLimb_016"/>
+	<SkeletonLimb Path="objects/object_dy_obj/gGreatFairySkelLimb_017"/>
+	<SkeletonLimb Path="objects/object_dy_obj/gGreatFairySkelLimb_018"/>
+	<SkeletonLimb Path="objects/object_dy_obj/gGreatFairySkelLimb_019"/>
+	<SkeletonLimb Path="objects/object_dy_obj/gGreatFairySkelLimb_020"/>
+	<SkeletonLimb Path="objects/object_dy_obj/gGreatFairySkelLimb_021"/>
+	<SkeletonLimb Path="objects/object_dy_obj/gGreatFairySkelLimb_022"/>
+	<SkeletonLimb Path="objects/object_dy_obj/gGreatFairySkelLimb_023"/>
+	<SkeletonLimb Path="objects/object_dy_obj/gGreatFairySkelLimb_024"/>
+	<SkeletonLimb Path="objects/object_dy_obj/gGreatFairySkelLimb_025"/>
+	<SkeletonLimb Path="objects/object_dy_obj/gGreatFairySkelLimb_026"/>
+</Skeleton>

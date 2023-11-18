@@ -1,0 +1,10 @@
+<DisplayList Version="0">
+	<CallDisplayList Path="objects/object_torch2/mat_gDarkLinkSkel_f3dlite_material_026_layerOpaque"/>
+	<CallDisplayList Path="objects/object_torch2/bone018_gLinkAdultRightHandLimb_mesh_layer_Opaque_tri_0"/>
+	<CallDisplayList Path="objects/object_torch2/mat_gDarkLinkSkel_f3dlite_material_021_layerOpaque"/>
+	<CallDisplayList Path="objects/object_torch2/bone018_gLinkAdultRightHandLimb_mesh_layer_Opaque_tri_1"/>
+	<CallDisplayList Path="objects/object_torch2/mat_gDarkLinkSkel_f3dlite_material_022_layerOpaque"/>
+	<CallDisplayList Path="objects/object_torch2/bone018_gLinkAdultRightHandLimb_mesh_layer_Opaque_tri_2"/>
+	<EndDisplayList/>
+</DisplayList>
+

@@ -1,0 +1,11 @@
+<DisplayList Version="0">
+	<LoadVertices Path="objects/object_po_composer/gPoeComposerLanternTopDL_vtx_1" VertexBufferIndex="0" VertexOffset="0" Count="15"/>
+	<Triangles2 V00="0" V01="1" V02="2" Flag0="0" V10="0" V11="3" V12="1" Flag1="0"/>
+	<Triangles2 V00="0" V01="4" V02="3" Flag0="0" V10="5" V11="6" V12="4" Flag1="0"/>
+	<Triangles2 V00="5" V01="7" V02="6" Flag0="0" V10="5" V11="2" V12="7" Flag1="0"/>
+	<Triangles2 V00="8" V01="9" V02="10" Flag0="0" V10="9" V11="11" V12="10" Flag1="0"/>
+	<Triangles2 V00="11" V01="12" V02="10" Flag0="0" V10="13" V11="10" V12="12" Flag1="0"/>
+	<Triangles2 V00="14" V01="10" V02="13" Flag0="0" V10="8" V11="10" V12="14" Flag1="0"/>
+	<EndDisplayList/>
+</DisplayList>
+

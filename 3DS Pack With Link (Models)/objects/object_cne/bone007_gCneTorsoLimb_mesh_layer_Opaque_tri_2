@@ -1,0 +1,12 @@
+<DisplayList Version="0">
+	<LoadVertices Path="objects/object_cne/bone007_gCneTorsoLimb_mesh_layer_Opaque_vtx_2" VertexBufferIndex="0" VertexOffset="0" Count="5"/>
+	<Matrix Path=">0x0d000000" Param="G_MTX_LOAD"/>
+	<LoadVertices Path="objects/object_cne/bone007_gCneTorsoLimb_mesh_layer_Opaque_vtx_2" VertexBufferIndex="5" VertexOffset="5" Count="6"/>
+	<Triangles2 V00="5" V01="6" V02="0" Flag0="0" V10="7" V11="5" V12="0" Flag1="0"/>
+	<Triangles2 V00="1" V01="7" V02="0" Flag0="0" V10="7" V11="1" V12="8" Flag1="0"/>
+	<Triangles2 V00="8" V01="1" V02="2" Flag0="0" V10="8" V11="2" V12="3" Flag1="0"/>
+	<Triangles2 V00="9" V01="8" V02="3" Flag0="0" V10="3" V11="4" V12="9" Flag1="0"/>
+	<Triangles2 V00="9" V01="4" V02="10" Flag0="0" V10="10" V11="4" V12="6" Flag1="0"/>
+	<EndDisplayList/>
+</DisplayList>
+

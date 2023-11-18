@@ -1,0 +1,6 @@
+<DisplayList Version="0">
+	<CallDisplayList Path="objects/object_os/mat_gHappyMaskSalesmanSkel_f3dlite_material_1111_layerOpaque"/>
+	<CallDisplayList Path="objects/object_os/bone002_gHappyMaskSalesmanLeftForearmLimb_mesh_layer_Opaque_tri_0"/>
+	<EndDisplayList/>
+</DisplayList>
+

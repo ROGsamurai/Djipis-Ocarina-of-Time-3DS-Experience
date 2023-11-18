@@ -1,0 +1,19 @@
+<Skeleton Version="0" Type="Flex" LimbCount="17" DisplayListCount="17">
+	<SkeletonLimb Path="objects/object_tk/gDampeSkelLimb_000"/>
+	<SkeletonLimb Path="objects/object_tk/gDampeSkelLimb_001"/>
+	<SkeletonLimb Path="objects/object_tk/gDampeSkelLimb_002"/>
+	<SkeletonLimb Path="objects/object_tk/gDampeSkelLimb_003"/>
+	<SkeletonLimb Path="objects/object_tk/gDampeSkelLimb_004"/>
+	<SkeletonLimb Path="objects/object_tk/gDampeSkelLimb_005"/>
+	<SkeletonLimb Path="objects/object_tk/gDampeSkelLimb_006"/>
+	<SkeletonLimb Path="objects/object_tk/gDampeSkelLimb_007"/>
+	<SkeletonLimb Path="objects/object_tk/gDampeSkelLimb_008"/>
+	<SkeletonLimb Path="objects/object_tk/gDampeSkelLimb_009"/>
+	<SkeletonLimb Path="objects/object_tk/gDampeSkelLimb_010"/>
+	<SkeletonLimb Path="objects/object_tk/gDampeSkelLimb_011"/>
+	<SkeletonLimb Path="objects/object_tk/gDampeSkelLimb_012"/>
+	<SkeletonLimb Path="objects/object_tk/gDampeSkelLimb_013"/>
+	<SkeletonLimb Path="objects/object_tk/gDampeSkelLimb_014"/>
+	<SkeletonLimb Path="objects/object_tk/gDampeSkelLimb_015"/>
+	<SkeletonLimb Path="objects/object_tk/gDampeSkelLimb_016"/>
+</Skeleton>

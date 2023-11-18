@@ -1,0 +1,8 @@
+<DisplayList Version="0">
+	<CallDisplayList Path="objects/object_mm/mat_gRunningManSkel_f3dlite_material_736_layerOpaque"/>
+	<CallDisplayList Path="objects/object_mm/bone014_gRunningManSkelLimbsLimb_005DD0_mesh_layer_Opaque_tri_0"/>
+	<CallDisplayList Path="objects/object_mm/mat_gRunningManSkel_f3dlite_material_609_layerOpaque"/>
+	<CallDisplayList Path="objects/object_mm/bone014_gRunningManSkelLimbsLimb_005DD0_mesh_layer_Opaque_tri_1"/>
+	<EndDisplayList/>
+</DisplayList>
+

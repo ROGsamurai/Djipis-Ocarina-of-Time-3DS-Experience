@@ -1,0 +1,6 @@
+<DisplayList Version="0">
+	<CallDisplayList Path="objects/object_fu/mat_gWindmillManSkel_f3dlite_material_407_layerOpaque"/>
+	<CallDisplayList Path="objects/object_fu/bone004_gWindmillManRightThighLimb_mesh_layer_Opaque_tri_0"/>
+	<EndDisplayList/>
+</DisplayList>
+

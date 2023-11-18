@@ -1,0 +1,8 @@
+<DisplayList Version="0">
+	<CallDisplayList Path="objects/object_ossan/mat_gObjectOssanSkel_f3dlite_material_1078_layerOpaque"/>
+	<CallDisplayList Path="objects/object_ossan/bone007_gObjectOssanSkelLimbsLimb_009B0C_mesh_layer_Opaque_tri_0"/>
+	<CallDisplayList Path="objects/object_ossan/mat_gObjectOssanSkel_f3dlite_material_1079_layerOpaque"/>
+	<CallDisplayList Path="objects/object_ossan/bone007_gObjectOssanSkelLimbsLimb_009B0C_mesh_layer_Opaque_tri_1"/>
+	<EndDisplayList/>
+</DisplayList>
+

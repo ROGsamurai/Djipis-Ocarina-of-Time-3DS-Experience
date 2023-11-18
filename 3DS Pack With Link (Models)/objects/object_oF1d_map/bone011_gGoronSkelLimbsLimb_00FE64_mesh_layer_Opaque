@@ -1,0 +1,6 @@
+<DisplayList Version="0">
+	<CallDisplayList Path="objects/object_oF1d_map/mat_gGoronSkel_f3dlite_material_239_layerOpaque"/>
+	<CallDisplayList Path="objects/object_oF1d_map/bone011_gGoronSkelLimbsLimb_00FE64_mesh_layer_Opaque_tri_0"/>
+	<EndDisplayList/>
+</DisplayList>
+

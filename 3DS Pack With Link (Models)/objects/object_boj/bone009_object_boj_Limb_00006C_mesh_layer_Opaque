@@ -1,0 +1,6 @@
+<DisplayList Version="0">
+	<CallDisplayList Path="objects/object_boj/mat_object_boj_Skel_0000F0_f3dlite_material_291_layerOpaque"/>
+	<CallDisplayList Path="objects/object_boj/bone009_object_boj_Limb_00006C_mesh_layer_Opaque_tri_0"/>
+	<EndDisplayList/>
+</DisplayList>
+

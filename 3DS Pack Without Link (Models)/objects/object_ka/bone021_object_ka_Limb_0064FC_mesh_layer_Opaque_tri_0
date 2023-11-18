@@ -1,0 +1,23 @@
+<DisplayList Version="0">
+	<LoadVertices Path="objects/object_ka/bone021_object_ka_Limb_0064FC_mesh_layer_Opaque_vtx_0" VertexBufferIndex="0" VertexOffset="0" Count="20"/>
+	<Matrix Path=">0x0d000400" Param="G_MTX_LOAD"/>
+	<LoadVertices Path="objects/object_ka/bone021_object_ka_Limb_0064FC_mesh_layer_Opaque_vtx_0" VertexBufferIndex="20" VertexOffset="20" Count="8"/>
+	<Matrix Path=">0x0d0003c0" Param="G_MTX_LOAD"/>
+	<LoadVertices Path="objects/object_ka/bone021_object_ka_Limb_0064FC_mesh_layer_Opaque_vtx_0" VertexBufferIndex="28" VertexOffset="28" Count="4"/>
+	<Triangles2 V00="20" V01="0" V02="28" Flag0="0" V10="0" V11="29" V12="28" Flag1="0"/>
+	<Triangles2 V00="0" V01="1" V02="29" Flag0="0" V10="1" V11="30" V12="29" Flag1="0"/>
+	<Triangles2 V00="1" V01="21" V02="30" Flag0="0" V10="2" V11="3" V12="4" Flag1="0"/>
+	<Triangles2 V00="2" V01="4" V02="5" Flag0="0" V10="6" V11="22" V12="23" Flag1="0"/>
+	<Triangles2 V00="6" V01="23" V02="7" Flag0="0" V10="8" V11="9" V12="10" Flag1="0"/>
+	<Triangles2 V00="8" V01="11" V02="9" Flag0="0" V10="12" V11="24" V12="25" Flag1="0"/>
+	<Triangles2 V00="12" V01="13" V02="24" Flag0="0" V10="14" V11="15" V12="31" Flag1="0"/>
+	<Triangles2 V00="31" V01="15" V02="26" Flag0="0" V10="16" V11="17" V12="18" Flag1="0"/>
+	<Triangles2 V00="16" V01="19" V02="17" Flag0="0" V10="19" V11="27" V12="17" Flag1="0"/>
+	<Matrix Path=">0x0d000440" Param="G_MTX_LOAD"/>
+	<LoadVertices Path="objects/object_ka/bone021_object_ka_Limb_0064FC_mesh_layer_Opaque_vtx_0" VertexBufferIndex="0" VertexOffset="32" Count="3"/>
+	<Matrix Path=">0x0d000400" Param="G_MTX_LOAD"/>
+	<LoadVertices Path="objects/object_ka/bone021_object_ka_Limb_0064FC_mesh_layer_Opaque_vtx_0" VertexBufferIndex="3" VertexOffset="35" Count="3"/>
+	<Triangles2 V00="0" V01="3" V02="4" Flag0="0" V10="5" V11="1" V12="2" Flag1="0"/>
+	<EndDisplayList/>
+</DisplayList>
+

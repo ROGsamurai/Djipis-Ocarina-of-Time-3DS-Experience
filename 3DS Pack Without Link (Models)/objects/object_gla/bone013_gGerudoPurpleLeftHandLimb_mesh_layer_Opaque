@@ -1,0 +1,6 @@
+<DisplayList Version="0">
+	<CallDisplayList Path="objects/object_gla/mat_gGerudoPurpleSkel_GerudoGLABody_layerOpaque"/>
+	<CallDisplayList Path="objects/object_gla/bone013_gGerudoPurpleLeftHandLimb_mesh_layer_Opaque_tri_0"/>
+	<EndDisplayList/>
+</DisplayList>
+

@@ -1,0 +1,6 @@
+<DisplayList Version="0">
+	<CallDisplayList Path="objects/object_fish/mat_gFishingLoachSkel_LoachBody_layerOpaque"/>
+	<CallDisplayList Path="objects/object_fish/bone008_gFishingLoachLimb_011008_mesh_layer_Opaque_tri_0"/>
+	<EndDisplayList/>
+</DisplayList>
+

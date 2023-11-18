@@ -1,0 +1,13 @@
+<DisplayList Version="0">
+	<LoadVertices Path="objects/object_po_composer/bone006_gPoeComposerSkelLimbsLimb_006F28_mesh_layer_Opaque_vtx_0" VertexBufferIndex="0" VertexOffset="0" Count="6"/>
+	<Matrix Path=">0x0d000140" Param="G_MTX_LOAD"/>
+	<LoadVertices Path="objects/object_po_composer/bone006_gPoeComposerSkelLimbsLimb_006F28_mesh_layer_Opaque_vtx_0" VertexBufferIndex="6" VertexOffset="6" Count="3"/>
+	<Triangles2 V00="6" V01="7" V02="0" Flag0="0" V10="7" V11="1" V12="0" Flag1="0"/>
+	<Triangles2 V00="8" V01="1" V02="7" Flag0="0" V10="1" V11="8" V12="2" Flag1="0"/>
+	<Triangles2 V00="8" V01="6" V02="2" Flag0="0" V10="6" V11="0" V12="2" Flag1="0"/>
+	<Triangles2 V00="3" V01="2" V02="0" Flag0="0" V10="4" V11="3" V12="0" Flag1="0"/>
+	<Triangles2 V00="5" V01="4" V02="0" Flag0="0" V10="1" V11="5" V12="0" Flag1="0"/>
+	<Triangles2 V00="3" V01="5" V02="1" Flag0="0" V10="2" V11="3" V12="1" Flag1="0"/>
+	<EndDisplayList/>
+</DisplayList>
+

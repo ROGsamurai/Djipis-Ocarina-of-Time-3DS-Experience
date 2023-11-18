@@ -1,0 +1,20 @@
+<Skeleton Version="0" Type="Flex" LimbCount="18" DisplayListCount="18">
+	<SkeletonLimb Path="objects/object_skj/gSkullKidSkelLimb_000"/>
+	<SkeletonLimb Path="objects/object_skj/gSkullKidSkelLimb_001"/>
+	<SkeletonLimb Path="objects/object_skj/gSkullKidSkelLimb_002"/>
+	<SkeletonLimb Path="objects/object_skj/gSkullKidSkelLimb_003"/>
+	<SkeletonLimb Path="objects/object_skj/gSkullKidSkelLimb_004"/>
+	<SkeletonLimb Path="objects/object_skj/gSkullKidSkelLimb_005"/>
+	<SkeletonLimb Path="objects/object_skj/gSkullKidSkelLimb_006"/>
+	<SkeletonLimb Path="objects/object_skj/gSkullKidSkelLimb_007"/>
+	<SkeletonLimb Path="objects/object_skj/gSkullKidSkelLimb_008"/>
+	<SkeletonLimb Path="objects/object_skj/gSkullKidSkelLimb_009"/>
+	<SkeletonLimb Path="objects/object_skj/gSkullKidSkelLimb_010"/>
+	<SkeletonLimb Path="objects/object_skj/gSkullKidSkelLimb_011"/>
+	<SkeletonLimb Path="objects/object_skj/gSkullKidSkelLimb_012"/>
+	<SkeletonLimb Path="objects/object_skj/gSkullKidSkelLimb_013"/>
+	<SkeletonLimb Path="objects/object_skj/gSkullKidSkelLimb_014"/>
+	<SkeletonLimb Path="objects/object_skj/gSkullKidSkelLimb_015"/>
+	<SkeletonLimb Path="objects/object_skj/gSkullKidSkelLimb_016"/>
+	<SkeletonLimb Path="objects/object_skj/gSkullKidSkelLimb_017"/>
+</Skeleton>

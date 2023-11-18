@@ -1,0 +1,17 @@
+<DisplayList Version="0">
+	<LoadVertices Path="objects/object_torch2/bone016_gLinkAdultRightShoulderLimb_mesh_layer_Opaque_vtx_1" VertexBufferIndex="0" VertexOffset="0" Count="23"/>
+	<Triangles2 V00="0" V01="1" V02="2" Flag0="0" V10="1" V11="3" V12="2" Flag1="0"/>
+	<Triangles2 V00="1" V01="4" V02="3" Flag0="0" V10="4" V11="5" V12="3" Flag1="0"/>
+	<Triangles2 V00="6" V01="2" V02="3" Flag0="0" V10="2" V11="6" V12="7" Flag1="0"/>
+	<Triangles2 V00="6" V01="8" V02="7" Flag0="0" V10="8" V11="9" V12="7" Flag1="0"/>
+	<Triangles2 V00="10" V01="7" V02="9" Flag0="0" V10="10" V11="11" V12="7" Flag1="0"/>
+	<Triangles2 V00="0" V01="11" V02="10" Flag0="0" V10="12" V11="0" V12="10" Flag1="0"/>
+	<Triangles2 V00="13" V01="12" V02="10" Flag0="0" V10="13" V11="14" V12="12" Flag1="0"/>
+	<Triangles2 V00="0" V01="2" V02="11" Flag0="0" V10="7" V11="11" V12="2" Flag1="0"/>
+	<Triangles2 V00="15" V01="16" V02="17" Flag0="0" V10="16" V11="18" V12="17" Flag1="0"/>
+	<Triangles2 V00="18" V01="19" V02="17" Flag0="0" V10="17" V11="19" V12="20" Flag1="0"/>
+	<Triangles2 V00="20" V01="21" V02="17" Flag0="0" V10="21" V11="22" V12="17" Flag1="0"/>
+	<Triangle1 V00="22" V01="15" V02="17"/>
+	<EndDisplayList/>
+</DisplayList>
+

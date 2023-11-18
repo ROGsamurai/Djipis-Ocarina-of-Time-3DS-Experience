@@ -1,0 +1,6 @@
+<DisplayList Version="0">
+	<CallDisplayList Path="objects/object_gndd/mat_gYoungGanondorfSkel_f3dlite_material_140_layerOpaque"/>
+	<CallDisplayList Path="objects/object_gndd/bone017_gYoungGanondorfLeftShinLimb_mesh_layer_Opaque_tri_0"/>
+	<EndDisplayList/>
+</DisplayList>
+
