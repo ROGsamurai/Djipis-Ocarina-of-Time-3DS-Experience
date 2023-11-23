@@ -1,8 +1,0 @@
-<DisplayList Version="0">
-	<CallDisplayList Path="objects/object_ahg/mat_object_ahg_Skel_0000F0_f3dlite_material_324_layerOpaque"/>
-	<CallDisplayList Path="objects/object_ahg/bone005_object_ahg_Limb_00003C_mesh_layer_Opaque_tri_0"/>
-	<CallDisplayList Path="objects/object_ahg/mat_object_ahg_Skel_0000F0_f3dlite_material_362_layerOpaque"/>
-	<CallDisplayList Path="objects/object_ahg/bone005_object_ahg_Limb_00003C_mesh_layer_Opaque_tri_1"/>
-	<EndDisplayList/>
-</DisplayList>
-

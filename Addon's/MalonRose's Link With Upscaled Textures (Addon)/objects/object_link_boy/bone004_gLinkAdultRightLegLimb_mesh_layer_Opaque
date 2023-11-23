@@ -1,0 +1,10 @@
+<DisplayList Version="0">
+	<CallDisplayList Path="objects/object_link_boy/mat_gLinkAdultSkel_f3d_adult_link_boot_collar_layerOpaque"/>
+	<CallDisplayList Path="objects/object_link_boy/bone004_gLinkAdultRightLegLimb_mesh_layer_Opaque_tri_0"/>
+	<CallDisplayList Path="objects/object_link_boy/mat_gLinkAdultSkel_f3d_adult_link_boot_layerOpaque"/>
+	<CallDisplayList Path="objects/object_link_boy/bone004_gLinkAdultRightLegLimb_mesh_layer_Opaque_tri_1"/>
+	<CallDisplayList Path="objects/object_link_boy/mat_gLinkAdultSkel_f3d_adult_link_leggings_layerOpaque"/>
+	<CallDisplayList Path="objects/object_link_boy/bone004_gLinkAdultRightLegLimb_mesh_layer_Opaque_tri_2"/>
+	<EndDisplayList/>
+</DisplayList>
+

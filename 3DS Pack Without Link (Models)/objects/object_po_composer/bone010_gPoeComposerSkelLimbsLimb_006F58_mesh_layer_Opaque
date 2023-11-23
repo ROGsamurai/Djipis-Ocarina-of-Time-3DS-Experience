@@ -1,6 +1,0 @@
-<DisplayList Version="0">
-	<CallDisplayList Path="objects/object_po_composer/mat_gPoeComposerSkel_f3dlite_material_1364_layerOpaque"/>
-	<CallDisplayList Path="objects/object_po_composer/bone010_gPoeComposerSkelLimbsLimb_006F58_mesh_layer_Opaque_tri_0"/>
-	<EndDisplayList/>
-</DisplayList>
-

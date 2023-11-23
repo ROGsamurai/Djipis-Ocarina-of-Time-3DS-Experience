@@ -1,0 +1,8 @@
+<DisplayList Version="0">
+	<CallDisplayList Path="objects/object_link_boy/mat_gLinkAdultSkel_f3d_adult_link_tunic_shirt_ZZENV_layerOpaque"/>
+	<CallDisplayList Path="objects/object_link_boy/bone011_gLinkAdultHatLimb_mesh_layer_Opaque_tri_0"/>
+	<CallDisplayList Path="objects/object_link_boy/mat_gLinkAdultSkel_f3d_adult_link_tunic_sleeves_ZZENV_layerOpaque"/>
+	<CallDisplayList Path="objects/object_link_boy/bone011_gLinkAdultHatLimb_mesh_layer_Opaque_tri_1"/>
+	<EndDisplayList/>
+</DisplayList>
+

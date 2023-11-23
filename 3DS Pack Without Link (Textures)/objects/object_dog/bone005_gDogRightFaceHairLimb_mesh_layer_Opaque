@@ -1,6 +1,0 @@
-<DisplayList Version="0">
-	<CallDisplayList Path="objects/object_dog/mat_gDogSkel_Dog_Body_layerOpaque"/>
-	<CallDisplayList Path="objects/object_dog/bone005_gDogRightFaceHairLimb_mesh_layer_Opaque_tri_0"/>
-	<EndDisplayList/>
-</DisplayList>
-

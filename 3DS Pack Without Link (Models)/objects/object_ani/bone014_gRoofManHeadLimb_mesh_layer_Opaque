@@ -1,8 +1,0 @@
-<DisplayList Version="0">
-	<CallDisplayList Path="objects/object_ani/mat_gRoofManSkel_f3dlite_material_323_layerOpaque"/>
-	<CallDisplayList Path="objects/object_ani/bone014_gRoofManHeadLimb_mesh_layer_Opaque_tri_0"/>
-	<CallDisplayList Path="objects/object_ani/mat_gRoofManSkel_f3dlite_material_137_layerOpaque"/>
-	<CallDisplayList Path="objects/object_ani/bone014_gRoofManHeadLimb_mesh_layer_Opaque_tri_1"/>
-	<EndDisplayList/>
-</DisplayList>
-

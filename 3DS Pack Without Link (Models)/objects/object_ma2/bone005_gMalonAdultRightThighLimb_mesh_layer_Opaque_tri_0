@@ -1,8 +1,0 @@
-<DisplayList Version="0">
-	<LoadVertices Path="alt/objects/object_ma2/bone005_gMalonAdultRightThighLimb_mesh_layer_Opaque_vtx_0" VertexBufferIndex="0" VertexOffset="0" Count="2"/>
-	<Matrix Path=">0x0d000000" Param="G_MTX_LOAD"/>
-	<LoadVertices Path="alt/objects/object_ma2/bone005_gMalonAdultRightThighLimb_mesh_layer_Opaque_vtx_0" VertexBufferIndex="2" VertexOffset="2" Count="2"/>
-	<Triangles2 V00="2" V01="0" V02="1" Flag0="0" V10="2" V11="3" V12="0" Flag1="0"/>
-	<EndDisplayList/>
-</DisplayList>
-

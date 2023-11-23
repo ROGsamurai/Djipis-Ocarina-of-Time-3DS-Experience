@@ -1,0 +1,6 @@
+<DisplayList Version="0">
+	<CallDisplayList Path="objects/object_link_child/mat_gLinkChildSkel_f3d_yl_arms_layerOpaque"/>
+	<CallDisplayList Path="objects/object_link_child/bone017_gLinkChildRightForearmLimb_mesh_layer_Opaque_tri_0"/>
+	<EndDisplayList/>
+</DisplayList>
+

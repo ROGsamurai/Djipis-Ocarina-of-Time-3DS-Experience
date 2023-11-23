@@ -1,8 +1,0 @@
-<DisplayList Version="0">
-	<CallDisplayList Path="objects/object_fish/mat_gFishingOwnerSkel_f3dlite_material_1141_layerOpaque"/>
-	<CallDisplayList Path="objects/object_fish/bone007_gFishingOwnerLimb_0085CC_mesh_layer_Opaque_tri_0"/>
-	<CallDisplayList Path="objects/object_fish/mat_gFishingOwnerSkel_f3dlite_material_1143_layerOpaque"/>
-	<CallDisplayList Path="objects/object_fish/bone007_gFishingOwnerLimb_0085CC_mesh_layer_Opaque_tri_1"/>
-	<EndDisplayList/>
-</DisplayList>
-

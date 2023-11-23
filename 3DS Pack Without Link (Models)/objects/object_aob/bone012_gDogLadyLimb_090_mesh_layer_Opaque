@@ -1,6 +1,0 @@
-<DisplayList Version="0">
-	<CallDisplayList Path="objects/object_aob/mat_gDogLadySkel_f3dlite_material_543_layerOpaque"/>
-	<CallDisplayList Path="objects/object_aob/bone012_gDogLadyLimb_090_mesh_layer_Opaque_tri_0"/>
-	<EndDisplayList/>
-</DisplayList>
-

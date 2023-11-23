@@ -1,0 +1,10 @@
+<DisplayList Version="0">
+	<CallDisplayList Path="objects/object_link_child/mat_gLinkChildSkel_f3d_yl_legs_layerOpaque"/>
+	<CallDisplayList Path="objects/object_link_child/bone007_gLinkChildLeftShinLimb_mesh_layer_Opaque_tri_0"/>
+	<CallDisplayList Path="objects/object_link_child/mat_gLinkChildSkel_f3d_yl_link_boot_layerOpaque"/>
+	<CallDisplayList Path="objects/object_link_child/bone007_gLinkChildLeftShinLimb_mesh_layer_Opaque_tri_1"/>
+	<CallDisplayList Path="objects/object_link_child/mat_gLinkChildSkel_f3d_adult_link_boot_collar_layerOpaque"/>
+	<CallDisplayList Path="objects/object_link_child/bone007_gLinkChildLeftShinLimb_mesh_layer_Opaque_tri_2"/>
+	<EndDisplayList/>
+</DisplayList>
+

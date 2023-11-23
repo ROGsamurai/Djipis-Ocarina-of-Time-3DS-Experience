@@ -1,6 +1,0 @@
-<DisplayList Version="0">
-	<CallDisplayList Path="objects/object_cne/mat_gCneSkel_f3dlite_material_516_layerOpaque"/>
-	<CallDisplayList Path="objects/object_cne/bone011_gCneRightUpperArmLimb_mesh_layer_Opaque_tri_0"/>
-	<EndDisplayList/>
-</DisplayList>
-

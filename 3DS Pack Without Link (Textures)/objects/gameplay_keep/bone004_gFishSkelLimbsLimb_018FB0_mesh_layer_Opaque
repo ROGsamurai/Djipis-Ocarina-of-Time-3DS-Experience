@@ -1,6 +1,0 @@
-<DisplayList Version="0">
-	<CallDisplayList Path="objects/gameplay_keep/mat_gFishSkel_FishBody_layerOpaque"/>
-	<CallDisplayList Path="objects/gameplay_keep/bone004_gFishSkelLimbsLimb_018FB0_mesh_layer_Opaque_tri_0"/>
-	<EndDisplayList/>
-</DisplayList>
-

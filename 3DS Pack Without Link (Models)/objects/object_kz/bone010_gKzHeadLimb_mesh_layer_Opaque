@@ -1,8 +1,0 @@
-<DisplayList Version="0">
-	<CallDisplayList Path="objects/object_kz/mat_gKzSkel_f3dlite_material_288_layerOpaque"/>
-	<CallDisplayList Path="objects/object_kz/bone010_gKzHeadLimb_mesh_layer_Opaque_tri_0"/>
-	<CallDisplayList Path="objects/object_kz/mat_gKzSkel_f3dlite_material_332_layerOpaque"/>
-	<CallDisplayList Path="objects/object_kz/bone010_gKzHeadLimb_mesh_layer_Opaque_tri_1"/>
-	<EndDisplayList/>
-</DisplayList>
-

@@ -1,8 +1,0 @@
-<Skeleton Version="0" Type="Flex" LimbCount="6" DisplayListCount="6">
-	<SkeletonLimb Path="objects/gameplay_keep/gFishSkelLimb_000"/>
-	<SkeletonLimb Path="objects/gameplay_keep/gFishSkelLimb_001"/>
-	<SkeletonLimb Path="objects/gameplay_keep/gFishSkelLimb_002"/>
-	<SkeletonLimb Path="objects/gameplay_keep/gFishSkelLimb_003"/>
-	<SkeletonLimb Path="objects/gameplay_keep/gFishSkelLimb_004"/>
-	<SkeletonLimb Path="objects/gameplay_keep/gFishSkelLimb_005"/>
-</Skeleton>

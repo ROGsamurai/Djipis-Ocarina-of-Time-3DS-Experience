@@ -1,6 +1,0 @@
-<DisplayList Version="0">
-	<CallDisplayList Path="objects/object_niw/mat_gCuccoSkel_CuccoBoby_layerOpaque"/>
-	<CallDisplayList Path="objects/object_niw/bone014_gCuccoHeadLimb_mesh_layer_Opaque_tri_0"/>
-	<EndDisplayList/>
-</DisplayList>
-

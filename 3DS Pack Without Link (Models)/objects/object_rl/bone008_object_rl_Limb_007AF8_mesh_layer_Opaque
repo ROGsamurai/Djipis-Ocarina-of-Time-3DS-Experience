@@ -1,8 +1,0 @@
-<DisplayList Version="0">
-	<CallDisplayList Path="objects/object_rl/mat_object_rl_Skel_007B38_f3dlite_material_896_layerOpaque"/>
-	<CallDisplayList Path="objects/object_rl/bone008_object_rl_Limb_007AF8_mesh_layer_Opaque_tri_0"/>
-	<CallDisplayList Path="objects/object_rl/mat_object_rl_Skel_007B38_f3dlite_material_897_layerOpaque"/>
-	<CallDisplayList Path="objects/object_rl/bone008_object_rl_Limb_007AF8_mesh_layer_Opaque_tri_1"/>
-	<EndDisplayList/>
-</DisplayList>
-

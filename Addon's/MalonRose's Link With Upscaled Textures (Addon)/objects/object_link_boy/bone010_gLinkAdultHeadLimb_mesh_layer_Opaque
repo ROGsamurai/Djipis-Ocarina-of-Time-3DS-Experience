@@ -1,0 +1,18 @@
+<DisplayList Version="0">
+	<CallDisplayList Path="objects/object_link_boy/mat_gLinkAdultSkel_f3d_adult_link_face_layerOpaque"/>
+	<CallDisplayList Path="objects/object_link_boy/bone010_gLinkAdultHeadLimb_mesh_layer_Opaque_tri_0"/>
+	<CallDisplayList Path="objects/object_link_boy/mat_gLinkAdultSkel_f3d_adult_link_eyes_layerOpaque"/>
+	<CallDisplayList Path="objects/object_link_boy/bone010_gLinkAdultHeadLimb_mesh_layer_Opaque_tri_1"/>
+	<CallDisplayList Path="objects/object_link_boy/mat_gLinkAdultSkel_f3d_adult_link_mouth_layerOpaque"/>
+	<CallDisplayList Path="objects/object_link_boy/bone010_gLinkAdultHeadLimb_mesh_layer_Opaque_tri_2"/>
+	<CallDisplayList Path="objects/object_link_boy/mat_gLinkAdultSkel_f3d_adult_link_ears_layerOpaque"/>
+	<CallDisplayList Path="objects/object_link_boy/bone010_gLinkAdultHeadLimb_mesh_layer_Opaque_tri_3"/>
+	<CallDisplayList Path="objects/object_link_boy/mat_gLinkAdultSkel_f3d_adult_link_earings_layerOpaque"/>
+	<CallDisplayList Path="objects/object_link_boy/bone010_gLinkAdultHeadLimb_mesh_layer_Opaque_tri_4"/>
+	<CallDisplayList Path="objects/object_link_boy/mat_gLinkAdultSkel_f3d_adult_link_hair_layerOpaque"/>
+	<CallDisplayList Path="objects/object_link_boy/bone010_gLinkAdultHeadLimb_mesh_layer_Opaque_tri_5"/>
+	<CallDisplayList Path="objects/object_link_boy/mat_gLinkAdultSkel_f3d_adult_link_tunic_sleeves_ZZENV_layerOpaque"/>
+	<CallDisplayList Path="objects/object_link_boy/bone010_gLinkAdultHeadLimb_mesh_layer_Opaque_tri_6"/>
+	<EndDisplayList/>
+</DisplayList>
+
