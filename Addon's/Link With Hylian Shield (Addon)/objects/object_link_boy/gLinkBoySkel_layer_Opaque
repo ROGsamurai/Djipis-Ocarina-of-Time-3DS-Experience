@@ -1,8 +1,0 @@
-<DisplayList Version="0">
-	<CallDisplayList Path="objects/object_link_boy/mat_gLinkBoySkel_f3dlite_material_layerOpaque"/>
-	<CallDisplayList Path="objects/object_link_boy/gLinkBoySkel_layer_Opaque_tri_0"/>
-	<CallDisplayList Path="objects/object_link_boy/mat_gLinkBoySkel_f3dlite_material_040_layerOpaque"/>
-	<CallDisplayList Path="objects/object_link_boy/gLinkBoySkel_layer_Opaque_tri_1"/>
-	<EndDisplayList/>
-</DisplayList>
-

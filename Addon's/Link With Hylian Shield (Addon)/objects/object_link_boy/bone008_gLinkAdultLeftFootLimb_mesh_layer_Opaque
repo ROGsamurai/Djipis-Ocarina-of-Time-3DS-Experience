@@ -1,6 +1,0 @@
-<DisplayList Version="0">
-	<CallDisplayList Path="objects/object_link_boy/mat_gLinkAdultSkel_f3dlite_material_layerOpaque"/>
-	<CallDisplayList Path="objects/object_link_boy/bone008_gLinkAdultLeftFootLimb_mesh_layer_Opaque_tri_0"/>
-	<EndDisplayList/>
-</DisplayList>
-
