@@ -1,7 +1,0 @@
-<Skeleton Version="0" Type="Flex" LimbCount="5" DisplayListCount="5">
-	<SkeletonLimb Path="objects/object_cow/gCowTailSkelLimb_000"/>
-	<SkeletonLimb Path="objects/object_cow/gCowTailSkelLimb_001"/>
-	<SkeletonLimb Path="objects/object_cow/gCowTailSkelLimb_002"/>
-	<SkeletonLimb Path="objects/object_cow/gCowTailSkelLimb_003"/>
-	<SkeletonLimb Path="objects/object_cow/gCowTailSkelLimb_004"/>
-</Skeleton>

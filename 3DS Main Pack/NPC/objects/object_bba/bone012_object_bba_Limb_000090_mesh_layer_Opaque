@@ -1,6 +1,0 @@
-<DisplayList Version="0">
-	<CallDisplayList Path="objects/object_bba/mat_object_bba_Skel_0000F0_f3dlite_material_514_layerOpaque"/>
-	<CallDisplayList Path="objects/object_bba/bone012_object_bba_Limb_000090_mesh_layer_Opaque_tri_0"/>
-	<EndDisplayList/>
-</DisplayList>
-

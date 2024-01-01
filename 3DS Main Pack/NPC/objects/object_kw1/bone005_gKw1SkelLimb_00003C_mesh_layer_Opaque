@@ -1,6 +1,0 @@
-<DisplayList Version="0">
-	<CallDisplayList Path="objects/object_kw1/mat_gKw1Skel_f3dlite_material_046_layerOpaque"/>
-	<CallDisplayList Path="objects/object_kw1/bone005_gKw1SkelLimb_00003C_mesh_layer_Opaque_tri_0"/>
-	<EndDisplayList/>
-</DisplayList>
-

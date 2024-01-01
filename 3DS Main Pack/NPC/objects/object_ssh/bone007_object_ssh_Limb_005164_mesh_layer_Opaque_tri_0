@@ -1,9 +1,0 @@
-<DisplayList Version="0">
-	<LoadVertices Path="objects/object_ssh/bone007_object_ssh_Limb_005164_mesh_layer_Opaque_vtx_0" VertexBufferIndex="0" VertexOffset="0" Count="14"/>
-	<Triangles2 V00="0" V01="1" V02="2" Flag0="0" V10="3" V11="4" V12="5" Flag1="0"/>
-	<Triangles2 V00="6" V01="7" V02="8" Flag0="0" V10="9" V11="8" V12="7" Flag1="0"/>
-	<Triangles2 V00="9" V01="6" V02="8" Flag0="0" V10="10" V11="11" V12="12" Flag1="0"/>
-	<Triangles2 V00="12" V01="11" V02="13" Flag0="0" V10="13" V11="10" V12="12" Flag1="0"/>
-	<EndDisplayList/>
-</DisplayList>
-

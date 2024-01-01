@@ -1,8 +1,0 @@
-<DisplayList Version="0">
-	<LoadVertices Path="objects/object_fish/bone007_gFishingOwnerLimb_0085CC_mesh_layer_Opaque_vtx_1" VertexBufferIndex="0" VertexOffset="0" Count="10"/>
-	<Triangles2 V00="0" V01="1" V02="2" Flag0="0" V10="0" V11="3" V12="1" Flag1="0"/>
-	<Triangles2 V00="1" V01="3" V02="4" Flag0="0" V10="5" V11="6" V12="7" Flag1="0"/>
-	<Triangles2 V00="5" V01="7" V02="8" Flag0="0" V10="7" V11="9" V12="8" Flag1="0"/>
-	<EndDisplayList/>
-</DisplayList>
-

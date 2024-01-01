@@ -1,6 +1,0 @@
-<DisplayList Version="0">
-	<CallDisplayList Path="objects/object_du/mat_gDaruniaSkel_f3dlite_material_222_layerOpaque"/>
-	<CallDisplayList Path="objects/object_du/bone003_gDaruniaSkelLimbsLimb_011BBC_mesh_layer_Opaque_tri_0"/>
-	<EndDisplayList/>
-</DisplayList>
-

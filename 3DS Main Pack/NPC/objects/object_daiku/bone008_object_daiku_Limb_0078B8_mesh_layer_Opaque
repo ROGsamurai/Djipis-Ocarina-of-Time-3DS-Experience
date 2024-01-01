@@ -1,6 +1,0 @@
-<DisplayList Version="0">
-	<CallDisplayList Path="objects/object_daiku/mat_object_daiku_Skel_007958_f3dlite_material_031_layerOpaque"/>
-	<CallDisplayList Path="objects/object_daiku/bone008_object_daiku_Limb_0078B8_mesh_layer_Opaque_tri_0"/>
-	<EndDisplayList/>
-</DisplayList>
-

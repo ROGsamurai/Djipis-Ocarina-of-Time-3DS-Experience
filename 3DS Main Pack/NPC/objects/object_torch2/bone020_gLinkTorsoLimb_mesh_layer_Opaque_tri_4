@@ -1,9 +1,0 @@
-<DisplayList Version="0">
-	<LoadVertices Path="objects/object_torch2/bone020_gLinkTorsoLimb_mesh_layer_Opaque_vtx_4" VertexBufferIndex="0" VertexOffset="0" Count="3"/>
-	<Matrix Path=">0x0d0001c0" Param="G_MTX_LOAD"/>
-	<LoadVertices Path="objects/object_torch2/bone020_gLinkTorsoLimb_mesh_layer_Opaque_vtx_4" VertexBufferIndex="3" VertexOffset="3" Count="4"/>
-	<Triangles2 V00="3" V01="4" V02="0" Flag0="0" V10="1" V11="2" V12="5" Flag1="0"/>
-	<Triangles2 V00="5" V01="2" V02="6" Flag0="0" V10="6" V11="2" V12="4" Flag1="0"/>
-	<EndDisplayList/>
-</DisplayList>
-

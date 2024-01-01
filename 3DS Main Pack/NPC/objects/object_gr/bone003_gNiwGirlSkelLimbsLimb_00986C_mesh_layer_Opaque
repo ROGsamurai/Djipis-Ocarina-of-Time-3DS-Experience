@@ -1,8 +1,0 @@
-<DisplayList Version="0">
-	<CallDisplayList Path="objects/object_gr/mat_gNiwGirlSkel_f3dlite_material_624_layerOpaque"/>
-	<CallDisplayList Path="objects/object_gr/bone003_gNiwGirlSkelLimbsLimb_00986C_mesh_layer_Opaque_tri_0"/>
-	<CallDisplayList Path="objects/object_gr/mat_gNiwGirlSkel_f3dlite_material_651_layerOpaque"/>
-	<CallDisplayList Path="objects/object_gr/bone003_gNiwGirlSkelLimbsLimb_00986C_mesh_layer_Opaque_tri_1"/>
-	<EndDisplayList/>
-</DisplayList>
-

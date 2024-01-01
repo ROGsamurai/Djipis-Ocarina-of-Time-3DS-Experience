@@ -1,6 +1,0 @@
-<DisplayList Version="0">
-	<CallDisplayList Path="objects/object_cs/mat_gGraveyardKidSkel_f3dlite_material_410_layerOpaque"/>
-	<CallDisplayList Path="objects/object_cs/bone013_gGraveyardKidRightHandLimb_mesh_layer_Opaque_tri_0"/>
-	<EndDisplayList/>
-</DisplayList>
-

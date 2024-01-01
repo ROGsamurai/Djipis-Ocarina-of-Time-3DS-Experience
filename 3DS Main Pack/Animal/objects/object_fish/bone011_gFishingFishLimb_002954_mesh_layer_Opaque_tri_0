@@ -1,8 +1,0 @@
-<DisplayList Version="0">
-	<LoadVertices Path="objects/object_fish/bone011_gFishingFishLimb_002954_mesh_layer_Opaque_vtx_0" VertexBufferIndex="0" VertexOffset="0" Count="1"/>
-	<Matrix Path=">0x0d000180" Param="G_MTX_LOAD"/>
-	<LoadVertices Path="objects/object_fish/bone011_gFishingFishLimb_002954_mesh_layer_Opaque_vtx_0" VertexBufferIndex="1" VertexOffset="1" Count="2"/>
-	<Triangle1 V00="1" V01="2" V02="0"/>
-	<EndDisplayList/>
-</DisplayList>
-

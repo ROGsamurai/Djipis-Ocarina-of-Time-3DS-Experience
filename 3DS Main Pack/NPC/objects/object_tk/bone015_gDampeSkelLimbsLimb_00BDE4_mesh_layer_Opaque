@@ -1,8 +1,0 @@
-<DisplayList Version="0">
-	<CallDisplayList Path="objects/object_tk/mat_gDampeSkel_f3dlite_material_445_layerOpaque"/>
-	<CallDisplayList Path="objects/object_tk/bone015_gDampeSkelLimbsLimb_00BDE4_mesh_layer_Opaque_tri_0"/>
-	<CallDisplayList Path="objects/object_tk/mat_gDampeSkel_f3dlite_material_444_layerOpaque"/>
-	<CallDisplayList Path="objects/object_tk/bone015_gDampeSkelLimbsLimb_00BDE4_mesh_layer_Opaque_tri_1"/>
-	<EndDisplayList/>
-</DisplayList>
-

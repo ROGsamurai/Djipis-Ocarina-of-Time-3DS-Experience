@@ -1,8 +1,0 @@
-<DisplayList Version="0">
-	<CallDisplayList Path="objects/object_link_child/mat_gLinkChildSkel_f3d_sheath_layerOpaque"/>
-	<CallDisplayList Path="objects/object_link_child/bone019_gLinkChildSwordAndSheathLimb_mesh_layer_Opaque_tri_0"/>
-	<CallDisplayList Path="objects/object_link_child/mat_gLinkChildSkel_f3d_yl_kokirisword_layerOpaque"/>
-	<CallDisplayList Path="objects/object_link_child/bone019_gLinkChildSwordAndSheathLimb_mesh_layer_Opaque_tri_1"/>
-	<EndDisplayList/>
-</DisplayList>
-
