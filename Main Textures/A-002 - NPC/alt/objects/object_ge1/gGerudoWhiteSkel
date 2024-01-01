@@ -1,0 +1,17 @@
+<Skeleton Version="0" Type="Flex" LimbCount="15" DisplayListCount="15">
+	<SkeletonLimb Path="objects/object_ge1/gGerudoWhiteSkelLimb_000"/>
+	<SkeletonLimb Path="objects/object_ge1/gGerudoWhiteSkelLimb_001"/>
+	<SkeletonLimb Path="objects/object_ge1/gGerudoWhiteSkelLimb_002"/>
+	<SkeletonLimb Path="objects/object_ge1/gGerudoWhiteSkelLimb_003"/>
+	<SkeletonLimb Path="objects/object_ge1/gGerudoWhiteSkelLimb_004"/>
+	<SkeletonLimb Path="objects/object_ge1/gGerudoWhiteSkelLimb_005"/>
+	<SkeletonLimb Path="objects/object_ge1/gGerudoWhiteSkelLimb_006"/>
+	<SkeletonLimb Path="objects/object_ge1/gGerudoWhiteSkelLimb_007"/>
+	<SkeletonLimb Path="objects/object_ge1/gGerudoWhiteSkelLimb_008"/>
+	<SkeletonLimb Path="objects/object_ge1/gGerudoWhiteSkelLimb_009"/>
+	<SkeletonLimb Path="objects/object_ge1/gGerudoWhiteSkelLimb_010"/>
+	<SkeletonLimb Path="objects/object_ge1/gGerudoWhiteSkelLimb_011"/>
+	<SkeletonLimb Path="objects/object_ge1/gGerudoWhiteSkelLimb_012"/>
+	<SkeletonLimb Path="objects/object_ge1/gGerudoWhiteSkelLimb_013"/>
+	<SkeletonLimb Path="objects/object_ge1/gGerudoWhiteSkelLimb_014"/>
+</Skeleton>

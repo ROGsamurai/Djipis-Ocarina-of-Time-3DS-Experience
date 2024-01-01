@@ -1,0 +1,25 @@
+<Skeleton Version="0" Type="Flex" LimbCount="23" DisplayListCount="23">
+	<SkeletonLimb Path="objects/object_gndd/gYoungGanondorfSkelLimb_000"/>
+	<SkeletonLimb Path="objects/object_gndd/gYoungGanondorfSkelLimb_001"/>
+	<SkeletonLimb Path="objects/object_gndd/gYoungGanondorfSkelLimb_002"/>
+	<SkeletonLimb Path="objects/object_gndd/gYoungGanondorfSkelLimb_003"/>
+	<SkeletonLimb Path="objects/object_gndd/gYoungGanondorfSkelLimb_004"/>
+	<SkeletonLimb Path="objects/object_gndd/gYoungGanondorfSkelLimb_005"/>
+	<SkeletonLimb Path="objects/object_gndd/gYoungGanondorfSkelLimb_006"/>
+	<SkeletonLimb Path="objects/object_gndd/gYoungGanondorfSkelLimb_007"/>
+	<SkeletonLimb Path="objects/object_gndd/gYoungGanondorfSkelLimb_008"/>
+	<SkeletonLimb Path="objects/object_gndd/gYoungGanondorfSkelLimb_009"/>
+	<SkeletonLimb Path="objects/object_gndd/gYoungGanondorfSkelLimb_010"/>
+	<SkeletonLimb Path="objects/object_gndd/gYoungGanondorfSkelLimb_011"/>
+	<SkeletonLimb Path="objects/object_gndd/gYoungGanondorfSkelLimb_012"/>
+	<SkeletonLimb Path="objects/object_gndd/gYoungGanondorfSkelLimb_013"/>
+	<SkeletonLimb Path="objects/object_gndd/gYoungGanondorfSkelLimb_014"/>
+	<SkeletonLimb Path="objects/object_gndd/gYoungGanondorfSkelLimb_015"/>
+	<SkeletonLimb Path="objects/object_gndd/gYoungGanondorfSkelLimb_016"/>
+	<SkeletonLimb Path="objects/object_gndd/gYoungGanondorfSkelLimb_017"/>
+	<SkeletonLimb Path="objects/object_gndd/gYoungGanondorfSkelLimb_018"/>
+	<SkeletonLimb Path="objects/object_gndd/gYoungGanondorfSkelLimb_019"/>
+	<SkeletonLimb Path="objects/object_gndd/gYoungGanondorfSkelLimb_020"/>
+	<SkeletonLimb Path="objects/object_gndd/gYoungGanondorfSkelLimb_021"/>
+	<SkeletonLimb Path="objects/object_gndd/gYoungGanondorfSkelLimb_022"/>
+</Skeleton>

@@ -1,0 +1,10 @@
+<DisplayList Version="0">
+	<CallDisplayList Path="objects/object_cne/mat_gCneSkel_f3dlite_material_515_layerOpaque"/>
+	<CallDisplayList Path="objects/object_cne/bone007_gCneTorsoLimb_mesh_layer_Opaque_tri_0"/>
+	<CallDisplayList Path="objects/object_cne/mat_gCneSkel_f3dlite_material_519_layerOpaque"/>
+	<CallDisplayList Path="objects/object_cne/bone007_gCneTorsoLimb_mesh_layer_Opaque_tri_1"/>
+	<CallDisplayList Path="objects/object_cne/mat_gCneSkel_f3dlite_material_518_layerOpaque"/>
+	<CallDisplayList Path="objects/object_cne/bone007_gCneTorsoLimb_mesh_layer_Opaque_tri_2"/>
+	<EndDisplayList/>
+</DisplayList>
+

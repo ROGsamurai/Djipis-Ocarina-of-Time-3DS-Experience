@@ -1,0 +1,6 @@
+<DisplayList Version="0">
+	<CallDisplayList Path="objects/object_zl1/mat_gChildZelda1Skel_ZeldaChildDress_layerOpaque"/>
+	<CallDisplayList Path="objects/object_zl1/bone008_gChildZelda1Dress3Limb_mesh_layer_Opaque_tri_0"/>
+	<EndDisplayList/>
+</DisplayList>
+

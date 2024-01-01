@@ -1,0 +1,27 @@
+<DisplayList Version="0">
+	<LoadVertices Path="objects/object_niw/bone007_gCuccoLeftWingLimb_mesh_layer_Opaque_vtx_0" VertexBufferIndex="0" VertexOffset="0" Count="13"/>
+	<Matrix Path=">0x0d000000" Param="G_MTX_LOAD"/>
+	<LoadVertices Path="objects/object_niw/bone007_gCuccoLeftWingLimb_mesh_layer_Opaque_vtx_0" VertexBufferIndex="13" VertexOffset="13" Count="2"/>
+	<Triangle1 V00="13" V01="0" V02="14"/>
+	<Triangle1 V00="1" V01="0" V02="13"/>
+	<Triangle1 V00="2" V01="3" V02="4"/>
+	<Triangle1 V00="4" V01="3" V02="5"/>
+	<Triangle1 V00="6" V01="5" V02="3"/>
+	<Triangle1 V00="7" V01="5" V02="6"/>
+	<Triangle1 V00="6" V01="8" V02="7"/>
+	<Triangle1 V00="7" V01="8" V02="9"/>
+	<Triangle1 V00="9" V01="8" V02="10"/>
+	<Triangle1 V00="10" V01="8" V02="11"/>
+	<Triangle1 V00="7" V01="11" V02="8"/>
+	<Triangle1 V00="7" V01="4" V02="11"/>
+	<Triangle1 V00="5" V01="4" V02="7"/>
+	<Triangle1 V00="5" V01="7" V02="9"/>
+	<Triangle1 V00="4" V01="5" V02="9"/>
+	<Triangle1 V00="9" V01="11" V02="4"/>
+	<Triangle1 V00="12" V01="11" V02="9"/>
+	<Triangle1 V00="10" V01="12" V02="9"/>
+	<Triangle1 V00="10" V01="11" V02="12"/>
+	<Triangle1 V00="4" V01="11" V02="2"/>
+	<EndDisplayList/>
+</DisplayList>
+

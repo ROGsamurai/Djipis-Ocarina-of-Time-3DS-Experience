@@ -1,0 +1,10 @@
+<DisplayList Version="0">
+	<CallDisplayList Path="objects/object_skj/mat_gSkullKidSkel_SkullkidEyes_layerOpaque"/>
+	<CallDisplayList Path="objects/object_skj/bone010_gSkullKidNeckLimb_mesh_layer_Opaque_tri_0"/>
+	<CallDisplayList Path="objects/object_skj/mat_gSkullKidSkel_SkullkidFace_layerOpaque"/>
+	<CallDisplayList Path="objects/object_skj/bone010_gSkullKidNeckLimb_mesh_layer_Opaque_tri_1"/>
+	<CallDisplayList Path="objects/object_skj/mat_gSkullKidSkel_SkullKidBodyCutout_layerOpaque"/>
+	<CallDisplayList Path="objects/object_skj/bone010_gSkullKidNeckLimb_mesh_layer_Opaque_tri_2"/>
+	<EndDisplayList/>
+</DisplayList>
+

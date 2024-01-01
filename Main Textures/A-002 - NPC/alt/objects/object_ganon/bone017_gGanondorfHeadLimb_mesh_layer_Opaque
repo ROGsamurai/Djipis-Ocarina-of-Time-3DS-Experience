@@ -1,0 +1,10 @@
+<DisplayList Version="0">
+	<CallDisplayList Path="objects/object_ganon/mat_gGanondorfSkel_GanondorfAdultFace_layerOpaque"/>
+	<CallDisplayList Path="objects/object_ganon/bone017_gGanondorfHeadLimb_mesh_layer_Opaque_tri_0"/>
+	<CallDisplayList Path="objects/object_ganon/mat_gGanondorfSkel_GanondorfAdultBody_layerOpaque"/>
+	<CallDisplayList Path="objects/object_ganon/bone017_gGanondorfHeadLimb_mesh_layer_Opaque_tri_1"/>
+	<CallDisplayList Path="objects/object_ganon/mat_gGanondorfSkel_GanondorfAdultEye_layerOpaque"/>
+	<CallDisplayList Path="objects/object_ganon/bone017_gGanondorfHeadLimb_mesh_layer_Opaque_tri_2"/>
+	<EndDisplayList/>
+</DisplayList>
+

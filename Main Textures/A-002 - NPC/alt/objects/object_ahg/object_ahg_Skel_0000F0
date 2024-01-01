@@ -1,0 +1,17 @@
+<Skeleton Version="0" Type="Flex" LimbCount="15" DisplayListCount="15">
+	<SkeletonLimb Path="objects/object_ahg/object_ahg_Skel_0000F0Limb_000"/>
+	<SkeletonLimb Path="objects/object_ahg/object_ahg_Skel_0000F0Limb_001"/>
+	<SkeletonLimb Path="objects/object_ahg/object_ahg_Skel_0000F0Limb_002"/>
+	<SkeletonLimb Path="objects/object_ahg/object_ahg_Skel_0000F0Limb_003"/>
+	<SkeletonLimb Path="objects/object_ahg/object_ahg_Skel_0000F0Limb_004"/>
+	<SkeletonLimb Path="objects/object_ahg/object_ahg_Skel_0000F0Limb_005"/>
+	<SkeletonLimb Path="objects/object_ahg/object_ahg_Skel_0000F0Limb_006"/>
+	<SkeletonLimb Path="objects/object_ahg/object_ahg_Skel_0000F0Limb_007"/>
+	<SkeletonLimb Path="objects/object_ahg/object_ahg_Skel_0000F0Limb_008"/>
+	<SkeletonLimb Path="objects/object_ahg/object_ahg_Skel_0000F0Limb_009"/>
+	<SkeletonLimb Path="objects/object_ahg/object_ahg_Skel_0000F0Limb_010"/>
+	<SkeletonLimb Path="objects/object_ahg/object_ahg_Skel_0000F0Limb_011"/>
+	<SkeletonLimb Path="objects/object_ahg/object_ahg_Skel_0000F0Limb_012"/>
+	<SkeletonLimb Path="objects/object_ahg/object_ahg_Skel_0000F0Limb_013"/>
+	<SkeletonLimb Path="objects/object_ahg/object_ahg_Skel_0000F0Limb_014"/>
+</Skeleton>

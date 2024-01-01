@@ -1,0 +1,17 @@
+<Skeleton Version="0" Type="Flex" LimbCount="15" DisplayListCount="15">
+	<SkeletonLimb Path="objects/object_mm/gRunningManSkelLimb_000"/>
+	<SkeletonLimb Path="objects/object_mm/gRunningManSkelLimb_001"/>
+	<SkeletonLimb Path="objects/object_mm/gRunningManSkelLimb_002"/>
+	<SkeletonLimb Path="objects/object_mm/gRunningManSkelLimb_003"/>
+	<SkeletonLimb Path="objects/object_mm/gRunningManSkelLimb_004"/>
+	<SkeletonLimb Path="objects/object_mm/gRunningManSkelLimb_005"/>
+	<SkeletonLimb Path="objects/object_mm/gRunningManSkelLimb_006"/>
+	<SkeletonLimb Path="objects/object_mm/gRunningManSkelLimb_007"/>
+	<SkeletonLimb Path="objects/object_mm/gRunningManSkelLimb_008"/>
+	<SkeletonLimb Path="objects/object_mm/gRunningManSkelLimb_009"/>
+	<SkeletonLimb Path="objects/object_mm/gRunningManSkelLimb_010"/>
+	<SkeletonLimb Path="objects/object_mm/gRunningManSkelLimb_011"/>
+	<SkeletonLimb Path="objects/object_mm/gRunningManSkelLimb_012"/>
+	<SkeletonLimb Path="objects/object_mm/gRunningManSkelLimb_013"/>
+	<SkeletonLimb Path="objects/object_mm/gRunningManSkelLimb_014"/>
+</Skeleton>

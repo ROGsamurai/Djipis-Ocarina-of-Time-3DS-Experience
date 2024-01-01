@@ -1,0 +1,11 @@
+<DisplayList Version="0">
+	<LoadVertices Path="objects/object_ds2/bone007_object_ds2_Limb_00422C_mesh_layer_Opaque_vtx_0" VertexBufferIndex="0" VertexOffset="0" Count="10"/>
+	<Triangle1 V00="0" V01="1" V02="2"/>
+	<Triangle1 V00="1" V01="3" V02="2"/>
+	<Triangle1 V00="4" V01="3" V02="1"/>
+	<Triangle1 V00="5" V01="6" V02="7"/>
+	<Triangle1 V00="7" V01="6" V02="8"/>
+	<Triangle1 V00="9" V01="7" V02="8"/>
+	<EndDisplayList/>
+</DisplayList>
+

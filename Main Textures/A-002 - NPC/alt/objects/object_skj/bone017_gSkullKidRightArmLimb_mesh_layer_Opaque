@@ -1,0 +1,6 @@
+<DisplayList Version="0">
+	<CallDisplayList Path="objects/object_skj/mat_gSkullKidSkel_SkullKidBodyCutout_layerOpaque"/>
+	<CallDisplayList Path="objects/object_skj/bone017_gSkullKidRightArmLimb_mesh_layer_Opaque_tri_0"/>
+	<EndDisplayList/>
+</DisplayList>
+

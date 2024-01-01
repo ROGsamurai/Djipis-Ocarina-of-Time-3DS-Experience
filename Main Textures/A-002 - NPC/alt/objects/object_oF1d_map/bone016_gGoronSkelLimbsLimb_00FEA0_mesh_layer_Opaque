@@ -1,0 +1,10 @@
+<DisplayList Version="0">
+	<CallDisplayList Path="objects/object_oF1d_map/mat_gGoronSkel_GoronEyes_layerOpaque"/>
+	<CallDisplayList Path="objects/object_oF1d_map/bone016_gGoronSkelLimbsLimb_00FEA0_mesh_layer_Opaque_tri_0"/>
+	<CallDisplayList Path="objects/object_oF1d_map/mat_gGoronSkel_GoronMouth_layerOpaque"/>
+	<CallDisplayList Path="objects/object_oF1d_map/bone016_gGoronSkelLimbsLimb_00FEA0_mesh_layer_Opaque_tri_1"/>
+	<CallDisplayList Path="objects/object_oF1d_map/mat_gGoronSkel_GoronSkin_layerOpaque"/>
+	<CallDisplayList Path="objects/object_oF1d_map/bone016_gGoronSkelLimbsLimb_00FEA0_mesh_layer_Opaque_tri_2"/>
+	<EndDisplayList/>
+</DisplayList>
+

@@ -1,0 +1,628 @@
+<DisplayList Version="0">
+	<LoadVertices Path="objects/object_hidan_objects/gFireTempleStationaryFlamethrowerTallDL_vtx_0" VertexBufferIndex="0" VertexOffset="0" Count="15"/>
+	<Triangle1 V00="0" V01="1" V02="2"/>
+	<Triangle1 V00="3" V01="4" V02="5"/>
+	<Triangle1 V00="6" V01="7" V02="8"/>
+	<Triangle1 V00="9" V01="10" V02="11"/>
+	<Triangle1 V00="12" V01="13" V02="14"/>
+	<LoadVertices Path="objects/object_hidan_objects/gFireTempleStationaryFlamethrowerTallDL_vtx_0" VertexBufferIndex="0" VertexOffset="15" Count="15"/>
+	<Triangle1 V00="0" V01="1" V02="2"/>
+	<Triangle1 V00="3" V01="4" V02="5"/>
+	<Triangle1 V00="6" V01="7" V02="8"/>
+	<Triangle1 V00="9" V01="10" V02="11"/>
+	<Triangle1 V00="12" V01="13" V02="14"/>
+	<LoadVertices Path="objects/object_hidan_objects/gFireTempleStationaryFlamethrowerTallDL_vtx_0" VertexBufferIndex="0" VertexOffset="30" Count="15"/>
+	<Triangle1 V00="0" V01="1" V02="2"/>
+	<Triangle1 V00="3" V01="4" V02="5"/>
+	<Triangle1 V00="6" V01="7" V02="8"/>
+	<Triangle1 V00="9" V01="10" V02="11"/>
+	<Triangle1 V00="12" V01="13" V02="14"/>
+	<LoadVertices Path="objects/object_hidan_objects/gFireTempleStationaryFlamethrowerTallDL_vtx_0" VertexBufferIndex="0" VertexOffset="45" Count="15"/>
+	<Triangle1 V00="0" V01="1" V02="2"/>
+	<Triangle1 V00="3" V01="4" V02="5"/>
+	<Triangle1 V00="6" V01="7" V02="8"/>
+	<Triangle1 V00="9" V01="10" V02="11"/>
+	<Triangle1 V00="12" V01="13" V02="14"/>
+	<LoadVertices Path="objects/object_hidan_objects/gFireTempleStationaryFlamethrowerTallDL_vtx_0" VertexBufferIndex="0" VertexOffset="60" Count="15"/>
+	<Triangle1 V00="0" V01="1" V02="2"/>
+	<Triangle1 V00="3" V01="4" V02="5"/>
+	<Triangle1 V00="6" V01="7" V02="8"/>
+	<Triangle1 V00="9" V01="10" V02="11"/>
+	<Triangle1 V00="12" V01="13" V02="14"/>
+	<LoadVertices Path="objects/object_hidan_objects/gFireTempleStationaryFlamethrowerTallDL_vtx_0" VertexBufferIndex="0" VertexOffset="75" Count="15"/>
+	<Triangle1 V00="0" V01="1" V02="2"/>
+	<Triangle1 V00="3" V01="4" V02="5"/>
+	<Triangle1 V00="6" V01="7" V02="8"/>
+	<Triangle1 V00="9" V01="10" V02="11"/>
+	<Triangle1 V00="12" V01="13" V02="14"/>
+	<LoadVertices Path="objects/object_hidan_objects/gFireTempleStationaryFlamethrowerTallDL_vtx_0" VertexBufferIndex="0" VertexOffset="90" Count="15"/>
+	<Triangle1 V00="0" V01="1" V02="2"/>
+	<Triangle1 V00="3" V01="4" V02="5"/>
+	<Triangle1 V00="6" V01="7" V02="8"/>
+	<Triangle1 V00="9" V01="10" V02="11"/>
+	<Triangle1 V00="12" V01="13" V02="14"/>
+	<LoadVertices Path="objects/object_hidan_objects/gFireTempleStationaryFlamethrowerTallDL_vtx_0" VertexBufferIndex="0" VertexOffset="105" Count="15"/>
+	<Triangle1 V00="0" V01="1" V02="2"/>
+	<Triangle1 V00="3" V01="4" V02="5"/>
+	<Triangle1 V00="6" V01="7" V02="8"/>
+	<Triangle1 V00="9" V01="10" V02="11"/>
+	<Triangle1 V00="12" V01="13" V02="14"/>
+	<LoadVertices Path="objects/object_hidan_objects/gFireTempleStationaryFlamethrowerTallDL_vtx_0" VertexBufferIndex="0" VertexOffset="120" Count="15"/>
+	<Triangle1 V00="0" V01="1" V02="2"/>
+	<Triangle1 V00="3" V01="4" V02="5"/>
+	<Triangle1 V00="6" V01="2" V02="7"/>
+	<Triangle1 V00="8" V01="3" V02="9"/>
+	<Triangle1 V00="6" V01="10" V02="11"/>
+	<Triangle1 V00="12" V01="13" V02="14"/>
+	<LoadVertices Path="objects/object_hidan_objects/gFireTempleStationaryFlamethrowerTallDL_vtx_0" VertexBufferIndex="0" VertexOffset="135" Count="15"/>
+	<Triangle1 V00="0" V01="1" V02="2"/>
+	<Triangle1 V00="3" V01="4" V02="5"/>
+	<Triangle1 V00="6" V01="7" V02="8"/>
+	<Triangle1 V00="9" V01="10" V02="11"/>
+	<Triangle1 V00="12" V01="13" V02="14"/>
+	<LoadVertices Path="objects/object_hidan_objects/gFireTempleStationaryFlamethrowerTallDL_vtx_0" VertexBufferIndex="0" VertexOffset="150" Count="15"/>
+	<Triangle1 V00="0" V01="1" V02="2"/>
+	<Triangle1 V00="3" V01="4" V02="5"/>
+	<Triangle1 V00="6" V01="7" V02="8"/>
+	<Triangle1 V00="9" V01="10" V02="11"/>
+	<Triangle1 V00="12" V01="13" V02="14"/>
+	<LoadVertices Path="objects/object_hidan_objects/gFireTempleStationaryFlamethrowerTallDL_vtx_0" VertexBufferIndex="0" VertexOffset="165" Count="15"/>
+	<Triangle1 V00="0" V01="1" V02="2"/>
+	<Triangle1 V00="3" V01="4" V02="5"/>
+	<Triangle1 V00="6" V01="7" V02="8"/>
+	<Triangle1 V00="9" V01="10" V02="11"/>
+	<Triangle1 V00="12" V01="13" V02="14"/>
+	<LoadVertices Path="objects/object_hidan_objects/gFireTempleStationaryFlamethrowerTallDL_vtx_0" VertexBufferIndex="0" VertexOffset="180" Count="14"/>
+	<Triangle1 V00="0" V01="1" V02="2"/>
+	<Triangle1 V00="3" V01="4" V02="5"/>
+	<Triangle1 V00="6" V01="7" V02="8"/>
+	<Triangle1 V00="9" V01="10" V02="8"/>
+	<Triangle1 V00="11" V01="12" V02="13"/>
+	<LoadVertices Path="objects/object_hidan_objects/gFireTempleStationaryFlamethrowerTallDL_vtx_0" VertexBufferIndex="0" VertexOffset="194" Count="15"/>
+	<Triangle1 V00="0" V01="1" V02="2"/>
+	<Triangle1 V00="3" V01="4" V02="5"/>
+	<Triangle1 V00="6" V01="7" V02="8"/>
+	<Triangle1 V00="9" V01="10" V02="11"/>
+	<Triangle1 V00="12" V01="13" V02="14"/>
+	<LoadVertices Path="objects/object_hidan_objects/gFireTempleStationaryFlamethrowerTallDL_vtx_0" VertexBufferIndex="0" VertexOffset="209" Count="15"/>
+	<Triangle1 V00="0" V01="1" V02="2"/>
+	<Triangle1 V00="3" V01="4" V02="5"/>
+	<Triangle1 V00="6" V01="7" V02="8"/>
+	<Triangle1 V00="9" V01="10" V02="11"/>
+	<Triangle1 V00="12" V01="13" V02="14"/>
+	<LoadVertices Path="objects/object_hidan_objects/gFireTempleStationaryFlamethrowerTallDL_vtx_0" VertexBufferIndex="0" VertexOffset="224" Count="15"/>
+	<Triangle1 V00="0" V01="1" V02="2"/>
+	<Triangle1 V00="3" V01="4" V02="5"/>
+	<Triangle1 V00="6" V01="7" V02="8"/>
+	<Triangle1 V00="9" V01="10" V02="11"/>
+	<Triangle1 V00="12" V01="13" V02="14"/>
+	<LoadVertices Path="objects/object_hidan_objects/gFireTempleStationaryFlamethrowerTallDL_vtx_0" VertexBufferIndex="0" VertexOffset="239" Count="15"/>
+	<Triangle1 V00="0" V01="1" V02="2"/>
+	<Triangle1 V00="3" V01="4" V02="5"/>
+	<Triangle1 V00="6" V01="7" V02="8"/>
+	<Triangle1 V00="9" V01="10" V02="11"/>
+	<Triangle1 V00="12" V01="13" V02="14"/>
+	<LoadVertices Path="objects/object_hidan_objects/gFireTempleStationaryFlamethrowerTallDL_vtx_0" VertexBufferIndex="0" VertexOffset="254" Count="15"/>
+	<Triangle1 V00="0" V01="1" V02="2"/>
+	<Triangle1 V00="3" V01="4" V02="5"/>
+	<Triangle1 V00="6" V01="7" V02="8"/>
+	<Triangle1 V00="9" V01="10" V02="11"/>
+	<Triangle1 V00="12" V01="13" V02="14"/>
+	<LoadVertices Path="objects/object_hidan_objects/gFireTempleStationaryFlamethrowerTallDL_vtx_0" VertexBufferIndex="0" VertexOffset="269" Count="15"/>
+	<Triangle1 V00="0" V01="1" V02="2"/>
+	<Triangle1 V00="3" V01="4" V02="5"/>
+	<Triangle1 V00="6" V01="7" V02="8"/>
+	<Triangle1 V00="9" V01="10" V02="11"/>
+	<Triangle1 V00="12" V01="13" V02="14"/>
+	<LoadVertices Path="objects/object_hidan_objects/gFireTempleStationaryFlamethrowerTallDL_vtx_0" VertexBufferIndex="0" VertexOffset="284" Count="15"/>
+	<Triangle1 V00="0" V01="1" V02="2"/>
+	<Triangle1 V00="3" V01="4" V02="5"/>
+	<Triangle1 V00="6" V01="7" V02="8"/>
+	<Triangle1 V00="9" V01="10" V02="11"/>
+	<Triangle1 V00="12" V01="13" V02="14"/>
+	<LoadVertices Path="objects/object_hidan_objects/gFireTempleStationaryFlamethrowerTallDL_vtx_0" VertexBufferIndex="0" VertexOffset="299" Count="15"/>
+	<Triangle1 V00="0" V01="1" V02="2"/>
+	<Triangle1 V00="3" V01="4" V02="5"/>
+	<Triangle1 V00="6" V01="7" V02="8"/>
+	<Triangle1 V00="9" V01="10" V02="11"/>
+	<Triangle1 V00="12" V01="13" V02="14"/>
+	<LoadVertices Path="objects/object_hidan_objects/gFireTempleStationaryFlamethrowerTallDL_vtx_0" VertexBufferIndex="0" VertexOffset="314" Count="15"/>
+	<Triangle1 V00="0" V01="1" V02="2"/>
+	<Triangle1 V00="3" V01="4" V02="5"/>
+	<Triangle1 V00="6" V01="7" V02="8"/>
+	<Triangle1 V00="9" V01="10" V02="11"/>
+	<Triangle1 V00="12" V01="13" V02="14"/>
+	<LoadVertices Path="objects/object_hidan_objects/gFireTempleStationaryFlamethrowerTallDL_vtx_0" VertexBufferIndex="0" VertexOffset="329" Count="15"/>
+	<Triangle1 V00="0" V01="1" V02="2"/>
+	<Triangle1 V00="3" V01="4" V02="5"/>
+	<Triangle1 V00="6" V01="7" V02="8"/>
+	<Triangle1 V00="9" V01="10" V02="11"/>
+	<Triangle1 V00="12" V01="13" V02="14"/>
+	<LoadVertices Path="objects/object_hidan_objects/gFireTempleStationaryFlamethrowerTallDL_vtx_0" VertexBufferIndex="0" VertexOffset="344" Count="15"/>
+	<Triangle1 V00="0" V01="1" V02="2"/>
+	<Triangle1 V00="3" V01="4" V02="5"/>
+	<Triangle1 V00="6" V01="7" V02="8"/>
+	<Triangle1 V00="9" V01="10" V02="11"/>
+	<Triangle1 V00="12" V01="13" V02="14"/>
+	<LoadVertices Path="objects/object_hidan_objects/gFireTempleStationaryFlamethrowerTallDL_vtx_0" VertexBufferIndex="0" VertexOffset="359" Count="15"/>
+	<Triangle1 V00="0" V01="1" V02="2"/>
+	<Triangle1 V00="3" V01="4" V02="5"/>
+	<Triangle1 V00="6" V01="7" V02="8"/>
+	<Triangle1 V00="9" V01="10" V02="11"/>
+	<Triangle1 V00="12" V01="13" V02="14"/>
+	<LoadVertices Path="objects/object_hidan_objects/gFireTempleStationaryFlamethrowerTallDL_vtx_0" VertexBufferIndex="0" VertexOffset="374" Count="14"/>
+	<Triangle1 V00="0" V01="1" V02="2"/>
+	<Triangle1 V00="3" V01="4" V02="5"/>
+	<Triangle1 V00="6" V01="7" V02="8"/>
+	<Triangle1 V00="9" V01="10" V02="11"/>
+	<Triangle1 V00="12" V01="9" V02="13"/>
+	<LoadVertices Path="objects/object_hidan_objects/gFireTempleStationaryFlamethrowerTallDL_vtx_0" VertexBufferIndex="0" VertexOffset="388" Count="15"/>
+	<Triangle1 V00="0" V01="1" V02="2"/>
+	<Triangle1 V00="3" V01="0" V02="4"/>
+	<Triangle1 V00="5" V01="6" V02="7"/>
+	<Triangle1 V00="8" V01="9" V02="10"/>
+	<Triangle1 V00="11" V01="12" V02="13"/>
+	<Triangle1 V00="12" V01="14" V02="13"/>
+	<LoadVertices Path="objects/object_hidan_objects/gFireTempleStationaryFlamethrowerTallDL_vtx_0" VertexBufferIndex="0" VertexOffset="403" Count="16"/>
+	<Triangle1 V00="0" V01="1" V02="2"/>
+	<Triangle1 V00="1" V01="3" V02="2"/>
+	<Triangle1 V00="4" V01="5" V02="6"/>
+	<Triangle1 V00="6" V01="5" V02="7"/>
+	<Triangle1 V00="8" V01="9" V02="10"/>
+	<Triangle1 V00="9" V01="11" V02="10"/>
+	<Triangle1 V00="12" V01="13" V02="14"/>
+	<Triangle1 V00="13" V01="15" V02="14"/>
+	<LoadVertices Path="objects/object_hidan_objects/gFireTempleStationaryFlamethrowerTallDL_vtx_0" VertexBufferIndex="0" VertexOffset="419" Count="14"/>
+	<Triangle1 V00="0" V01="1" V02="2"/>
+	<Triangle1 V00="2" V01="1" V02="3"/>
+	<Triangle1 V00="4" V01="5" V02="6"/>
+	<Triangle1 V00="4" V01="7" V02="5"/>
+	<Triangle1 V00="4" V01="8" V02="7"/>
+	<Triangle1 V00="7" V01="8" V02="9"/>
+	<Triangle1 V00="10" V01="7" V02="9"/>
+	<Triangle1 V00="11" V01="10" V02="12"/>
+	<Triangle1 V00="11" V01="12" V02="13"/>
+	<LoadVertices Path="objects/object_hidan_objects/gFireTempleStationaryFlamethrowerTallDL_vtx_0" VertexBufferIndex="0" VertexOffset="433" Count="14"/>
+	<Triangle1 V00="0" V01="1" V02="2"/>
+	<Triangle1 V00="1" V01="3" V02="2"/>
+	<Triangle1 V00="4" V01="5" V02="6"/>
+	<Triangle1 V00="4" V01="7" V02="5"/>
+	<Triangle1 V00="5" V01="7" V02="8"/>
+	<Triangle1 V00="9" V01="5" V02="8"/>
+	<Triangle1 V00="10" V01="9" V02="8"/>
+	<Triangle1 V00="11" V01="9" V02="10"/>
+	<Triangle1 V00="11" V01="10" V02="12"/>
+	<Triangle1 V00="11" V01="12" V02="6"/>
+	<Triangle1 V00="12" V01="13" V02="6"/>
+	<LoadVertices Path="objects/object_hidan_objects/gFireTempleStationaryFlamethrowerTallDL_vtx_0" VertexBufferIndex="0" VertexOffset="447" Count="14"/>
+	<Triangle1 V00="0" V01="1" V02="2"/>
+	<Triangle1 V00="1" V01="3" V02="2"/>
+	<Triangle1 V00="4" V01="5" V02="6"/>
+	<Triangle1 V00="4" V01="7" V02="5"/>
+	<Triangle1 V00="4" V01="8" V02="7"/>
+	<Triangle1 V00="7" V01="8" V02="9"/>
+	<Triangle1 V00="10" V01="7" V02="9"/>
+	<Triangle1 V00="11" V01="10" V02="9"/>
+	<Triangle1 V00="12" V01="13" V02="5"/>
+	<Triangle1 V00="13" V01="6" V02="5"/>
+	<LoadVertices Path="objects/object_hidan_objects/gFireTempleStationaryFlamethrowerTallDL_vtx_0" VertexBufferIndex="0" VertexOffset="461" Count="16"/>
+	<Triangle1 V00="0" V01="1" V02="2"/>
+	<Triangle1 V00="1" V01="3" V02="2"/>
+	<Triangle1 V00="4" V01="5" V02="6"/>
+	<Triangle1 V00="4" V01="7" V02="5"/>
+	<Triangle1 V00="8" V01="9" V02="10"/>
+	<Triangle1 V00="10" V01="9" V02="11"/>
+	<Triangle1 V00="12" V01="7" V02="13"/>
+	<Triangle1 V00="14" V01="12" V02="13"/>
+	<Triangle1 V00="15" V01="12" V02="14"/>
+	<LoadVertices Path="objects/object_hidan_objects/gFireTempleStationaryFlamethrowerTallDL_vtx_0" VertexBufferIndex="0" VertexOffset="477" Count="16"/>
+	<Triangle1 V00="0" V01="1" V02="2"/>
+	<Triangle1 V00="3" V01="4" V02="5"/>
+	<Triangle1 V00="4" V01="6" V02="5"/>
+	<Triangle1 V00="7" V01="8" V02="9"/>
+	<Triangle1 V00="7" V01="9" V02="10"/>
+	<Triangle1 V00="11" V01="12" V02="13"/>
+	<Triangle1 V00="12" V01="14" V02="13"/>
+	<Triangle1 V00="12" V01="15" V02="14"/>
+	<LoadVertices Path="objects/object_hidan_objects/gFireTempleStationaryFlamethrowerTallDL_vtx_0" VertexBufferIndex="0" VertexOffset="493" Count="14"/>
+	<Triangle1 V00="0" V01="1" V02="2"/>
+	<Triangle1 V00="3" V01="4" V02="5"/>
+	<Triangle1 V00="6" V01="3" V02="5"/>
+	<Triangle1 V00="7" V01="8" V02="9"/>
+	<Triangle1 V00="7" V01="10" V02="8"/>
+	<Triangle1 V00="8" V01="10" V02="11"/>
+	<Triangle1 V00="10" V01="12" V02="11"/>
+	<Triangle1 V00="8" V01="11" V02="13"/>
+	<LoadVertices Path="objects/object_hidan_objects/gFireTempleStationaryFlamethrowerTallDL_vtx_0" VertexBufferIndex="0" VertexOffset="507" Count="15"/>
+	<Triangle1 V00="0" V01="1" V02="2"/>
+	<Triangle1 V00="3" V01="0" V02="2"/>
+	<Triangle1 V00="4" V01="5" V02="6"/>
+	<Triangle1 V00="4" V01="6" V02="7"/>
+	<Triangle1 V00="8" V01="9" V02="10"/>
+	<Triangle1 V00="9" V01="11" V02="10"/>
+	<Triangle1 V00="9" V01="12" V02="11"/>
+	<Triangle1 V00="12" V01="13" V02="11"/>
+	<Triangle1 V00="11" V01="13" V02="14"/>
+	<Triangle1 V00="10" V01="11" V02="14"/>
+	<LoadVertices Path="objects/object_hidan_objects/gFireTempleStationaryFlamethrowerTallDL_vtx_0" VertexBufferIndex="0" VertexOffset="522" Count="16"/>
+	<Triangle1 V00="0" V01="1" V02="2"/>
+	<Triangle1 V00="3" V01="0" V02="2"/>
+	<Triangle1 V00="3" V01="2" V02="4"/>
+	<Triangle1 V00="4" V01="2" V02="5"/>
+	<Triangle1 V00="6" V01="3" V02="4"/>
+	<Triangle1 V00="7" V01="3" V02="6"/>
+	<Triangle1 V00="7" V01="0" V02="3"/>
+	<Triangle1 V00="8" V01="9" V02="10"/>
+	<Triangle1 V00="9" V01="11" V02="10"/>
+	<Triangle1 V00="12" V01="13" V02="14"/>
+	<Triangle1 V00="13" V01="15" V02="14"/>
+	<LoadVertices Path="objects/object_hidan_objects/gFireTempleStationaryFlamethrowerTallDL_vtx_0" VertexBufferIndex="0" VertexOffset="538" Count="16"/>
+	<Triangle1 V00="0" V01="1" V02="2"/>
+	<Triangle1 V00="1" V01="3" V02="2"/>
+	<Triangle1 V00="4" V01="5" V02="6"/>
+	<Triangle1 V00="5" V01="7" V02="6"/>
+	<Triangle1 V00="8" V01="9" V02="10"/>
+	<Triangle1 V00="9" V01="11" V02="10"/>
+	<Triangle1 V00="12" V01="13" V02="14"/>
+	<Triangle1 V00="13" V01="15" V02="14"/>
+	<LoadVertices Path="objects/object_hidan_objects/gFireTempleStationaryFlamethrowerTallDL_vtx_0" VertexBufferIndex="0" VertexOffset="554" Count="16"/>
+	<Triangle1 V00="0" V01="1" V02="2"/>
+	<Triangle1 V00="1" V01="3" V02="2"/>
+	<Triangle1 V00="4" V01="5" V02="6"/>
+	<Triangle1 V00="5" V01="7" V02="6"/>
+	<Triangle1 V00="8" V01="9" V02="10"/>
+	<Triangle1 V00="9" V01="11" V02="10"/>
+	<Triangle1 V00="12" V01="13" V02="14"/>
+	<Triangle1 V00="13" V01="15" V02="14"/>
+	<LoadVertices Path="objects/object_hidan_objects/gFireTempleStationaryFlamethrowerTallDL_vtx_0" VertexBufferIndex="0" VertexOffset="570" Count="16"/>
+	<Triangle1 V00="0" V01="1" V02="2"/>
+	<Triangle1 V00="1" V01="3" V02="2"/>
+	<Triangle1 V00="4" V01="5" V02="6"/>
+	<Triangle1 V00="5" V01="7" V02="6"/>
+	<Triangle1 V00="8" V01="9" V02="10"/>
+	<Triangle1 V00="9" V01="11" V02="10"/>
+	<Triangle1 V00="12" V01="13" V02="14"/>
+	<Triangle1 V00="13" V01="15" V02="14"/>
+	<LoadVertices Path="objects/object_hidan_objects/gFireTempleStationaryFlamethrowerTallDL_vtx_0" VertexBufferIndex="0" VertexOffset="586" Count="16"/>
+	<Triangle1 V00="0" V01="1" V02="2"/>
+	<Triangle1 V00="1" V01="3" V02="2"/>
+	<Triangle1 V00="4" V01="5" V02="6"/>
+	<Triangle1 V00="5" V01="7" V02="6"/>
+	<Triangle1 V00="8" V01="9" V02="10"/>
+	<Triangle1 V00="8" V01="11" V02="9"/>
+	<Triangle1 V00="12" V01="13" V02="14"/>
+	<Triangle1 V00="14" V01="13" V02="15"/>
+	<LoadVertices Path="objects/object_hidan_objects/gFireTempleStationaryFlamethrowerTallDL_vtx_0" VertexBufferIndex="0" VertexOffset="602" Count="14"/>
+	<Triangle1 V00="0" V01="1" V02="2"/>
+	<Triangle1 V00="3" V01="2" V02="4"/>
+	<Triangle1 V00="3" V01="4" V02="5"/>
+	<Triangle1 V00="6" V01="7" V02="8"/>
+	<Triangle1 V00="6" V01="8" V02="9"/>
+	<Triangle1 V00="10" V01="11" V02="12"/>
+	<Triangle1 V00="10" V01="13" V02="11"/>
+	<LoadVertices Path="objects/object_hidan_objects/gFireTempleStationaryFlamethrowerTallDL_vtx_0" VertexBufferIndex="0" VertexOffset="616" Count="16"/>
+	<Triangle1 V00="0" V01="1" V02="2"/>
+	<Triangle1 V00="2" V01="1" V02="3"/>
+	<Triangle1 V00="4" V01="2" V02="3"/>
+	<Triangle1 V00="5" V01="6" V02="7"/>
+	<Triangle1 V00="6" V01="8" V02="7"/>
+	<Triangle1 V00="9" V01="10" V02="11"/>
+	<Triangle1 V00="10" V01="12" V02="11"/>
+	<Triangle1 V00="13" V01="14" V02="15"/>
+	<LoadVertices Path="objects/object_hidan_objects/gFireTempleStationaryFlamethrowerTallDL_vtx_0" VertexBufferIndex="0" VertexOffset="632" Count="15"/>
+	<Triangle1 V00="0" V01="1" V02="2"/>
+	<Triangle1 V00="3" V01="4" V02="5"/>
+	<Triangle1 V00="4" V01="6" V02="5"/>
+	<Triangle1 V00="7" V01="8" V02="9"/>
+	<Triangle1 V00="8" V01="10" V02="9"/>
+	<Triangle1 V00="11" V01="12" V02="13"/>
+	<Triangle1 V00="11" V01="13" V02="14"/>
+	<LoadVertices Path="objects/object_hidan_objects/gFireTempleStationaryFlamethrowerTallDL_vtx_0" VertexBufferIndex="0" VertexOffset="647" Count="16"/>
+	<Triangle1 V00="0" V01="1" V02="2"/>
+	<Triangle1 V00="1" V01="3" V02="2"/>
+	<Triangle1 V00="4" V01="5" V02="6"/>
+	<Triangle1 V00="7" V01="4" V02="6"/>
+	<Triangle1 V00="8" V01="9" V02="10"/>
+	<Triangle1 V00="9" V01="11" V02="10"/>
+	<Triangle1 V00="12" V01="13" V02="14"/>
+	<Triangle1 V00="13" V01="15" V02="14"/>
+	<LoadVertices Path="objects/object_hidan_objects/gFireTempleStationaryFlamethrowerTallDL_vtx_0" VertexBufferIndex="0" VertexOffset="663" Count="15"/>
+	<Triangle1 V00="0" V01="1" V02="2"/>
+	<Triangle1 V00="1" V01="3" V02="2"/>
+	<Triangle1 V00="4" V01="5" V02="6"/>
+	<Triangle1 V00="5" V01="7" V02="6"/>
+	<Triangle1 V00="8" V01="9" V02="10"/>
+	<Triangle1 V00="11" V01="9" V02="8"/>
+	<Triangle1 V00="11" V01="8" V02="12"/>
+	<Triangle1 V00="11" V01="12" V02="13"/>
+	<Triangle1 V00="14" V01="13" V02="12"/>
+	<LoadVertices Path="objects/object_hidan_objects/gFireTempleStationaryFlamethrowerTallDL_vtx_0" VertexBufferIndex="0" VertexOffset="678" Count="14"/>
+	<Triangle1 V00="0" V01="1" V02="2"/>
+	<Triangle1 V00="3" V01="0" V02="2"/>
+	<Triangle1 V00="4" V01="5" V02="6"/>
+	<Triangle1 V00="7" V01="4" V02="6"/>
+	<Triangle1 V00="8" V01="9" V02="10"/>
+	<Triangle1 V00="9" V01="11" V02="10"/>
+	<Triangle1 V00="9" V01="12" V02="11"/>
+	<Triangle1 V00="12" V01="13" V02="11"/>
+	<LoadVertices Path="objects/object_hidan_objects/gFireTempleStationaryFlamethrowerTallDL_vtx_0" VertexBufferIndex="0" VertexOffset="692" Count="16"/>
+	<Triangle1 V00="0" V01="1" V02="2"/>
+	<Triangle1 V00="1" V01="3" V02="2"/>
+	<Triangle1 V00="4" V01="5" V02="6"/>
+	<Triangle1 V00="5" V01="7" V02="6"/>
+	<Triangle1 V00="8" V01="9" V02="10"/>
+	<Triangle1 V00="8" V01="10" V02="11"/>
+	<Triangle1 V00="12" V01="11" V02="10"/>
+	<Triangle1 V00="13" V01="12" V02="10"/>
+	<Triangle1 V00="13" V01="14" V02="12"/>
+	<Triangle1 V00="13" V01="15" V02="14"/>
+	<LoadVertices Path="objects/object_hidan_objects/gFireTempleStationaryFlamethrowerTallDL_vtx_0" VertexBufferIndex="0" VertexOffset="708" Count="16"/>
+	<Triangle1 V00="0" V01="1" V02="2"/>
+	<Triangle1 V00="3" V01="4" V02="5"/>
+	<Triangle1 V00="5" V01="4" V02="6"/>
+	<Triangle1 V00="4" V01="7" V02="6"/>
+	<Triangle1 V00="8" V01="9" V02="10"/>
+	<Triangle1 V00="8" V01="10" V02="11"/>
+	<Triangle1 V00="12" V01="8" V02="11"/>
+	<Triangle1 V00="13" V01="14" V02="15"/>
+	<LoadVertices Path="objects/object_hidan_objects/gFireTempleStationaryFlamethrowerTallDL_vtx_0" VertexBufferIndex="0" VertexOffset="724" Count="15"/>
+	<Triangle1 V00="0" V01="1" V02="2"/>
+	<Triangle1 V00="3" V01="4" V02="5"/>
+	<Triangle1 V00="6" V01="3" V02="5"/>
+	<Triangle1 V00="7" V01="8" V02="9"/>
+	<Triangle1 V00="8" V01="10" V02="9"/>
+	<Triangle1 V00="11" V01="12" V02="13"/>
+	<Triangle1 V00="12" V01="14" V02="13"/>
+	<LoadVertices Path="objects/object_hidan_objects/gFireTempleStationaryFlamethrowerTallDL_vtx_0" VertexBufferIndex="0" VertexOffset="739" Count="16"/>
+	<Triangle1 V00="0" V01="1" V02="2"/>
+	<Triangle1 V00="1" V01="3" V02="2"/>
+	<Triangle1 V00="4" V01="5" V02="6"/>
+	<Triangle1 V00="5" V01="7" V02="6"/>
+	<Triangle1 V00="8" V01="9" V02="10"/>
+	<Triangle1 V00="9" V01="11" V02="10"/>
+	<Triangle1 V00="12" V01="13" V02="14"/>
+	<Triangle1 V00="13" V01="15" V02="14"/>
+	<LoadVertices Path="objects/object_hidan_objects/gFireTempleStationaryFlamethrowerTallDL_vtx_0" VertexBufferIndex="0" VertexOffset="755" Count="16"/>
+	<Triangle1 V00="0" V01="1" V02="2"/>
+	<Triangle1 V00="1" V01="3" V02="2"/>
+	<Triangle1 V00="4" V01="5" V02="6"/>
+	<Triangle1 V00="5" V01="7" V02="6"/>
+	<Triangle1 V00="8" V01="9" V02="10"/>
+	<Triangle1 V00="9" V01="11" V02="10"/>
+	<Triangle1 V00="12" V01="13" V02="14"/>
+	<Triangle1 V00="14" V01="13" V02="15"/>
+	<LoadVertices Path="objects/object_hidan_objects/gFireTempleStationaryFlamethrowerTallDL_vtx_0" VertexBufferIndex="0" VertexOffset="771" Count="16"/>
+	<Triangle1 V00="0" V01="1" V02="2"/>
+	<Triangle1 V00="3" V01="2" V02="1"/>
+	<Triangle1 V00="4" V01="2" V02="3"/>
+	<Triangle1 V00="4" V01="3" V02="5"/>
+	<Triangle1 V00="4" V01="5" V02="6"/>
+	<Triangle1 V00="7" V01="8" V02="9"/>
+	<Triangle1 V00="7" V01="9" V02="10"/>
+	<Triangle1 V00="11" V01="12" V02="13"/>
+	<Triangle1 V00="12" V01="14" V02="13"/>
+	<Triangle1 V00="12" V01="15" V02="14"/>
+	<LoadVertices Path="objects/object_hidan_objects/gFireTempleStationaryFlamethrowerTallDL_vtx_0" VertexBufferIndex="0" VertexOffset="787" Count="16"/>
+	<Triangle1 V00="0" V01="1" V02="2"/>
+	<Triangle1 V00="1" V01="3" V02="2"/>
+	<Triangle1 V00="4" V01="5" V02="6"/>
+	<Triangle1 V00="5" V01="7" V02="6"/>
+	<Triangle1 V00="8" V01="9" V02="10"/>
+	<Triangle1 V00="9" V01="11" V02="10"/>
+	<Triangle1 V00="12" V01="13" V02="14"/>
+	<Triangle1 V00="13" V01="15" V02="14"/>
+	<LoadVertices Path="objects/object_hidan_objects/gFireTempleStationaryFlamethrowerTallDL_vtx_0" VertexBufferIndex="0" VertexOffset="803" Count="14"/>
+	<Triangle1 V00="0" V01="1" V02="2"/>
+	<Triangle1 V00="1" V01="3" V02="2"/>
+	<Triangle1 V00="4" V01="5" V02="6"/>
+	<Triangle1 V00="7" V01="5" V02="4"/>
+	<Triangle1 V00="7" V01="4" V02="8"/>
+	<Triangle1 V00="7" V01="8" V02="9"/>
+	<Triangle1 V00="8" V01="10" V02="9"/>
+	<Triangle1 V00="10" V01="11" V02="9"/>
+	<Triangle1 V00="9" V01="11" V02="12"/>
+	<Triangle1 V00="12" V01="11" V02="13"/>
+	<Triangle1 V00="12" V01="13" V02="5"/>
+	<LoadVertices Path="objects/object_hidan_objects/gFireTempleStationaryFlamethrowerTallDL_vtx_0" VertexBufferIndex="0" VertexOffset="817" Count="15"/>
+	<Triangle1 V00="0" V01="1" V02="2"/>
+	<Triangle1 V00="1" V01="3" V02="2"/>
+	<Triangle1 V00="4" V01="5" V02="6"/>
+	<Triangle1 V00="7" V01="4" V02="6"/>
+	<Triangle1 V00="7" V01="6" V02="8"/>
+	<Triangle1 V00="9" V01="7" V02="8"/>
+	<Triangle1 V00="10" V01="7" V02="9"/>
+	<Triangle1 V00="10" V01="4" V02="7"/>
+	<Triangle1 V00="11" V01="12" V02="13"/>
+	<Triangle1 V00="14" V01="11" V02="13"/>
+	<LoadVertices Path="objects/object_hidan_objects/gFireTempleStationaryFlamethrowerTallDL_vtx_0" VertexBufferIndex="0" VertexOffset="832" Count="16"/>
+	<Triangle1 V00="0" V01="1" V02="2"/>
+	<Triangle1 V00="1" V01="3" V02="2"/>
+	<Triangle1 V00="4" V01="5" V02="6"/>
+	<Triangle1 V00="5" V01="7" V02="6"/>
+	<Triangle1 V00="8" V01="9" V02="10"/>
+	<Triangle1 V00="9" V01="11" V02="10"/>
+	<Triangle1 V00="12" V01="13" V02="14"/>
+	<Triangle1 V00="13" V01="15" V02="14"/>
+	<LoadVertices Path="objects/object_hidan_objects/gFireTempleStationaryFlamethrowerTallDL_vtx_0" VertexBufferIndex="0" VertexOffset="848" Count="14"/>
+	<Triangle1 V00="0" V01="1" V02="2"/>
+	<Triangle1 V00="0" V01="2" V02="3"/>
+	<Triangle1 V00="0" V01="3" V02="4"/>
+	<Triangle1 V00="5" V01="4" V02="3"/>
+	<Triangle1 V00="1" V01="6" V02="7"/>
+	<Triangle1 V00="8" V01="7" V02="6"/>
+	<Triangle1 V00="9" V01="7" V02="8"/>
+	<Triangle1 V00="9" V01="8" V02="5"/>
+	<Triangle1 V00="10" V01="11" V02="12"/>
+	<Triangle1 V00="13" V01="10" V02="12"/>
+	<LoadVertices Path="objects/object_hidan_objects/gFireTempleStationaryFlamethrowerTallDL_vtx_0" VertexBufferIndex="0" VertexOffset="862" Count="16"/>
+	<Triangle1 V00="0" V01="1" V02="2"/>
+	<Triangle1 V00="3" V01="0" V02="2"/>
+	<Triangle1 V00="4" V01="5" V02="6"/>
+	<Triangle1 V00="7" V01="4" V02="6"/>
+	<Triangle1 V00="8" V01="9" V02="10"/>
+	<Triangle1 V00="9" V01="11" V02="10"/>
+	<Triangle1 V00="12" V01="13" V02="14"/>
+	<Triangle1 V00="13" V01="15" V02="14"/>
+	<LoadVertices Path="objects/object_hidan_objects/gFireTempleStationaryFlamethrowerTallDL_vtx_0" VertexBufferIndex="0" VertexOffset="878" Count="14"/>
+	<Triangle1 V00="0" V01="1" V02="2"/>
+	<Triangle1 V00="1" V01="3" V02="2"/>
+	<Triangle1 V00="1" V01="4" V02="3"/>
+	<Triangle1 V00="4" V01="5" V02="3"/>
+	<Triangle1 V00="6" V01="7" V02="8"/>
+	<Triangle1 V00="7" V01="9" V02="8"/>
+	<Triangle1 V00="10" V01="11" V02="12"/>
+	<Triangle1 V00="13" V01="10" V02="12"/>
+	<LoadVertices Path="objects/object_hidan_objects/gFireTempleStationaryFlamethrowerTallDL_vtx_0" VertexBufferIndex="0" VertexOffset="892" Count="16"/>
+	<Triangle1 V00="0" V01="1" V02="2"/>
+	<Triangle1 V00="1" V01="3" V02="2"/>
+	<Triangle1 V00="4" V01="5" V02="6"/>
+	<Triangle1 V00="5" V01="7" V02="6"/>
+	<Triangle1 V00="8" V01="9" V02="10"/>
+	<Triangle1 V00="9" V01="11" V02="10"/>
+	<Triangle1 V00="12" V01="13" V02="14"/>
+	<Triangle1 V00="13" V01="15" V02="14"/>
+	<LoadVertices Path="objects/object_hidan_objects/gFireTempleStationaryFlamethrowerTallDL_vtx_0" VertexBufferIndex="0" VertexOffset="908" Count="16"/>
+	<Triangle1 V00="0" V01="1" V02="2"/>
+	<Triangle1 V00="1" V01="3" V02="2"/>
+	<Triangle1 V00="4" V01="5" V02="6"/>
+	<Triangle1 V00="5" V01="7" V02="6"/>
+	<Triangle1 V00="8" V01="9" V02="10"/>
+	<Triangle1 V00="9" V01="11" V02="10"/>
+	<Triangle1 V00="12" V01="13" V02="14"/>
+	<Triangle1 V00="13" V01="15" V02="14"/>
+	<LoadVertices Path="objects/object_hidan_objects/gFireTempleStationaryFlamethrowerTallDL_vtx_0" VertexBufferIndex="0" VertexOffset="924" Count="14"/>
+	<Triangle1 V00="0" V01="1" V02="2"/>
+	<Triangle1 V00="1" V01="3" V02="2"/>
+	<Triangle1 V00="4" V01="5" V02="6"/>
+	<Triangle1 V00="7" V01="5" V02="4"/>
+	<Triangle1 V00="7" V01="4" V02="8"/>
+	<Triangle1 V00="7" V01="8" V02="9"/>
+	<Triangle1 V00="10" V01="9" V02="8"/>
+	<Triangle1 V00="11" V01="6" V02="12"/>
+	<Triangle1 V00="13" V01="6" V02="11"/>
+	<Triangle1 V00="13" V01="11" V02="10"/>
+	<LoadVertices Path="objects/object_hidan_objects/gFireTempleStationaryFlamethrowerTallDL_vtx_0" VertexBufferIndex="0" VertexOffset="938" Count="14"/>
+	<Triangle1 V00="0" V01="1" V02="2"/>
+	<Triangle1 V00="0" V01="2" V02="3"/>
+	<Triangle1 V00="4" V01="5" V02="6"/>
+	<Triangle1 V00="5" V01="7" V02="6"/>
+	<Triangle1 V00="6" V01="7" V02="8"/>
+	<Triangle1 V00="9" V01="6" V02="8"/>
+	<Triangle1 V00="10" V01="11" V02="12"/>
+	<Triangle1 V00="11" V01="13" V02="12"/>
+	<LoadVertices Path="objects/object_hidan_objects/gFireTempleStationaryFlamethrowerTallDL_vtx_0" VertexBufferIndex="0" VertexOffset="952" Count="16"/>
+	<Triangle1 V00="0" V01="1" V02="2"/>
+	<Triangle1 V00="1" V01="3" V02="2"/>
+	<Triangle1 V00="4" V01="5" V02="6"/>
+	<Triangle1 V00="5" V01="7" V02="6"/>
+	<Triangle1 V00="8" V01="9" V02="10"/>
+	<Triangle1 V00="9" V01="11" V02="10"/>
+	<Triangle1 V00="12" V01="13" V02="14"/>
+	<Triangle1 V00="15" V01="13" V02="12"/>
+	<LoadVertices Path="objects/object_hidan_objects/gFireTempleStationaryFlamethrowerTallDL_vtx_0" VertexBufferIndex="0" VertexOffset="968" Count="16"/>
+	<Triangle1 V00="0" V01="1" V02="2"/>
+	<Triangle1 V00="0" V01="2" V02="3"/>
+	<Triangle1 V00="2" V01="4" V02="3"/>
+	<Triangle1 V00="4" V01="5" V02="3"/>
+	<Triangle1 V00="3" V01="5" V02="6"/>
+	<Triangle1 V00="6" V01="5" V02="7"/>
+	<Triangle1 V00="6" V01="7" V02="8"/>
+	<Triangle1 V00="9" V01="10" V02="11"/>
+	<Triangle1 V00="10" V01="12" V02="11"/>
+	<Triangle1 V00="13" V01="14" V02="15"/>
+	<LoadVertices Path="objects/object_hidan_objects/gFireTempleStationaryFlamethrowerTallDL_vtx_0" VertexBufferIndex="0" VertexOffset="984" Count="14"/>
+	<Triangle1 V00="0" V01="1" V02="2"/>
+	<Triangle1 V00="0" V01="2" V02="3"/>
+	<Triangle1 V00="4" V01="0" V02="3"/>
+	<Triangle1 V00="5" V01="0" V02="4"/>
+	<Triangle1 V00="5" V01="1" V02="0"/>
+	<Triangle1 V00="6" V01="7" V02="8"/>
+	<Triangle1 V00="9" V01="6" V02="8"/>
+	<Triangle1 V00="10" V01="11" V02="12"/>
+	<Triangle1 V00="11" V01="13" V02="12"/>
+	<LoadVertices Path="objects/object_hidan_objects/gFireTempleStationaryFlamethrowerTallDL_vtx_0" VertexBufferIndex="0" VertexOffset="998" Count="16"/>
+	<Triangle1 V00="0" V01="1" V02="2"/>
+	<Triangle1 V00="1" V01="3" V02="2"/>
+	<Triangle1 V00="4" V01="5" V02="6"/>
+	<Triangle1 V00="5" V01="7" V02="6"/>
+	<Triangle1 V00="8" V01="9" V02="10"/>
+	<Triangle1 V00="9" V01="11" V02="10"/>
+	<Triangle1 V00="12" V01="13" V02="14"/>
+	<Triangle1 V00="12" V01="15" V02="13"/>
+	<LoadVertices Path="objects/object_hidan_objects/gFireTempleStationaryFlamethrowerTallDL_vtx_0" VertexBufferIndex="0" VertexOffset="1014" Count="16"/>
+	<Triangle1 V00="0" V01="1" V02="2"/>
+	<Triangle1 V00="2" V01="1" V02="3"/>
+	<Triangle1 V00="1" V01="4" V02="3"/>
+	<Triangle1 V00="5" V01="3" V02="4"/>
+	<Triangle1 V00="6" V01="3" V02="5"/>
+	<Triangle1 V00="6" V01="5" V02="7"/>
+	<Triangle1 V00="6" V01="7" V02="8"/>
+	<Triangle1 V00="9" V01="10" V02="11"/>
+	<Triangle1 V00="12" V01="9" V02="11"/>
+	<Triangle1 V00="13" V01="14" V02="15"/>
+	<LoadVertices Path="objects/object_hidan_objects/gFireTempleStationaryFlamethrowerTallDL_vtx_0" VertexBufferIndex="0" VertexOffset="1030" Count="15"/>
+	<Triangle1 V00="0" V01="1" V02="2"/>
+	<Triangle1 V00="3" V01="4" V02="5"/>
+	<Triangle1 V00="6" V01="3" V02="5"/>
+	<Triangle1 V00="7" V01="8" V02="9"/>
+	<Triangle1 V00="8" V01="10" V02="9"/>
+	<Triangle1 V00="11" V01="12" V02="13"/>
+	<Triangle1 V00="12" V01="14" V02="13"/>
+	<LoadVertices Path="objects/object_hidan_objects/gFireTempleStationaryFlamethrowerTallDL_vtx_0" VertexBufferIndex="0" VertexOffset="1045" Count="16"/>
+	<Triangle1 V00="0" V01="1" V02="2"/>
+	<Triangle1 V00="0" V01="3" V02="1"/>
+	<Triangle1 V00="0" V01="4" V02="3"/>
+	<Triangle1 V00="3" V01="4" V02="5"/>
+	<Triangle1 V00="6" V01="5" V02="7"/>
+	<Triangle1 V00="8" V01="5" V02="6"/>
+	<Triangle1 V00="8" V01="6" V02="9"/>
+	<Triangle1 V00="8" V01="9" V02="1"/>
+	<Triangle1 V00="10" V01="11" V02="12"/>
+	<Triangle1 V00="11" V01="13" V02="12"/>
+	<Triangle1 V00="11" V01="14" V02="13"/>
+	<Triangle1 V00="14" V01="15" V02="13"/>
+	<LoadVertices Path="objects/object_hidan_objects/gFireTempleStationaryFlamethrowerTallDL_vtx_0" VertexBufferIndex="0" VertexOffset="1061" Count="16"/>
+	<Triangle1 V00="0" V01="1" V02="2"/>
+	<Triangle1 V00="1" V01="3" V02="2"/>
+	<Triangle1 V00="4" V01="5" V02="6"/>
+	<Triangle1 V00="7" V01="4" V02="6"/>
+	<Triangle1 V00="8" V01="9" V02="10"/>
+	<Triangle1 V00="9" V01="11" V02="10"/>
+	<Triangle1 V00="12" V01="13" V02="14"/>
+	<Triangle1 V00="13" V01="15" V02="14"/>
+	<LoadVertices Path="objects/object_hidan_objects/gFireTempleStationaryFlamethrowerTallDL_vtx_0" VertexBufferIndex="0" VertexOffset="1077" Count="16"/>
+	<Triangle1 V00="0" V01="1" V02="2"/>
+	<Triangle1 V00="1" V01="3" V02="2"/>
+	<Triangle1 V00="4" V01="5" V02="6"/>
+	<Triangle1 V00="5" V01="7" V02="6"/>
+	<Triangle1 V00="8" V01="9" V02="10"/>
+	<Triangle1 V00="9" V01="11" V02="10"/>
+	<Triangle1 V00="12" V01="13" V02="14"/>
+	<Triangle1 V00="13" V01="15" V02="14"/>
+	<LoadVertices Path="objects/object_hidan_objects/gFireTempleStationaryFlamethrowerTallDL_vtx_0" VertexBufferIndex="0" VertexOffset="1093" Count="14"/>
+	<Triangle1 V00="0" V01="1" V02="2"/>
+	<Triangle1 V00="1" V01="3" V02="2"/>
+	<Triangle1 V00="4" V01="5" V02="6"/>
+	<Triangle1 V00="6" V01="5" V02="7"/>
+	<Triangle1 V00="7" V01="5" V02="8"/>
+	<Triangle1 V00="7" V01="8" V02="9"/>
+	<Triangle1 V00="8" V01="10" V02="9"/>
+	<Triangle1 V00="11" V01="9" V02="10"/>
+	<Triangle1 V00="12" V01="9" V02="11"/>
+	<Triangle1 V00="12" V01="11" V02="13"/>
+	<Triangle1 V00="12" V01="13" V02="6"/>
+	<Triangle1 V00="13" V01="4" V02="6"/>
+	<LoadVertices Path="objects/object_hidan_objects/gFireTempleStationaryFlamethrowerTallDL_vtx_0" VertexBufferIndex="0" VertexOffset="1107" Count="10"/>
+	<Triangle1 V00="0" V01="1" V02="2"/>
+	<Triangle1 V00="0" V01="3" V02="1"/>
+	<Triangle1 V00="0" V01="4" V02="3"/>
+	<Triangle1 V00="3" V01="4" V02="5"/>
+	<Triangle1 V00="4" V01="6" V02="5"/>
+	<Triangle1 V00="7" V01="5" V02="6"/>
+	<Triangle1 V00="8" V01="5" V02="7"/>
+	<Triangle1 V00="8" V01="7" V02="9"/>
+	<Triangle1 V00="8" V01="9" V02="1"/>
+	<Triangle1 V00="9" V01="2" V02="1"/>
+	<EndDisplayList/>
+</DisplayList>
+

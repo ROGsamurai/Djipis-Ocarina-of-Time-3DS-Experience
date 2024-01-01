@@ -1,0 +1,6 @@
+<DisplayList Version="0">
+	<CallDisplayList Path="objects/object_du/mat_gDaruniaSkel_DaruniaSkin_layerOpaque"/>
+	<CallDisplayList Path="objects/object_du/bone011_gDaruniaSkelLimbsLimb_011C1C_mesh_layer_Opaque_tri_0"/>
+	<EndDisplayList/>
+</DisplayList>
+

@@ -1,0 +1,17 @@
+<Skeleton Version="0" Type="Flex" LimbCount="15" DisplayListCount="15">
+	<SkeletonLimb Path="objects/object_cs/gGraveyardKidSkelLimb_000"/>
+	<SkeletonLimb Path="objects/object_cs/gGraveyardKidSkelLimb_001"/>
+	<SkeletonLimb Path="objects/object_cs/gGraveyardKidSkelLimb_002"/>
+	<SkeletonLimb Path="objects/object_cs/gGraveyardKidSkelLimb_003"/>
+	<SkeletonLimb Path="objects/object_cs/gGraveyardKidSkelLimb_004"/>
+	<SkeletonLimb Path="objects/object_cs/gGraveyardKidSkelLimb_005"/>
+	<SkeletonLimb Path="objects/object_cs/gGraveyardKidSkelLimb_006"/>
+	<SkeletonLimb Path="objects/object_cs/gGraveyardKidSkelLimb_007"/>
+	<SkeletonLimb Path="objects/object_cs/gGraveyardKidSkelLimb_008"/>
+	<SkeletonLimb Path="objects/object_cs/gGraveyardKidSkelLimb_009"/>
+	<SkeletonLimb Path="objects/object_cs/gGraveyardKidSkelLimb_010"/>
+	<SkeletonLimb Path="objects/object_cs/gGraveyardKidSkelLimb_011"/>
+	<SkeletonLimb Path="objects/object_cs/gGraveyardKidSkelLimb_012"/>
+	<SkeletonLimb Path="objects/object_cs/gGraveyardKidSkelLimb_013"/>
+	<SkeletonLimb Path="objects/object_cs/gGraveyardKidSkelLimb_014"/>
+</Skeleton>

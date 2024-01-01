@@ -1,0 +1,27 @@
+<Skeleton Version="0" Type="Flex" LimbCount="25" DisplayListCount="25">
+	<SkeletonLimb Path="objects/object_ganon/gGanondorfSkelLimb_000"/>
+	<SkeletonLimb Path="objects/object_ganon/gGanondorfSkelLimb_001"/>
+	<SkeletonLimb Path="objects/object_ganon/gGanondorfSkelLimb_002"/>
+	<SkeletonLimb Path="objects/object_ganon/gGanondorfSkelLimb_003"/>
+	<SkeletonLimb Path="objects/object_ganon/gGanondorfSkelLimb_004"/>
+	<SkeletonLimb Path="objects/object_ganon/gGanondorfSkelLimb_005"/>
+	<SkeletonLimb Path="objects/object_ganon/gGanondorfSkelLimb_006"/>
+	<SkeletonLimb Path="objects/object_ganon/gGanondorfSkelLimb_007"/>
+	<SkeletonLimb Path="objects/object_ganon/gGanondorfSkelLimb_008"/>
+	<SkeletonLimb Path="objects/object_ganon/gGanondorfSkelLimb_009"/>
+	<SkeletonLimb Path="objects/object_ganon/gGanondorfSkelLimb_010"/>
+	<SkeletonLimb Path="objects/object_ganon/gGanondorfSkelLimb_011"/>
+	<SkeletonLimb Path="objects/object_ganon/gGanondorfSkelLimb_012"/>
+	<SkeletonLimb Path="objects/object_ganon/gGanondorfSkelLimb_013"/>
+	<SkeletonLimb Path="objects/object_ganon/gGanondorfSkelLimb_014"/>
+	<SkeletonLimb Path="objects/object_ganon/gGanondorfSkelLimb_015"/>
+	<SkeletonLimb Path="objects/object_ganon/gGanondorfSkelLimb_016"/>
+	<SkeletonLimb Path="objects/object_ganon/gGanondorfSkelLimb_017"/>
+	<SkeletonLimb Path="objects/object_ganon/gGanondorfSkelLimb_018"/>
+	<SkeletonLimb Path="objects/object_ganon/gGanondorfSkelLimb_019"/>
+	<SkeletonLimb Path="objects/object_ganon/gGanondorfSkelLimb_020"/>
+	<SkeletonLimb Path="objects/object_ganon/gGanondorfSkelLimb_021"/>
+	<SkeletonLimb Path="objects/object_ganon/gGanondorfSkelLimb_022"/>
+	<SkeletonLimb Path="objects/object_ganon/gGanondorfSkelLimb_023"/>
+	<SkeletonLimb Path="objects/object_ganon/gGanondorfSkelLimb_024"/>
+</Skeleton>

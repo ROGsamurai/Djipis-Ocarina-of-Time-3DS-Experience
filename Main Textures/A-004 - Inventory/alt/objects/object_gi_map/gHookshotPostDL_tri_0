@@ -1,0 +1,250 @@
+<DisplayList Version="0">
+	<LoadVertices Path="objects/object_gi_map/gHookshotPostDL_vtx_0" VertexBufferIndex="0" VertexOffset="0" Count="15"/>
+	<Triangle1 V00="0" V01="1" V02="2"/>
+	<Triangle1 V00="3" V01="4" V02="5"/>
+	<Triangle1 V00="6" V01="7" V02="8"/>
+	<Triangle1 V00="9" V01="10" V02="11"/>
+	<Triangle1 V00="12" V01="13" V02="14"/>
+	<LoadVertices Path="objects/object_gi_map/gHookshotPostDL_vtx_0" VertexBufferIndex="0" VertexOffset="15" Count="15"/>
+	<Triangle1 V00="0" V01="1" V02="2"/>
+	<Triangle1 V00="3" V01="4" V02="5"/>
+	<Triangle1 V00="6" V01="7" V02="8"/>
+	<Triangle1 V00="9" V01="10" V02="11"/>
+	<Triangle1 V00="12" V01="13" V02="14"/>
+	<LoadVertices Path="objects/object_gi_map/gHookshotPostDL_vtx_0" VertexBufferIndex="0" VertexOffset="30" Count="15"/>
+	<Triangle1 V00="0" V01="1" V02="2"/>
+	<Triangle1 V00="3" V01="4" V02="5"/>
+	<Triangle1 V00="6" V01="7" V02="8"/>
+	<Triangle1 V00="9" V01="10" V02="11"/>
+	<Triangle1 V00="12" V01="13" V02="14"/>
+	<LoadVertices Path="objects/object_gi_map/gHookshotPostDL_vtx_0" VertexBufferIndex="0" VertexOffset="45" Count="15"/>
+	<Triangle1 V00="0" V01="1" V02="2"/>
+	<Triangle1 V00="3" V01="4" V02="5"/>
+	<Triangle1 V00="6" V01="7" V02="8"/>
+	<Triangle1 V00="9" V01="10" V02="11"/>
+	<Triangle1 V00="12" V01="13" V02="14"/>
+	<LoadVertices Path="objects/object_gi_map/gHookshotPostDL_vtx_0" VertexBufferIndex="0" VertexOffset="60" Count="15"/>
+	<Triangle1 V00="0" V01="1" V02="2"/>
+	<Triangle1 V00="3" V01="4" V02="5"/>
+	<Triangle1 V00="6" V01="7" V02="8"/>
+	<Triangle1 V00="9" V01="10" V02="11"/>
+	<Triangle1 V00="12" V01="13" V02="14"/>
+	<LoadVertices Path="objects/object_gi_map/gHookshotPostDL_vtx_0" VertexBufferIndex="0" VertexOffset="75" Count="15"/>
+	<Triangle1 V00="0" V01="1" V02="2"/>
+	<Triangle1 V00="3" V01="4" V02="5"/>
+	<Triangle1 V00="6" V01="7" V02="8"/>
+	<Triangle1 V00="9" V01="10" V02="11"/>
+	<Triangle1 V00="12" V01="13" V02="14"/>
+	<LoadVertices Path="objects/object_gi_map/gHookshotPostDL_vtx_0" VertexBufferIndex="0" VertexOffset="90" Count="15"/>
+	<Triangle1 V00="0" V01="1" V02="2"/>
+	<Triangle1 V00="3" V01="4" V02="5"/>
+	<Triangle1 V00="6" V01="7" V02="8"/>
+	<Triangle1 V00="9" V01="10" V02="11"/>
+	<Triangle1 V00="12" V01="13" V02="14"/>
+	<LoadVertices Path="objects/object_gi_map/gHookshotPostDL_vtx_0" VertexBufferIndex="0" VertexOffset="105" Count="15"/>
+	<Triangle1 V00="0" V01="1" V02="2"/>
+	<Triangle1 V00="3" V01="4" V02="5"/>
+	<Triangle1 V00="6" V01="7" V02="8"/>
+	<Triangle1 V00="9" V01="10" V02="11"/>
+	<Triangle1 V00="12" V01="13" V02="14"/>
+	<LoadVertices Path="objects/object_gi_map/gHookshotPostDL_vtx_0" VertexBufferIndex="0" VertexOffset="120" Count="16"/>
+	<Triangle1 V00="0" V01="1" V02="2"/>
+	<Triangle1 V00="3" V01="0" V02="2"/>
+	<Triangle1 V00="4" V01="5" V02="6"/>
+	<Triangle1 V00="7" V01="4" V02="6"/>
+	<Triangle1 V00="8" V01="9" V02="10"/>
+	<Triangle1 V00="9" V01="11" V02="10"/>
+	<Triangle1 V00="12" V01="13" V02="14"/>
+	<Triangle1 V00="15" V01="12" V02="14"/>
+	<LoadVertices Path="objects/object_gi_map/gHookshotPostDL_vtx_0" VertexBufferIndex="0" VertexOffset="136" Count="16"/>
+	<Triangle1 V00="0" V01="1" V02="2"/>
+	<Triangle1 V00="1" V01="3" V02="2"/>
+	<Triangle1 V00="4" V01="5" V02="6"/>
+	<Triangle1 V00="5" V01="7" V02="6"/>
+	<Triangle1 V00="8" V01="9" V02="10"/>
+	<Triangle1 V00="11" V01="8" V02="10"/>
+	<Triangle1 V00="12" V01="13" V02="14"/>
+	<Triangle1 V00="13" V01="15" V02="14"/>
+	<LoadVertices Path="objects/object_gi_map/gHookshotPostDL_vtx_0" VertexBufferIndex="0" VertexOffset="152" Count="16"/>
+	<Triangle1 V00="0" V01="1" V02="2"/>
+	<Triangle1 V00="1" V01="3" V02="2"/>
+	<Triangle1 V00="4" V01="5" V02="6"/>
+	<Triangle1 V00="5" V01="7" V02="6"/>
+	<Triangle1 V00="8" V01="9" V02="10"/>
+	<Triangle1 V00="9" V01="11" V02="10"/>
+	<Triangle1 V00="12" V01="13" V02="14"/>
+	<Triangle1 V00="13" V01="15" V02="14"/>
+	<LoadVertices Path="objects/object_gi_map/gHookshotPostDL_vtx_0" VertexBufferIndex="0" VertexOffset="168" Count="16"/>
+	<Triangle1 V00="0" V01="1" V02="2"/>
+	<Triangle1 V00="1" V01="3" V02="2"/>
+	<Triangle1 V00="4" V01="5" V02="6"/>
+	<Triangle1 V00="5" V01="7" V02="6"/>
+	<Triangle1 V00="8" V01="9" V02="10"/>
+	<Triangle1 V00="11" V01="8" V02="10"/>
+	<Triangle1 V00="12" V01="13" V02="14"/>
+	<Triangle1 V00="15" V01="12" V02="14"/>
+	<LoadVertices Path="objects/object_gi_map/gHookshotPostDL_vtx_0" VertexBufferIndex="0" VertexOffset="184" Count="16"/>
+	<Triangle1 V00="0" V01="1" V02="2"/>
+	<Triangle1 V00="1" V01="3" V02="2"/>
+	<Triangle1 V00="4" V01="5" V02="6"/>
+	<Triangle1 V00="5" V01="7" V02="6"/>
+	<Triangle1 V00="8" V01="9" V02="10"/>
+	<Triangle1 V00="9" V01="11" V02="10"/>
+	<Triangle1 V00="12" V01="13" V02="14"/>
+	<Triangle1 V00="13" V01="15" V02="14"/>
+	<LoadVertices Path="objects/object_gi_map/gHookshotPostDL_vtx_0" VertexBufferIndex="0" VertexOffset="200" Count="16"/>
+	<Triangle1 V00="0" V01="1" V02="2"/>
+	<Triangle1 V00="3" V01="0" V02="2"/>
+	<Triangle1 V00="4" V01="5" V02="6"/>
+	<Triangle1 V00="7" V01="4" V02="6"/>
+	<Triangle1 V00="8" V01="9" V02="10"/>
+	<Triangle1 V00="9" V01="11" V02="10"/>
+	<Triangle1 V00="12" V01="13" V02="14"/>
+	<Triangle1 V00="13" V01="15" V02="14"/>
+	<LoadVertices Path="objects/object_gi_map/gHookshotPostDL_vtx_0" VertexBufferIndex="0" VertexOffset="216" Count="16"/>
+	<Triangle1 V00="0" V01="1" V02="2"/>
+	<Triangle1 V00="1" V01="3" V02="2"/>
+	<Triangle1 V00="4" V01="5" V02="6"/>
+	<Triangle1 V00="5" V01="7" V02="6"/>
+	<Triangle1 V00="8" V01="9" V02="10"/>
+	<Triangle1 V00="11" V01="8" V02="10"/>
+	<Triangle1 V00="12" V01="13" V02="14"/>
+	<Triangle1 V00="15" V01="12" V02="14"/>
+	<LoadVertices Path="objects/object_gi_map/gHookshotPostDL_vtx_0" VertexBufferIndex="0" VertexOffset="232" Count="16"/>
+	<Triangle1 V00="0" V01="1" V02="2"/>
+	<Triangle1 V00="1" V01="3" V02="2"/>
+	<Triangle1 V00="4" V01="5" V02="6"/>
+	<Triangle1 V00="5" V01="7" V02="6"/>
+	<Triangle1 V00="8" V01="9" V02="10"/>
+	<Triangle1 V00="9" V01="11" V02="10"/>
+	<Triangle1 V00="12" V01="13" V02="14"/>
+	<Triangle1 V00="15" V01="12" V02="14"/>
+	<LoadVertices Path="objects/object_gi_map/gHookshotPostDL_vtx_0" VertexBufferIndex="0" VertexOffset="248" Count="16"/>
+	<Triangle1 V00="0" V01="1" V02="2"/>
+	<Triangle1 V00="3" V01="0" V02="2"/>
+	<Triangle1 V00="4" V01="5" V02="6"/>
+	<Triangle1 V00="5" V01="7" V02="6"/>
+	<Triangle1 V00="8" V01="9" V02="10"/>
+	<Triangle1 V00="9" V01="11" V02="10"/>
+	<Triangle1 V00="12" V01="13" V02="14"/>
+	<Triangle1 V00="13" V01="15" V02="14"/>
+	<LoadVertices Path="objects/object_gi_map/gHookshotPostDL_vtx_0" VertexBufferIndex="0" VertexOffset="264" Count="16"/>
+	<Triangle1 V00="0" V01="1" V02="2"/>
+	<Triangle1 V00="3" V01="0" V02="2"/>
+	<Triangle1 V00="4" V01="5" V02="6"/>
+	<Triangle1 V00="5" V01="7" V02="6"/>
+	<Triangle1 V00="8" V01="9" V02="10"/>
+	<Triangle1 V00="9" V01="11" V02="10"/>
+	<Triangle1 V00="12" V01="13" V02="14"/>
+	<Triangle1 V00="13" V01="15" V02="14"/>
+	<LoadVertices Path="objects/object_gi_map/gHookshotPostDL_vtx_0" VertexBufferIndex="0" VertexOffset="280" Count="16"/>
+	<Triangle1 V00="0" V01="1" V02="2"/>
+	<Triangle1 V00="1" V01="3" V02="2"/>
+	<Triangle1 V00="4" V01="5" V02="6"/>
+	<Triangle1 V00="7" V01="4" V02="6"/>
+	<Triangle1 V00="8" V01="9" V02="10"/>
+	<Triangle1 V00="11" V01="8" V02="10"/>
+	<Triangle1 V00="12" V01="13" V02="14"/>
+	<Triangle1 V00="13" V01="15" V02="14"/>
+	<LoadVertices Path="objects/object_gi_map/gHookshotPostDL_vtx_0" VertexBufferIndex="0" VertexOffset="296" Count="16"/>
+	<Triangle1 V00="0" V01="1" V02="2"/>
+	<Triangle1 V00="3" V01="0" V02="2"/>
+	<Triangle1 V00="4" V01="5" V02="6"/>
+	<Triangle1 V00="7" V01="4" V02="6"/>
+	<Triangle1 V00="8" V01="9" V02="10"/>
+	<Triangle1 V00="9" V01="11" V02="10"/>
+	<Triangle1 V00="12" V01="13" V02="14"/>
+	<Triangle1 V00="13" V01="15" V02="14"/>
+	<LoadVertices Path="objects/object_gi_map/gHookshotPostDL_vtx_0" VertexBufferIndex="0" VertexOffset="312" Count="16"/>
+	<Triangle1 V00="0" V01="1" V02="2"/>
+	<Triangle1 V00="1" V01="3" V02="2"/>
+	<Triangle1 V00="4" V01="5" V02="6"/>
+	<Triangle1 V00="5" V01="7" V02="6"/>
+	<Triangle1 V00="8" V01="9" V02="10"/>
+	<Triangle1 V00="9" V01="11" V02="10"/>
+	<Triangle1 V00="12" V01="13" V02="14"/>
+	<Triangle1 V00="13" V01="15" V02="14"/>
+	<LoadVertices Path="objects/object_gi_map/gHookshotPostDL_vtx_0" VertexBufferIndex="0" VertexOffset="328" Count="16"/>
+	<Triangle1 V00="0" V01="1" V02="2"/>
+	<Triangle1 V00="1" V01="3" V02="2"/>
+	<Triangle1 V00="4" V01="5" V02="6"/>
+	<Triangle1 V00="5" V01="7" V02="6"/>
+	<Triangle1 V00="8" V01="9" V02="10"/>
+	<Triangle1 V00="9" V01="11" V02="10"/>
+	<Triangle1 V00="12" V01="13" V02="14"/>
+	<Triangle1 V00="13" V01="15" V02="14"/>
+	<LoadVertices Path="objects/object_gi_map/gHookshotPostDL_vtx_0" VertexBufferIndex="0" VertexOffset="344" Count="16"/>
+	<Triangle1 V00="0" V01="1" V02="2"/>
+	<Triangle1 V00="1" V01="3" V02="2"/>
+	<Triangle1 V00="4" V01="5" V02="6"/>
+	<Triangle1 V00="5" V01="7" V02="6"/>
+	<Triangle1 V00="8" V01="9" V02="10"/>
+	<Triangle1 V00="9" V01="11" V02="10"/>
+	<Triangle1 V00="12" V01="13" V02="14"/>
+	<Triangle1 V00="13" V01="15" V02="14"/>
+	<LoadVertices Path="objects/object_gi_map/gHookshotPostDL_vtx_0" VertexBufferIndex="0" VertexOffset="360" Count="16"/>
+	<Triangle1 V00="0" V01="1" V02="2"/>
+	<Triangle1 V00="1" V01="3" V02="2"/>
+	<Triangle1 V00="4" V01="5" V02="6"/>
+	<Triangle1 V00="5" V01="7" V02="6"/>
+	<Triangle1 V00="8" V01="9" V02="10"/>
+	<Triangle1 V00="11" V01="8" V02="10"/>
+	<Triangle1 V00="12" V01="13" V02="14"/>
+	<Triangle1 V00="15" V01="12" V02="14"/>
+	<LoadVertices Path="objects/object_gi_map/gHookshotPostDL_vtx_0" VertexBufferIndex="0" VertexOffset="376" Count="16"/>
+	<Triangle1 V00="0" V01="1" V02="2"/>
+	<Triangle1 V00="3" V01="0" V02="2"/>
+	<Triangle1 V00="4" V01="5" V02="6"/>
+	<Triangle1 V00="7" V01="4" V02="6"/>
+	<Triangle1 V00="8" V01="9" V02="10"/>
+	<Triangle1 V00="11" V01="8" V02="10"/>
+	<Triangle1 V00="12" V01="13" V02="14"/>
+	<Triangle1 V00="15" V01="12" V02="14"/>
+	<LoadVertices Path="objects/object_gi_map/gHookshotPostDL_vtx_0" VertexBufferIndex="0" VertexOffset="392" Count="16"/>
+	<Triangle1 V00="0" V01="1" V02="2"/>
+	<Triangle1 V00="3" V01="0" V02="2"/>
+	<Triangle1 V00="4" V01="5" V02="6"/>
+	<Triangle1 V00="7" V01="4" V02="6"/>
+	<Triangle1 V00="8" V01="9" V02="10"/>
+	<Triangle1 V00="11" V01="8" V02="10"/>
+	<Triangle1 V00="12" V01="13" V02="14"/>
+	<Triangle1 V00="15" V01="12" V02="14"/>
+	<LoadVertices Path="objects/object_gi_map/gHookshotPostDL_vtx_0" VertexBufferIndex="0" VertexOffset="408" Count="16"/>
+	<Triangle1 V00="0" V01="1" V02="2"/>
+	<Triangle1 V00="3" V01="0" V02="2"/>
+	<Triangle1 V00="4" V01="5" V02="6"/>
+	<Triangle1 V00="7" V01="4" V02="6"/>
+	<Triangle1 V00="8" V01="9" V02="10"/>
+	<Triangle1 V00="11" V01="8" V02="10"/>
+	<Triangle1 V00="12" V01="13" V02="14"/>
+	<Triangle1 V00="13" V01="15" V02="14"/>
+	<LoadVertices Path="objects/object_gi_map/gHookshotPostDL_vtx_0" VertexBufferIndex="0" VertexOffset="424" Count="16"/>
+	<Triangle1 V00="0" V01="1" V02="2"/>
+	<Triangle1 V00="1" V01="3" V02="2"/>
+	<Triangle1 V00="4" V01="5" V02="6"/>
+	<Triangle1 V00="5" V01="7" V02="6"/>
+	<Triangle1 V00="8" V01="9" V02="10"/>
+	<Triangle1 V00="9" V01="11" V02="10"/>
+	<Triangle1 V00="12" V01="13" V02="14"/>
+	<Triangle1 V00="13" V01="15" V02="14"/>
+	<LoadVertices Path="objects/object_gi_map/gHookshotPostDL_vtx_0" VertexBufferIndex="0" VertexOffset="440" Count="16"/>
+	<Triangle1 V00="0" V01="1" V02="2"/>
+	<Triangle1 V00="1" V01="3" V02="2"/>
+	<Triangle1 V00="4" V01="5" V02="6"/>
+	<Triangle1 V00="5" V01="7" V02="6"/>
+	<Triangle1 V00="8" V01="9" V02="10"/>
+	<Triangle1 V00="9" V01="11" V02="10"/>
+	<Triangle1 V00="12" V01="13" V02="14"/>
+	<Triangle1 V00="13" V01="15" V02="14"/>
+	<LoadVertices Path="objects/object_gi_map/gHookshotPostDL_vtx_0" VertexBufferIndex="0" VertexOffset="456" Count="16"/>
+	<Triangle1 V00="0" V01="1" V02="2"/>
+	<Triangle1 V00="1" V01="3" V02="2"/>
+	<Triangle1 V00="4" V01="5" V02="6"/>
+	<Triangle1 V00="5" V01="7" V02="6"/>
+	<Triangle1 V00="8" V01="9" V02="10"/>
+	<Triangle1 V00="9" V01="11" V02="10"/>
+	<Triangle1 V00="12" V01="13" V02="14"/>
+	<Triangle1 V00="13" V01="15" V02="14"/>
+	<EndDisplayList/>
+</DisplayList>
+

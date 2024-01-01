@@ -1,0 +1,10 @@
+<DisplayList Version="0">
+	<CallDisplayList Path="objects/object_ru2/mat_gAdultRutoSkel_f3dlite_material_023_layerOpaque"/>
+	<CallDisplayList Path="objects/object_ru2/bone020_gAdultRutoHeadLimb_mesh_layer_Opaque_tri_0"/>
+	<CallDisplayList Path="objects/object_ru2/mat_gAdultRutoSkel_f3dlite_material_layerOpaque"/>
+	<CallDisplayList Path="objects/object_ru2/bone020_gAdultRutoHeadLimb_mesh_layer_Opaque_tri_1"/>
+	<CallDisplayList Path="objects/object_ru2/mat_gAdultRutoSkel_f3dlite_material_024_layerOpaque"/>
+	<CallDisplayList Path="objects/object_ru2/bone020_gAdultRutoHeadLimb_mesh_layer_Opaque_tri_2"/>
+	<EndDisplayList/>
+</DisplayList>
+

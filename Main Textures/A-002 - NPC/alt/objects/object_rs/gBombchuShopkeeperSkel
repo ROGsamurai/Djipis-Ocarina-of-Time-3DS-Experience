@@ -1,0 +1,10 @@
+<Skeleton Version="0" Type="Flex" LimbCount="8" DisplayListCount="8">
+	<SkeletonLimb Path="objects/object_rs/gBombchuShopkeeperSkelLimb_000"/>
+	<SkeletonLimb Path="objects/object_rs/gBombchuShopkeeperSkelLimb_001"/>
+	<SkeletonLimb Path="objects/object_rs/gBombchuShopkeeperSkelLimb_002"/>
+	<SkeletonLimb Path="objects/object_rs/gBombchuShopkeeperSkelLimb_003"/>
+	<SkeletonLimb Path="objects/object_rs/gBombchuShopkeeperSkelLimb_004"/>
+	<SkeletonLimb Path="objects/object_rs/gBombchuShopkeeperSkelLimb_005"/>
+	<SkeletonLimb Path="objects/object_rs/gBombchuShopkeeperSkelLimb_006"/>
+	<SkeletonLimb Path="objects/object_rs/gBombchuShopkeeperSkelLimb_007"/>
+</Skeleton>

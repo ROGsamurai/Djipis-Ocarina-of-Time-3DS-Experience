@@ -1,0 +1,6 @@
+<DisplayList Version="0">
+	<CallDisplayList Path="objects/object_ru2/mat_gAdultRutoSkel_f3dlite_material_024_layerOpaque"/>
+	<CallDisplayList Path="objects/object_ru2/bone021_gAdultRutoWaistLimb_mesh_layer_Opaque_tri_0"/>
+	<EndDisplayList/>
+</DisplayList>
+

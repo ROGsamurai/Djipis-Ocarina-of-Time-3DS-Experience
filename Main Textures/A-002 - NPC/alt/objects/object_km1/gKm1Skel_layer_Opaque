@@ -1,0 +1,6 @@
+<DisplayList Version="0">
+	<CallDisplayList Path="objects/object_km1/mat_gKm1Skel_KokiriBoyBody_layerOpaque"/>
+	<CallDisplayList Path="objects/object_km1/gKm1Skel_layer_Opaque_tri_0"/>
+	<EndDisplayList/>
+</DisplayList>
+

@@ -1,0 +1,22 @@
+<Skeleton Version="0" Type="Flex" LimbCount="20" DisplayListCount="20">
+	<SkeletonLimb Path="objects/object_mu/gDancingCoupleSkelLimb_000"/>
+	<SkeletonLimb Path="objects/object_mu/gDancingCoupleSkelLimb_001"/>
+	<SkeletonLimb Path="objects/object_mu/gDancingCoupleSkelLimb_002"/>
+	<SkeletonLimb Path="objects/object_mu/gDancingCoupleSkelLimb_003"/>
+	<SkeletonLimb Path="objects/object_mu/gDancingCoupleSkelLimb_004"/>
+	<SkeletonLimb Path="objects/object_mu/gDancingCoupleSkelLimb_005"/>
+	<SkeletonLimb Path="objects/object_mu/gDancingCoupleSkelLimb_006"/>
+	<SkeletonLimb Path="objects/object_mu/gDancingCoupleSkelLimb_007"/>
+	<SkeletonLimb Path="objects/object_mu/gDancingCoupleSkelLimb_008"/>
+	<SkeletonLimb Path="objects/object_mu/gDancingCoupleSkelLimb_009"/>
+	<SkeletonLimb Path="objects/object_mu/gDancingCoupleSkelLimb_010"/>
+	<SkeletonLimb Path="objects/object_mu/gDancingCoupleSkelLimb_011"/>
+	<SkeletonLimb Path="objects/object_mu/gDancingCoupleSkelLimb_012"/>
+	<SkeletonLimb Path="objects/object_mu/gDancingCoupleSkelLimb_013"/>
+	<SkeletonLimb Path="objects/object_mu/gDancingCoupleSkelLimb_014"/>
+	<SkeletonLimb Path="objects/object_mu/gDancingCoupleSkelLimb_015"/>
+	<SkeletonLimb Path="objects/object_mu/gDancingCoupleSkelLimb_016"/>
+	<SkeletonLimb Path="objects/object_mu/gDancingCoupleSkelLimb_017"/>
+	<SkeletonLimb Path="objects/object_mu/gDancingCoupleSkelLimb_018"/>
+	<SkeletonLimb Path="objects/object_mu/gDancingCoupleSkelLimb_019"/>
+</Skeleton>

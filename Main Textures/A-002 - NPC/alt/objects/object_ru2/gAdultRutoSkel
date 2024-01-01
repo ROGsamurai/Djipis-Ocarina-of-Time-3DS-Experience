@@ -1,0 +1,24 @@
+<Skeleton Version="0" Type="Flex" LimbCount="22" DisplayListCount="22">
+	<SkeletonLimb Path="objects/object_ru2/gAdultRutoSkelLimb_000"/>
+	<SkeletonLimb Path="objects/object_ru2/gAdultRutoSkelLimb_001"/>
+	<SkeletonLimb Path="objects/object_ru2/gAdultRutoSkelLimb_002"/>
+	<SkeletonLimb Path="objects/object_ru2/gAdultRutoSkelLimb_003"/>
+	<SkeletonLimb Path="objects/object_ru2/gAdultRutoSkelLimb_004"/>
+	<SkeletonLimb Path="objects/object_ru2/gAdultRutoSkelLimb_005"/>
+	<SkeletonLimb Path="objects/object_ru2/gAdultRutoSkelLimb_006"/>
+	<SkeletonLimb Path="objects/object_ru2/gAdultRutoSkelLimb_007"/>
+	<SkeletonLimb Path="objects/object_ru2/gAdultRutoSkelLimb_008"/>
+	<SkeletonLimb Path="objects/object_ru2/gAdultRutoSkelLimb_009"/>
+	<SkeletonLimb Path="objects/object_ru2/gAdultRutoSkelLimb_010"/>
+	<SkeletonLimb Path="objects/object_ru2/gAdultRutoSkelLimb_011"/>
+	<SkeletonLimb Path="objects/object_ru2/gAdultRutoSkelLimb_012"/>
+	<SkeletonLimb Path="objects/object_ru2/gAdultRutoSkelLimb_013"/>
+	<SkeletonLimb Path="objects/object_ru2/gAdultRutoSkelLimb_014"/>
+	<SkeletonLimb Path="objects/object_ru2/gAdultRutoSkelLimb_015"/>
+	<SkeletonLimb Path="objects/object_ru2/gAdultRutoSkelLimb_016"/>
+	<SkeletonLimb Path="objects/object_ru2/gAdultRutoSkelLimb_017"/>
+	<SkeletonLimb Path="objects/object_ru2/gAdultRutoSkelLimb_018"/>
+	<SkeletonLimb Path="objects/object_ru2/gAdultRutoSkelLimb_019"/>
+	<SkeletonLimb Path="objects/object_ru2/gAdultRutoSkelLimb_020"/>
+	<SkeletonLimb Path="objects/object_ru2/gAdultRutoSkelLimb_021"/>
+</Skeleton>

@@ -1,0 +1,15 @@
+<DisplayList Version="0">
+	<LoadVertices Path="objects/object_cob/bone008_object_cob_Limb_002168_mesh_layer_Opaque_vtx_0" VertexBufferIndex="0" VertexOffset="0" Count="8"/>
+	<Matrix Path=">0x0d0001c0" Param="G_MTX_LOAD"/>
+	<LoadVertices Path="objects/object_cob/bone008_object_cob_Limb_002168_mesh_layer_Opaque_vtx_0" VertexBufferIndex="8" VertexOffset="8" Count="4"/>
+	<Triangles2 V00="8" V01="9" V02="0" Flag0="0" V10="1" V11="0" V12="9" Flag1="0"/>
+	<Triangles2 V00="1" V01="9" V02="10" Flag0="0" V10="10" V11="2" V12="1" Flag1="0"/>
+	<Triangles2 V00="10" V01="11" V02="2" Flag0="0" V10="3" V11="2" V12="11" Flag1="0"/>
+	<Triangles2 V00="11" V01="8" V02="3" Flag0="0" V10="3" V11="8" V12="0" Flag1="0"/>
+	<Triangles2 V00="4" V01="3" V02="0" Flag0="0" V10="0" V11="5" V12="4" Flag1="0"/>
+	<Triangles2 V00="6" V01="5" V02="0" Flag0="0" V10="0" V11="1" V12="6" Flag1="0"/>
+	<Triangles2 V00="2" V01="6" V02="1" Flag0="0" V10="2" V11="7" V12="6" Flag1="0"/>
+	<Triangles2 V00="4" V01="7" V02="2" Flag0="0" V10="4" V11="2" V12="3" Flag1="0"/>
+	<EndDisplayList/>
+</DisplayList>
+

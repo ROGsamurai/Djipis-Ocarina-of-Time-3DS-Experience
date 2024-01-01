@@ -1,0 +1,8 @@
+<DisplayList Version="0">
+	<CallDisplayList Path="objects/object_ganon/mat_gGanondorfSkel_GanondorfAdultBocyCut_layerOpaque"/>
+	<CallDisplayList Path="objects/object_ganon/bone008_gGanondorfRightForearmLimb_mesh_layer_Opaque_tri_0"/>
+	<CallDisplayList Path="objects/object_ganon/mat_gGanondorfSkel_GanondorfAdultBody_layerOpaque"/>
+	<CallDisplayList Path="objects/object_ganon/bone008_gGanondorfRightForearmLimb_mesh_layer_Opaque_tri_1"/>
+	<EndDisplayList/>
+</DisplayList>
+

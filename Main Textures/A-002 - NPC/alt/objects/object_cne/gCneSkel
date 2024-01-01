@@ -1,0 +1,17 @@
+<Skeleton Version="0" Type="Flex" LimbCount="15" DisplayListCount="15">
+	<SkeletonLimb Path="objects/object_cne/gCneSkelLimb_000"/>
+	<SkeletonLimb Path="objects/object_cne/gCneSkelLimb_001"/>
+	<SkeletonLimb Path="objects/object_cne/gCneSkelLimb_002"/>
+	<SkeletonLimb Path="objects/object_cne/gCneSkelLimb_003"/>
+	<SkeletonLimb Path="objects/object_cne/gCneSkelLimb_004"/>
+	<SkeletonLimb Path="objects/object_cne/gCneSkelLimb_005"/>
+	<SkeletonLimb Path="objects/object_cne/gCneSkelLimb_006"/>
+	<SkeletonLimb Path="objects/object_cne/gCneSkelLimb_007"/>
+	<SkeletonLimb Path="objects/object_cne/gCneSkelLimb_008"/>
+	<SkeletonLimb Path="objects/object_cne/gCneSkelLimb_009"/>
+	<SkeletonLimb Path="objects/object_cne/gCneSkelLimb_010"/>
+	<SkeletonLimb Path="objects/object_cne/gCneSkelLimb_011"/>
+	<SkeletonLimb Path="objects/object_cne/gCneSkelLimb_012"/>
+	<SkeletonLimb Path="objects/object_cne/gCneSkelLimb_013"/>
+	<SkeletonLimb Path="objects/object_cne/gCneSkelLimb_014"/>
+</Skeleton>

@@ -1,0 +1,16 @@
+<DisplayList Version="0">
+	<LoadVertices Path="objects/object_gr/bone011_gNiwGirlSkelLimbsLimb_0098CC_mesh_layer_Opaque_vtx_0" VertexBufferIndex="0" VertexOffset="0" Count="9"/>
+	<Matrix Path=">0x0d000240" Param="G_MTX_LOAD"/>
+	<LoadVertices Path="objects/object_gr/bone011_gNiwGirlSkelLimbsLimb_0098CC_mesh_layer_Opaque_vtx_0" VertexBufferIndex="9" VertexOffset="9" Count="4"/>
+	<Triangles2 V00="0" V01="1" V02="2" Flag0="0" V10="3" V11="2" V12="1" Flag1="0"/>
+	<Triangles2 V00="1" V01="4" V02="3" Flag0="0" V10="3" V11="4" V12="5" Flag1="0"/>
+	<Triangles2 V00="5" V01="4" V02="6" Flag0="0" V10="5" V11="6" V12="7" Flag1="0"/>
+	<Triangles2 V00="7" V01="6" V02="0" Flag0="0" V10="2" V11="7" V12="0" Flag1="0"/>
+	<Triangles2 V00="9" V01="7" V02="2" Flag0="0" V10="2" V11="10" V12="9" Flag1="0"/>
+	<Triangles2 V00="11" V01="10" V02="2" Flag0="0" V10="2" V11="3" V12="11" Flag1="0"/>
+	<Triangles2 V00="3" V01="8" V02="11" Flag0="0" V10="5" V11="8" V12="3" Flag1="0"/>
+	<Triangles2 V00="7" V01="8" V02="5" Flag0="0" V10="7" V11="9" V12="8" Flag1="0"/>
+	<Triangles2 V00="8" V01="9" V02="12" Flag0="0" V10="11" V11="8" V12="12" Flag1="0"/>
+	<EndDisplayList/>
+</DisplayList>
+

@@ -1,0 +1,13 @@
+<DisplayList Version="0">
+	<LoadVertices Path="objects/object_zl1/bone016_gChildZelda1HeadLimb_mesh_layer_Opaque_vtx_3" VertexBufferIndex="0" VertexOffset="0" Count="6"/>
+	<Matrix Path=">0x0d000180" Param="G_MTX_LOAD"/>
+	<LoadVertices Path="objects/object_zl1/bone016_gChildZelda1HeadLimb_mesh_layer_Opaque_vtx_3" VertexBufferIndex="6" VertexOffset="6" Count="6"/>
+	<Triangles2 V00="6" V01="7" V02="0" Flag0="0" V10="0" V11="7" V12="1" Flag1="0"/>
+	<Triangles2 V00="7" V01="2" V02="1" Flag0="0" V10="8" V11="2" V12="7" Flag1="0"/>
+	<Triangles2 V00="8" V01="9" V02="2" Flag0="0" V10="9" V11="3" V12="2" Flag1="0"/>
+	<Triangles2 V00="4" V01="3" V02="9" Flag0="0" V10="10" V11="4" V12="9" Flag1="0"/>
+	<Triangles2 V00="4" V01="10" V02="5" Flag0="0" V10="10" V11="11" V12="5" Flag1="0"/>
+	<Triangles2 V00="6" V01="5" V02="11" Flag0="0" V10="0" V11="5" V12="6" Flag1="0"/>
+	<EndDisplayList/>
+</DisplayList>
+

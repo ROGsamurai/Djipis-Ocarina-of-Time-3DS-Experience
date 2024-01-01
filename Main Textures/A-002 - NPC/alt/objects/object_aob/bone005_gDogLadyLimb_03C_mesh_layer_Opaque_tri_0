@@ -1,0 +1,15 @@
+<DisplayList Version="0">
+	<LoadVertices Path="objects/object_aob/bone005_gDogLadyLimb_03C_mesh_layer_Opaque_vtx_0" VertexBufferIndex="0" VertexOffset="0" Count="3"/>
+	<Matrix Path=">0x0d000080" Param="G_MTX_LOAD"/>
+	<LoadVertices Path="objects/object_aob/bone005_gDogLadyLimb_03C_mesh_layer_Opaque_vtx_0" VertexBufferIndex="3" VertexOffset="3" Count="2"/>
+	<Matrix Path=">0x0d000100" Param="G_MTX_LOAD"/>
+	<LoadVertices Path="objects/object_aob/bone005_gDogLadyLimb_03C_mesh_layer_Opaque_vtx_0" VertexBufferIndex="5" VertexOffset="5" Count="2"/>
+	<Matrix Path=">0x0d0000c0" Param="G_MTX_LOAD"/>
+	<LoadVertices Path="objects/object_aob/bone005_gDogLadyLimb_03C_mesh_layer_Opaque_vtx_0" VertexBufferIndex="7" VertexOffset="7" Count="1"/>
+	<Matrix Path=">0x0d000040" Param="G_MTX_LOAD"/>
+	<LoadVertices Path="objects/object_aob/bone005_gDogLadyLimb_03C_mesh_layer_Opaque_vtx_0" VertexBufferIndex="8" VertexOffset="8" Count="1"/>
+	<Triangles2 V00="3" V01="5" V02="0" Flag0="0" V10="1" V11="6" V12="7" Flag1="0"/>
+	<Triangle1 V00="8" V01="4" V02="2"/>
+	<EndDisplayList/>
+</DisplayList>
+

@@ -1,0 +1,6 @@
+<DisplayList Version="0">
+	<CallDisplayList Path="objects/object_ma2/mat_gMalonAdultSkel_f3dlite_material_1575_layerOpaque"/>
+	<CallDisplayList Path="objects/object_ma2/bone004_gMalonAdultLeftFootLimb_mesh_layer_Opaque_tri_0"/>
+	<EndDisplayList/>
+</DisplayList>
+

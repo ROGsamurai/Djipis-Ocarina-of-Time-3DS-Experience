@@ -1,0 +1,17 @@
+<Skeleton Version="0" Type="Flex" LimbCount="15" DisplayListCount="15">
+	<SkeletonLimb Path="objects/object_aob/gDogLadySkelLimb_000"/>
+	<SkeletonLimb Path="objects/object_aob/gDogLadySkelLimb_001"/>
+	<SkeletonLimb Path="objects/object_aob/gDogLadySkelLimb_002"/>
+	<SkeletonLimb Path="objects/object_aob/gDogLadySkelLimb_003"/>
+	<SkeletonLimb Path="objects/object_aob/gDogLadySkelLimb_004"/>
+	<SkeletonLimb Path="objects/object_aob/gDogLadySkelLimb_005"/>
+	<SkeletonLimb Path="objects/object_aob/gDogLadySkelLimb_006"/>
+	<SkeletonLimb Path="objects/object_aob/gDogLadySkelLimb_007"/>
+	<SkeletonLimb Path="objects/object_aob/gDogLadySkelLimb_008"/>
+	<SkeletonLimb Path="objects/object_aob/gDogLadySkelLimb_009"/>
+	<SkeletonLimb Path="objects/object_aob/gDogLadySkelLimb_010"/>
+	<SkeletonLimb Path="objects/object_aob/gDogLadySkelLimb_011"/>
+	<SkeletonLimb Path="objects/object_aob/gDogLadySkelLimb_012"/>
+	<SkeletonLimb Path="objects/object_aob/gDogLadySkelLimb_013"/>
+	<SkeletonLimb Path="objects/object_aob/gDogLadySkelLimb_014"/>
+</Skeleton>

@@ -1,0 +1,6 @@
+<DisplayList Version="0">
+	<CallDisplayList Path="objects/gameplay_keep/mat_gFishSkel_FishBody_layerOpaque"/>
+	<CallDisplayList Path="objects/gameplay_keep/gFishSkel_layer_Opaque_tri_0"/>
+	<EndDisplayList/>
+</DisplayList>
+

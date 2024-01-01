@@ -1,0 +1,20 @@
+<Skeleton Version="0" Type="Flex" LimbCount="18" DisplayListCount="18">
+	<SkeletonLimb Path="objects/object_ma1/gMalonChildSkelLimb_000"/>
+	<SkeletonLimb Path="objects/object_ma1/gMalonChildSkelLimb_001"/>
+	<SkeletonLimb Path="objects/object_ma1/gMalonChildSkelLimb_002"/>
+	<SkeletonLimb Path="objects/object_ma1/gMalonChildSkelLimb_003"/>
+	<SkeletonLimb Path="objects/object_ma1/gMalonChildSkelLimb_004"/>
+	<SkeletonLimb Path="objects/object_ma1/gMalonChildSkelLimb_005"/>
+	<SkeletonLimb Path="objects/object_ma1/gMalonChildSkelLimb_006"/>
+	<SkeletonLimb Path="objects/object_ma1/gMalonChildSkelLimb_007"/>
+	<SkeletonLimb Path="objects/object_ma1/gMalonChildSkelLimb_008"/>
+	<SkeletonLimb Path="objects/object_ma1/gMalonChildSkelLimb_009"/>
+	<SkeletonLimb Path="objects/object_ma1/gMalonChildSkelLimb_010"/>
+	<SkeletonLimb Path="objects/object_ma1/gMalonChildSkelLimb_011"/>
+	<SkeletonLimb Path="objects/object_ma1/gMalonChildSkelLimb_012"/>
+	<SkeletonLimb Path="objects/object_ma1/gMalonChildSkelLimb_013"/>
+	<SkeletonLimb Path="objects/object_ma1/gMalonChildSkelLimb_014"/>
+	<SkeletonLimb Path="objects/object_ma1/gMalonChildSkelLimb_015"/>
+	<SkeletonLimb Path="objects/object_ma1/gMalonChildSkelLimb_016"/>
+	<SkeletonLimb Path="objects/object_ma1/gMalonChildSkelLimb_017"/>
+</Skeleton>

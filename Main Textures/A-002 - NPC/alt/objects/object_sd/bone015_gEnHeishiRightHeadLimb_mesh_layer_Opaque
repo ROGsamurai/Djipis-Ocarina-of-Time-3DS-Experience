@@ -1,0 +1,6 @@
+<DisplayList Version="0">
+	<CallDisplayList Path="objects/object_sd/mat_gEnHeishiSkel_f3dlite_material_028_layerOpaque"/>
+	<CallDisplayList Path="objects/object_sd/bone015_gEnHeishiRightHeadLimb_mesh_layer_Opaque_tri_0"/>
+	<EndDisplayList/>
+</DisplayList>
+

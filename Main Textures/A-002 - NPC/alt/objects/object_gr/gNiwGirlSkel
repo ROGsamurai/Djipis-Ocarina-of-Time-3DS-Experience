@@ -1,0 +1,18 @@
+<Skeleton Version="0" Type="Flex" LimbCount="16" DisplayListCount="16">
+	<SkeletonLimb Path="objects/object_gr/gNiwGirlSkelLimb_000"/>
+	<SkeletonLimb Path="objects/object_gr/gNiwGirlSkelLimb_001"/>
+	<SkeletonLimb Path="objects/object_gr/gNiwGirlSkelLimb_002"/>
+	<SkeletonLimb Path="objects/object_gr/gNiwGirlSkelLimb_003"/>
+	<SkeletonLimb Path="objects/object_gr/gNiwGirlSkelLimb_004"/>
+	<SkeletonLimb Path="objects/object_gr/gNiwGirlSkelLimb_005"/>
+	<SkeletonLimb Path="objects/object_gr/gNiwGirlSkelLimb_006"/>
+	<SkeletonLimb Path="objects/object_gr/gNiwGirlSkelLimb_007"/>
+	<SkeletonLimb Path="objects/object_gr/gNiwGirlSkelLimb_008"/>
+	<SkeletonLimb Path="objects/object_gr/gNiwGirlSkelLimb_009"/>
+	<SkeletonLimb Path="objects/object_gr/gNiwGirlSkelLimb_010"/>
+	<SkeletonLimb Path="objects/object_gr/gNiwGirlSkelLimb_011"/>
+	<SkeletonLimb Path="objects/object_gr/gNiwGirlSkelLimb_012"/>
+	<SkeletonLimb Path="objects/object_gr/gNiwGirlSkelLimb_013"/>
+	<SkeletonLimb Path="objects/object_gr/gNiwGirlSkelLimb_014"/>
+	<SkeletonLimb Path="objects/object_gr/gNiwGirlSkelLimb_015"/>
+</Skeleton>
